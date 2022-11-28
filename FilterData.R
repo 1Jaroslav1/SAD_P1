@@ -1,4 +1,5 @@
 eu_inflation = read.csv("./EU_Inflation_HICP_data.csv")
+eu_inflation["Period.Unit"] = anytime::anydate(paste(eu_inflation[,"Period.Unit"], 1))
 eu_zone_countries = c("Period.Unit", "Austria","Belgium","Cyprus","Estonia","Finland","France","Germany","Greece","Ireland","Italy","Latvia","Lithuania","Luxembourg","Malta","Netherlands","Portugal","Slovakia","Slovenia","Spain")
 not_eu_zone_countries = colnames(eu_inflation)[!(colnames(eu_inflation) %in% eu_zone_countries) & colnames(eu_inflation) != "EU..changingcomposition."]
 not_eu_zone_countries = c(c("Period.Unit"), not_eu_zone_countries)
