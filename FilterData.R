@@ -18,3 +18,11 @@ eu_countries_NOT_in_zone_inflation = filter(eu_inflation_tidy, Country %in% not_
 pl_inflation = filter(eu_inflation_tidy, Country == "Poland")
 eu_changingcomposition_inflation = filter(eu_inflation_tidy, Country == "EU")
 
+# ------ Periods ------
+
+pandemic_start = as.Date("2020/01/09")
+pandemic_year = as.Date("2021/01/09")
+war_start = as.Date("2022/02/24")
+now = Sys.Date()
+
+
