@@ -61,9 +61,9 @@ general_tidy_DF = pivot_longer(general_DF, -Date, names_to = "Country", values_t
 
 # ------ Periods ------
 
-pandemic_start = as.Date("2020/01/09")
-pandemic_year = as.Date("2021/01/09")
-war_start = as.Date("2022/02/24")
-now = Sys.Date()
+pandemic_start = "2020-01-09"
+during_pandemic = "2021-01-09"
+war_start = "2022-02-24"
+now = "2022-11-24"
 
 
