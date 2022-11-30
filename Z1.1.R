@@ -64,5 +64,5 @@ filterDataByCountry = function(data, countryName) {
 # --------- Tests -----------
 
 drawData(filterDataByTime(getDataFrameByCountry(eu_inflation_tidy, "Poland"), c("2010-01-12", "2020-01-12")), "Green", "#E14D2A")
-drawSeveralData(filterDataByTime(getDataFrame(eu_countries_NOT_in_zone_inflation), c("2010-01-12", "2020-01-12")))
-drawStackingData(filterDataByTime(getDataFrame(eu_countries_NOT_in_zone_inflation), c("2010-01-12", "2020-01-12")))
+drawSeveralData(filterDataByTime(getDataFrame(eu_countries_NOT_in_zone_inflation_tidy), c("2010-01-12", "2020-01-12")))
+drawStackingData(filterDataByTime(getDataFrame(eu_countries_NOT_in_zone_inflation_tidy), c("2010-01-12", "2020-01-12")))
