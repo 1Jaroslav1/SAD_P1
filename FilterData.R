@@ -24,9 +24,6 @@ eu_countries_NOT_in_zone_inflation = eu_inflation[not_eu_zone_countries]
 pl_inflation = eu_inflation[c("Date", "Poland")]
 eu_changingcomposition_inflation = eu_inflation[c("Date", "EU")]
 
-mean_eu_countries_in_zone_inflation = rowMeans(eu_countries_in_zone_inflation[2:20])
-mean_eu_countries_NOT_in_zone_inflation = rowMeans(eu_countries_NOT_in_zone_inflation[2:10])
-
 eu_inflaction_DF = data.frame(
   eu_inflation[1],
   Inflation = rowMeans(eu_inflation[2:29])
@@ -44,8 +41,23 @@ eu_countries_NOT_in_zone_inflation_DF = data.frame(
 
 pl_inflation_DF = data.frame(
   eu_inflation[1],
-  Inflation= rowMeans(pl_inflation[2])
+  Inflation = rowMeans(pl_inflation[2])
 )
+
+general_DF = data.frame(
+  eu_inflation[1],
+  "Europe" = eu_inflaction_DF[2],
+  "Eu_countries" = eu_countries_in_zone_inflation_DF[2],
+  "Other_countries" = eu_countries_NOT_in_zone_inflation_DF[2],
+  "Poland" = pl_inflation_DF[2]
+)
+
+colnames(general_DF)[2] = "Europe"
+colnames(general_DF)[3] = "EU countries"
+colnames(general_DF)[4] = "Other countries"
+colnames(general_DF)[5] = "Poland"
+
+general_tidy_DF = pivot_longer(general_DF, -Date, names_to = "Country", values_to = "Inflation")
 
 # ------ Periods ------
 

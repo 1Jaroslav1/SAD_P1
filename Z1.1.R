@@ -28,27 +28,33 @@ getDataFrameByCountry = function(data, countryName) {
 
 # --------- Draw Frame -----------
 
-drawData = function(dataFrame, lineColor, pointColor){
+drawData = function(dataFrame, lineColor, pointColor, title){
   ggplot(dataFrame, aes(x=Date, y=Inflation)) +
     geom_line(aes(color=Country), size=1) +
     geom_point(shape=21, color=pointColor, fill=pointColor, size=1.5) +
     scale_x_date(date_labels = "%Y-%m", date_minor_breaks = "1 month") +
-    scale_color_manual(values=lineColor)
+    scale_color_manual(values=lineColor) +
+    xlab("Date") +
+    ylab("Inflation") +
+    ggtitle(title)
 }
 
-drawSeveralData = function(dataFrame) {
+drawSeveralData = function(dataFrame, title) {
   ggplot(dataFrame, aes(x=Date, y=Inflation, fill=Country)) +
-    geom_area()
+    geom_area() +
+    xlab("Date") +
+    ylab("Inflation") +
+    ggtitle(title)
 }
 
-drawStackingData = function(dataFrame) {
-  ggplot(dataFrame, aes(x=Date, y=Inflation, group=Country, color=Country)) +
-    geom_line() +
-    scale_color_viridis(discrete = TRUE) +
-    facet_grid() +
-    theme(legend.position="none") +
-    ggtitle("Inflation") +
-    theme_ipsum()
+drawStackingData = function(dataFrame, title) {
+  dataFrame |>
+    ggplot(aes(x=Date, y=Inflation, group=Country, color=Country)) +
+    geom_line(size=1.5) +
+    guides(fill=guide_legend(title=NULL)) +
+    xlab("Date") +
+    ylab("Inflation") +
+    ggtitle(title)
 }
 
 # --------- Filters -----------
@@ -63,6 +69,7 @@ filterDataByCountry = function(data, countryName) {
 
 # --------- Tests -----------
 
-drawData(filterDataByTime(getDataFrameByCountry(eu_inflation_tidy, "Poland"), c("2010-01-12", "2020-01-12")), "Green", "#E14D2A")
-drawSeveralData(filterDataByTime(getDataFrame(eu_countries_NOT_in_zone_inflation_tidy), c("2010-01-12", "2020-01-12")))
-drawStackingData(filterDataByTime(getDataFrame(eu_countries_NOT_in_zone_inflation_tidy), c("2010-01-12", "2020-01-12")))
+drawData(filterDataByTime(getDataFrameByCountry(eu_inflation_tidy, "Poland"), c("2010-01-12", "2020-01-12")), "Green", "#E14D2A", "Plot")
+drawSeveralData(filterDataByTime(getDataFrame(eu_countries_NOT_in_zone_inflation_tidy), c("2010-01-12", "2020-01-12")), "Plot")
+drawStackingData(filterDataByTime(general_tidy_DF, c("2010-01-12", "2020-01-12")), "Plot")
+drawStackingData(filterDataByTime(getDataFrame(eu_inflation_tidy), c("2010-01-12", "2020-01-12")), "Plot")
