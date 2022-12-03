@@ -38,7 +38,10 @@ drawData = function(dataFrame, lineColor, pointColor, title){
     scale_color_manual(values=lineColor) +
     xlab("Date") +
     ylab("Inflation") +
-    ggtitle(title)
+    ggtitle(title) +
+    theme(
+      plot.title = element_text(size=18)
+    )
 }
 
 drawSeveralData = function(dataFrame, title) {
@@ -47,35 +50,45 @@ drawSeveralData = function(dataFrame, title) {
     scale_x_date(date_labels = "%Y-%m", date_minor_breaks = "1 month") +
     xlab("Date") +
     ylab("Inflation") +
-    ggtitle(title)
+    ggtitle(title) +
+    theme(
+      plot.title = element_text(size=18)
+    )
 }
 
 drawStackingData = function(dataFrame, title) {
     ggplot(dataFrame, aes(x=Date, y=Inflation, group=Country, color=Country)) +
+      scale_color_viridis(discrete = TRUE) +
       geom_line(aes(color=Country), size=1.5) +
-      geom_point(shape=21, color="red", fill="red", size=1.5) +
+      geom_point(shape=21, color="black", fill="black", size=1.5) +
       scale_x_date(date_labels = "%Y-%m", date_minor_breaks = "1 month") +
       guides(fill=guide_legend(title=NULL)) +
       xlab("Date") +
       ylab("Inflation") +
-      ggtitle(title)
+      ggtitle(title) +
+      theme(
+        plot.title = element_text(size=18)
+      )
 }
 
-drawBoxplot = function(dataFrame, title) {
+drawBoxPlot = function(dataFrame, title) {
   ggplot(dataFrame, aes(x=Country, y=Inflation, fill=Country)) +
     geom_boxplot() +
     scale_fill_viridis(discrete = TRUE, alpha=0.7) +
     geom_jitter(color="black", size=0.4, alpha=0.9) +
-    theme(legend.position="none", plot.title = element_text(size=11)) +
     xlab("Country") +
     ylab("Inflation") +
-    ggtitle(title)
+    ggtitle(title) +
+    theme(
+      legend.position="none",
+      plot.title = element_text(size=18)
+    )
 }
 
 # --------- Filters -----------
 
 filterDataByTime = function(data, period) {
-  return(data[(data$Date > period[1] & data$Date < period[2]), ])
+  return(data[(data$Date >= period[1] & data$Date <= period[2]), ])
 }
 
 filterDataByCountry = function(data, countryName) {
@@ -99,5 +112,5 @@ columnAnalyze = function(data, columnName) {
 # drawData(filterDataByTime(getDataFrameByCountry(eu_inflation_tidy, "Poland"), c("2010-01-12", "2020-01-12")), "Green", "#E14D2A", "Plot")
 # drawSeveralData(filterDataByTime(getDataFrame(eu_countries_NOT_in_zone_inflation_tidy), c("2010-01-12", "2020-01-12")), "Plot")
 # drawStackingData(filterDataByTime(general_tidy_DF, c("2010-01-12", "2020-01-12")), "Plot")
-# drawStackingData(filterDataByTime(getDataFrame(eu_inflation_tidy), c("2010-01-12", "2020-01-12")), "Plot")
-drawBoxplot(filterDataByTime(getDataFrame(eu_inflation_tidy), c("2010-01-12", "2020-01-12")), "Plot")
+# drawStackingData(filterDataByTime(getDataFrame(general_tidy_DF), c("2010-01-12", "2020-01-12")), "Plot")
+# drawBoxplot(filterDataByTime(getDataFrame(eu_inflation_tidy), c("2010-01-12", "2020-01-12")), "Plot")
