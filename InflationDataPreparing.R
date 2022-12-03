@@ -1,4 +1,5 @@
-eu_inflation = read.csv("./EU_Inflation_HICP_data.csv")
+library(anytime)
+eu_inflation = read.csv("data/EU_Inflation_HICP_data.csv")
 
 # Change columns name
 
@@ -53,7 +54,7 @@ pl_inflation_DF = data.frame(
 
 general_inflation_DF = data.frame(
   eu_inflation[1],
-  "Europe" = eu_inflaction_DF[2],
+  "Europe" = eu_inflation_DF[2],
   "Eu_countries" = eu_countries_in_zone_inflation_DF[2],
   "Other_countries" = eu_countries_NOT_in_zone_inflation_DF[2],
   "Poland" = pl_inflation_DF[2]
