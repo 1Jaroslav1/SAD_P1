@@ -11,9 +11,9 @@ generalAnalyzeAndPloting = function(data, title) {
 
 # From 2017/01/01 to 2020/01/09 - before pandemic
 data_before_pandemic = filterDataByTime(general_inflation_tidy_DF, c("2017-01-01", pandemic_start))
-drawStackingData(data_before_pandemic, "Poziom inflacji przed pamdemią")
-drawBoxPlot(data_before_pandemic, "Poziom inflacji przed pamdemią")
-generalAnalyzeAndPloting(data_before_pandemic, "Poziom inflacji przed pamdemią")
+drawStackingData(data_before_pandemic, "Poziom inflacji przed pandemią")
+drawBoxPlot(data_before_pandemic, "Poziom inflacji przed pandemią")
+generalAnalyzeAndPloting(data_before_pandemic, "Poziom inflacji przed pandemią")
 
 # during pandemic
 data_during_pandemic = filterDataByTime(general_inflation_tidy_DF, c(pandemic_start, during_pandemic))

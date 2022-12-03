@@ -71,6 +71,19 @@ drawStackingData = function(dataFrame, title) {
       )
 }
 
+drawMultipleLines <- function(dataFrame, title) {
+  ggplot(dataFrame, aes(x = Date, y = Metric, group = series,
+                        color = series)) +
+    scale_x_date(date_labels = "%Y-%m", date_minor_breaks = "1 month") +
+    guides(fill = guide_legend(title = NULL)) +
+    xlab("Date") +
+    ylab("Metric") +
+    ggtitle(title) +
+    theme(
+      plot.title = element_text(size = 18)
+    )
+}
+
 drawBoxPlot = function(dataFrame, title) {
   ggplot(dataFrame, aes(x=Country, y=Inflation, fill=Country)) +
     geom_boxplot() +

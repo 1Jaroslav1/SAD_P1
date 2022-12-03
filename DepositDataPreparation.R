@@ -7,12 +7,11 @@ eu_deposits <- na.omit(eu_deposits)
 # correct datatypes
 eu_deposits <- eu_deposits %>%
   rename(
-    Period = Period.Unit,
+    Date = Period.Unit,
     EU = EU..changingcomposition.
   ) %>%
   mutate(
-    Period = anytime::anydate(paste(Period, 1))
+    Date = anytime::anydate(paste(Date, 1))
   ) %>%
-  mutate(across(!Period, as.double))
+  mutate(across(!Date, as.double))
 
-deposits_tidy <- pivot_longer(eu_deposits, -Period, names_to = "Country", values_to = "Deposits")
