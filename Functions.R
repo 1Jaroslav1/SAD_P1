@@ -13,13 +13,11 @@ library(viridis)
 # --------- Data Frame -----------
 
 getDataFrame = function(data) {
-  dataFrame = data.frame(
+  data.frame(
     date = data[,"Date"],
     inflation = data[,"Inflation"],
     country = data[, "Country"]
   )
-
-  return(dataFrame)
 }
 
 getDataFrameByCountry = function(data, countryName) {
@@ -43,6 +41,8 @@ drawData = function(dataFrame, lineColor, pointColor, title){
       plot.title = element_text(size=18)
     )
 }
+
+
 
 drawSeveralData = function(dataFrame, title) {
   ggplot(dataFrame, aes(x=Date, y=Inflation, fill=Country)) +
@@ -85,6 +85,20 @@ drawBoxPlot = function(dataFrame, title) {
     )
 }
 
+draw_stacked_metrics <- function(df, title) {
+  ggplot(df, aes(x = Date, y = Value, group = Metric)) +
+    geom_point() +
+    geom_line(aes(color = Metric)) +
+    scale_x_date(date_labels = "%Y-%m", date_minor_breaks = "1 month") +
+    guides(fill = guide_legend(title = NULL)) +
+    xlab("Date") +
+    ylab("Value [%]") +
+    ggtitle(title) +
+    theme(
+      plot.title = element_text(size = 18)
+    )
+}
+
 # --------- Filters -----------
 
 filterByTime <- function(data, period) {
@@ -98,6 +112,23 @@ filterDataByCountry = function(data, countryName) {
   return(filter(data, Country == countryName))
 }
 
+filter_by_metric <- function(df, column_name, category_name) {
+  df %>%
+    select(Country, all_of(column_name)) %>%
+    rename(Values = all_of(column_name)) %>%
+    mutate(Metric = category_name)
+}
+
+get_for_country_in_time_range <- function(df, filter_range, country_name) {
+  df %>%
+    select(Date, all_of(country_name)) %>%
+    filterByTime(filter_range) %>%
+    rename(
+      Value = all_of(country_name)
+    ) %>%
+    na.omit()
+}
+
 # ------ Analize -------------
 
 columnAnalyze = function(data, columnName) {
@@ -108,6 +139,8 @@ columnAnalyze = function(data, columnName) {
 
   cat(columnName, " mean:", mean, " range: ", range, " var: ", var, '\n')
 }
+
+
 
 
 # --------- Tests -----------
