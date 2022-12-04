@@ -1,7 +1,6 @@
 library(tidyverse)
 library(anytime)
 source("Utils.R")
-#
 
 read_eu_depositis <- function() {
   eu_deposits <- read.csv("data/EU_deposits_1yr_data.csv")

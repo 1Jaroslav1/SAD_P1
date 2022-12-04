@@ -10,17 +10,18 @@ inflation_vs_deposits_plot <- function(country_name, deposits, inflation, filter
       Metric = "Inflation"
     )
 
-  deposits_for_country <- deposits %>% get_for_country_in_time_range(filter_range, country_name)
-  mutate(
-    Metric = "Deposits"
-  )
+  deposits_for_country <- deposits %>%
+    get_for_country_in_time_range(filter_range, country_name) %>%
+    mutate(
+      Metric = "Deposits"
+    )
   combined <- union_all(inflation_for_country, deposits_for_country)
   draw_stacked_metrics(combined, paste(country_name, ": ", plot_title))
 }
 
 statistics_for_all_countries <- function(df, filter_range) {
   df %>%
-    filterByTime(filter_range) %>%
+    filter_by_time(filter_range) %>%
     pivot_longer(-Date, names_to = "Country", values_to = "Values") %>%
     na.omit() %>%
     group_by(Country) %>%
@@ -53,8 +54,8 @@ filter_ranges <- list(c(analysis_start, pandemic_start, "Przed pandemi1"),
 
 for (filter_range in filter_ranges) {
   title <- filter_range[3]
-  for (country in countries) {
-    inflation_vs_deposits_plot(country, eu_deposits, eu_inflation, head(filter_range, 2), title)
-  }
+  # for (country in countries) {
+  #   inflation_vs_deposits_plot(country, eu_deposits, eu_inflation, head(filter_range, 2), title)
+  # }
   aggregated_deposit_and_inflation_barplot(eu_deposits, eu_inflation, filter_range)
 }
