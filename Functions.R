@@ -12,76 +12,73 @@ library(viridis)
 
 # --------- Data Frame -----------
 
-getDataFrame = function(data) {
+get_data_frame <- function(data) {
   data.frame(
-    date = data[,"Date"],
-    inflation = data[,"Inflation"],
+    date = data[, "Date"],
+    inflation = data[, "Inflation"],
     country = data[, "Country"]
   )
 }
 
-getDataFrameByCountry = function(data, countryName) {
-  country_data = filterDataByCountry(data, countryName)
-
-  return(getDataFrame(country_data))
+get_data_frame_by_country <- function(data, country_name) {
+  get_data_frame(filter_data_by_country(data, country_name))
 }
 
 # --------- Draw Frame -----------
 
-drawData = function(dataFrame, lineColor, pointColor, title){
-  ggplot(dataFrame, aes(x=Date, y=Inflation)) +
-    geom_line(aes(color=Country), size=1) +
-    geom_point(shape=21, color=pointColor, fill=pointColor, size=1.5) +
+drawData <- function(data_frame, line_color, point_color, title) {
+  ggplot(data_frame, aes(x = Date, y = Inflation)) +
+    geom_line(aes(color = Country), size = 1) +
+    geom_point(shape = 21, color = point_color, fill = point_color, size = 1.5) +
     scale_x_date(date_labels = "%Y-%m", date_minor_breaks = "1 month") +
-    scale_color_manual(values=lineColor) +
+    scale_color_manual(values = line_color) +
     xlab("Date") +
     ylab("Inflation") +
     ggtitle(title) +
     theme(
-      plot.title = element_text(size=18)
+      plot.title = element_text(size = 18)
     )
 }
 
 
-
-drawSeveralData = function(dataFrame, title) {
-  ggplot(dataFrame, aes(x=Date, y=Inflation, fill=Country)) +
+draw_several_data <- function(data_frame, title) {
+  ggplot(data_frame, aes(x = Date, y = Inflation, fill = Country)) +
     geom_area() +
     scale_x_date(date_labels = "%Y-%m", date_minor_breaks = "1 month") +
     xlab("Date") +
     ylab("Inflation") +
     ggtitle(title) +
     theme(
-      plot.title = element_text(size=18)
+      plot.title = element_text(size = 18)
     )
 }
 
-drawStackingData = function(dataFrame, title) {
-    ggplot(dataFrame, aes(x=Date, y=Inflation, group=Country, color=Country)) +
-      scale_color_viridis(discrete = TRUE) +
-      geom_line(aes(color=Country), size=1.5) +
-      geom_point(shape=21, color="black", fill="black", size=1.5) +
-      scale_x_date(date_labels = "%Y-%m", date_minor_breaks = "1 month") +
-      guides(fill=guide_legend(title=NULL)) +
-      xlab("Date") +
-      ylab("Inflation") +
-      ggtitle(title) +
-      theme(
-        plot.title = element_text(size=18)
-      )
+draw_stacking_data <- function(data_frame, title) {
+  ggplot(data_frame, aes(x = Date, y = Inflation, group = Country, color = Country)) +
+    scale_color_viridis(discrete = TRUE) +
+    geom_line(aes(color = Country), size = 1.5) +
+    geom_point(shape = 21, color = "black", fill = "black", size = 1.5) +
+    scale_x_date(date_labels = "%Y-%m", date_minor_breaks = "1 month") +
+    guides(fill = guide_legend(title = NULL)) +
+    xlab("Date") +
+    ylab("Inflation") +
+    ggtitle(title) +
+    theme(
+      plot.title = element_text(size = 18)
+    )
 }
 
-drawBoxPlot = function(dataFrame, title) {
-  ggplot(dataFrame, aes(x=Country, y=Inflation, fill=Country)) +
+draw_box_plot <- function(data_frame, title) {
+  ggplot(data_frame, aes(x = Country, y = Inflation, fill = Country)) +
     geom_boxplot() +
-    scale_fill_viridis(discrete = TRUE, alpha=0.7) +
-    geom_jitter(color="black", size=0.4, alpha=0.9) +
+    scale_fill_viridis(discrete = TRUE, alpha = 0.7) +
+    geom_jitter(color = "black", size = 0.4, alpha = 0.9) +
     xlab("Country") +
     ylab("Inflation") +
     ggtitle(title) +
     theme(
-      legend.position="none",
-      plot.title = element_text(size=18)
+      legend.position = "none",
+      plot.title = element_text(size = 18)
     )
 }
 
@@ -99,17 +96,29 @@ draw_stacked_metrics <- function(df, title) {
     )
 }
 
+draw_aggregated_barplots <- function(df, title, y_label) {
+  ggplot(df, aes(x = Country, y = Values, fill = Metric, color = Metric)) +
+    geom_bar(stat = "identity", position = "dodge") +
+    xlab("Country") +
+    ylab(y_label) +
+    ggtitle(title) +
+    theme(
+      plot.title = element_text(size = 18)
+    ) +
+    coord_flip()
+}
+
 # --------- Filters -----------
 
-filterByTime <- function(data, period) {
+filter_by_time <- function(data, period) {
   data %>% filter(
     Date >= period[1],
     Date <= period[2]
   )
 }
 
-filterDataByCountry = function(data, countryName) {
-  return(filter(data, Country == countryName))
+filter_data_by_country <- function(data, country_name) {
+  return(filter(data, Country == country_name))
 }
 
 filter_by_metric <- function(df, column_name, category_name) {
@@ -122,25 +131,23 @@ filter_by_metric <- function(df, column_name, category_name) {
 get_for_country_in_time_range <- function(df, filter_range, country_name) {
   df %>%
     select(Date, all_of(country_name)) %>%
-    filterByTime(filter_range) %>%
+    filter_by_time(filter_range) %>%
     rename(
       Value = all_of(country_name)
     ) %>%
     na.omit()
 }
 
-# ------ Analize -------------
+# ------ Analyze -------------
 
-columnAnalyze = function(data, columnName) {
-  filteredData = filterDataByCountry(data, columnName)
+column_analyze = function(data, column_name) {
+  filteredData = filter_data_by_country(data, column_name)
   mean = mean(filteredData$Inflation)
   range = range(filteredData$Inflation)
   var = var(filteredData$Inflation)
 
-  cat(columnName, " mean:", mean, " range: ", range, " var: ", var, '\n')
+  cat(column_name, " mean:", mean, " range: ", range, " var: ", var, '\n')
 }
-
-
 
 
 # --------- Tests -----------
