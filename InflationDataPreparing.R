@@ -1,14 +1,7 @@
 library(anytime)
-eu_inflation = read.csv("data/EU_Inflation_HICP_data.csv")
+source("Utils.R")
 
-# Change columns name
-
-colnames(eu_inflation)[1] = "Date"
-colnames(eu_inflation)[7] = "EU"
-
-eu_inflation = na.omit(eu_inflation)
-eu_inflation[, 2:29] = sapply(eu_inflation[, 2:29], as.double)
-eu_inflation["Date"] = anytime::anydate(paste(eu_inflation[,"Date"], 1))
+eu_inflation <- read_eu_inflation()
 
 eu_inflation_tidy = pivot_longer(eu_inflation, -Date, names_to = "Country", values_to = "Inflation")
 
@@ -66,12 +59,5 @@ colnames(general_inflation_DF)[4] = "Kraje poza strefy Euro"
 colnames(general_inflation_DF)[5] = "Polska"
 
 general_inflation_tidy_DF = pivot_longer(general_inflation_DF, -Date, names_to = "Country", values_to = "Inflation")
-
-# ------ Periods ------
-
-pandemic_start = "2020-01-09"
-during_pandemic = "2021-01-09"
-war_start = "2022-02-01"
-now = "2022-11-24"
 
 
