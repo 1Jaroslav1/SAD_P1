@@ -1,36 +1,42 @@
 source("Functions.R")
-source("InflationDataPreparing.R")
-drawStackingData <- function(dataFrame, title) {
-    ggplot(dataFrame, aes(x=Date, y=Difference, group=Country, color=Country)) +
-      scale_color_viridis(discrete = TRUE) +
-      geom_line(aes(color=Country), size=1.5) +
-      geom_point(shape=21, color="black", fill="black", size=1.5) +
-      scale_x_date(date_labels = "%Y-%m", date_minor_breaks = "1 month") +
-      guides(fill=guide_legend(title=NULL)) +
-      xlab("Date") +
-      ylab("Inflation") +
-      ggtitle(title) +
-      theme(
-        plot.title = element_text(size=18)
-      )
+source("Utils.R")
+library(dplyr)
+library(forecast)
+
+draw_barplots <- function(df, title, column_name, shape1, shape2) {
+  ggplot(df, aes(x = Date, y = get(column_name))) +
+    geom_bar(stat = "identity", position = "dodge") +
+    xlab("Country") +
+    ylab("Delta Infl") +
+    ggtitle(title) +
+    theme(
+      plot.title = element_text(size = 18)
+    ) +
+    theme_minimal() +
+    stat_function(fun = function(x) dbeta(as.numeric(x - date_min) / as.numeric(date_diff), shape1, shape2), col = 'red')
 }
 
 countries <- c("Poland", "France", "Romania")
+time_range <- c("2018-01-01", "2022-01-01")
+inflation_delta <- read_eu_inflation() %>%
+  filter_by_time(time_range) %>%
+  select(
+    Date, all_of(countries)
+  ) %>%
+  arrange(Date) %>%
+  mutate(
+    PolandMov = Poland - lag(Poland, 1),
+    FranceMov = France - lag(France, 1),
+    RomaniaMov = Romania - lag(Romania, 1)
+  ) %>%
+  na.omit
 
-countries_inflation_data_tidy <-  filter(eu_inflation_tidy, Country %in% countries)
-countries_inflation_data_tidy <- filter_by_time(countries_inflation_data_tidy, c("2008-01-01", "2022-01-01"))
+date_min <- min(inflation_delta$Date)
+date_max <- max(inflation_delta$Date)
 
-countries_inflation_data_DF <- data.frame(
-  eu_inflation[1],
-  eu_inflation[countries]
-)
+date_diff <- date_max - date_min
 
-# countries_inflation_data_tidy[difference] = NA
-#
-# for
-
-countries_difference_inflation_data <- mutate(countries_inflation_data_tidy, Difference=(Inflation - append(Inflation[-c(1, 2, 3)], c(0,0,0))))
-countries_difference_inflation_data <- head(countries_difference_inflation_data, -3)
-
-drawStackingData(countries_difference_inflation_data, "Plot")
+draw_barplots(inflation_delta, "Inflation delta for Poland", "Poland", 20, 0.9)
+draw_barplots(inflation_delta, "Inflation delta for Romania", "Romania", 0.5, 0.5)
+draw_barplots(inflation_delta, "Inflation delta for France", "France", 0.5, 0.5)
 
