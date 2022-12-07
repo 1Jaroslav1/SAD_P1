@@ -1,4 +1,5 @@
 library(hash)
+source("./Problem2/Plots.R")
 
 # preparing hicd value
 
@@ -7,6 +8,7 @@ hicd_pl <- hicd_pl[c("Period", "hicd")]
 hicd_pl["Period"] <- anytime::anydate(paste(hicd_pl[, "Period"], 1))
 hicd_pl["Period"] <- format(as.Date(hicd_pl$Period), format = "%Y")
 hicd_pl <- aggregate(hicd_pl[-c(1)], hicd_pl[c("Period")],mean, na.rm = TRUE)
+hicd_pl["Period"] <- as.numeric(as.character(hicd_pl$Period))
 
 # preparing avg gross
 
@@ -21,6 +23,7 @@ avg_gross_pl$National_economy <- gsub(" ", "", avg_gross_pl$National_economy)
 avg_gross_pl$National_economy <- gsub(",", ".", avg_gross_pl$National_economy)
 avg_gross_pl$National_economy <- as.double(avg_gross_pl$National_economy)
 avg_gross_pl <- aggregate(avg_gross_pl[-c(1)], avg_gross_pl[c("Period")], mean, na.rm = TRUE)
+avg_gross_pl$Period <- as.numeric(as.character(avg_gross_pl$Period))
 
 # preparing food data
 
@@ -95,20 +98,32 @@ getManthMarketBasketByYear = function(food_pl, exchage_values, market_basket, ye
   for (k in keys) {
     sum = sum + as.double(filter(food, food$Name == k)$Price) * values(market_basket, keys=k)
   }
-
   return(sum *  as.double(filter(exchage_values, exchage_values$Date == substring(year, 2))$Value))
 }
 
 # 2014-2022
 
 years <- avg_gross_pl$Period[5:13]
-covariance <- c()
+food_price_to_gross <- c()
+market_basket_cost <- c()
 
 for(year in years) {
-  market_basket_cost <- getManthMarketBasketByYear(food_pl, exchage_values, market_basket, paste0("X",year, collapse = NULL))
+  mb <- getManthMarketBasketByYear(food_pl, exchage_values, market_basket, paste0("X",year, collapse = NULL))
   avg_year_gross <- as.double(filter(avg_gross_pl, avg_gross_pl$Period == year)$National_economy)
-  print(market_basket_cost/avg_year_gross *100)
-  covariance <- append(covariance, c(market_basket_cost/avg_year_gross *100))
+  market_basket_cost <- append(market_basket_cost, mb)
+  food_price_to_gross <- append(food_price_to_gross, c(mb/avg_year_gross *100))
 }
-covariance
 
+avg_food_price = data.frame(Period = years, Value = market_basket_cost)
+avg_food_price$Period <- as.numeric(as.character(avg_food_price$Period))
+
+food_price_to_gross_df = data.frame(Period = years, Value = food_price_to_gross)
+hicd_pl <- filter(hicd_pl, hicd_pl$Period >= 2014)
+
+colnames(hicd_pl)[2] = "Value"
+data_value_plot(hicd_pl, "Blue", "Blue", "Poland HICD", "HICD")
+data_value_plot(avg_food_price, "Blue", "Blue", "Poland average food price", "avg. price per month")
+
+colnames(avg_gross_pl)[2] = "Value"
+data_value_plot(avg_gross_pl, "Blue", "Blue", "Poland average monthly salary", "Salary per zl.")
+data_value_plot(food_price_to_gross_df, "Blue", "Blue", "Average food price and monthly salary corellation", "HICD")
