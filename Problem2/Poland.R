@@ -12,18 +12,18 @@ hicd_pl["Period"] <- as.numeric(as.character(hicd_pl$Period))
 
 # preparing avg gross
 
-avg_gross_pl <- read.csv("Problem2/data/AVG-gross-poland-2010-2021.csv", sep = ";")
-colnames(avg_gross_pl)[1] = "Period"
-avg_gross_pl$Period <- gsub("Q1 '", "20", avg_gross_pl$Period)
-avg_gross_pl$Period <- gsub("Q2 '", "20", avg_gross_pl$Period)
-avg_gross_pl$Period <- gsub("Q3 '", "20", avg_gross_pl$Period)
-avg_gross_pl$Period <- gsub("Q4 '", "20", avg_gross_pl$Period)
-avg_gross_pl <- avg_gross_pl[c("Period", "National_economy")]
-avg_gross_pl$National_economy <- gsub(" ", "", avg_gross_pl$National_economy)
-avg_gross_pl$National_economy <- gsub(",", ".", avg_gross_pl$National_economy)
-avg_gross_pl$National_economy <- as.double(avg_gross_pl$National_economy)
-avg_gross_pl <- aggregate(avg_gross_pl[-c(1)], avg_gross_pl[c("Period")], mean, na.rm = TRUE)
-avg_gross_pl$Period <- as.numeric(as.character(avg_gross_pl$Period))
+avg_gross_pl_zl <- read.csv("Problem2/data/AVG-gross-poland-2010-2021.csv", sep = ";")
+colnames(avg_gross_pl_zl)[1] = "Period"
+avg_gross_pl_zl$Period <- gsub("Q1 '", "20", avg_gross_pl_zl$Period)
+avg_gross_pl_zl$Period <- gsub("Q2 '", "20", avg_gross_pl_zl$Period)
+avg_gross_pl_zl$Period <- gsub("Q3 '", "20", avg_gross_pl_zl$Period)
+avg_gross_pl_zl$Period <- gsub("Q4 '", "20", avg_gross_pl_zl$Period)
+avg_gross_pl_zl <- avg_gross_pl_zl[c("Period", "National_economy")]
+avg_gross_pl_zl$National_economy <- gsub(" ", "", avg_gross_pl_zl$National_economy)
+avg_gross_pl_zl$National_economy <- gsub(",", ".", avg_gross_pl_zl$National_economy)
+avg_gross_pl_zl$National_economy <- as.double(avg_gross_pl_zl$National_economy)
+avg_gross_pl_zl <- aggregate(avg_gross_pl_zl[-c(1)], avg_gross_pl_zl[c("Period")], mean, na.rm = TRUE)
+avg_gross_pl_zl$Period <- as.numeric(as.character(avg_gross_pl_zl$Period))
 
 # preparing food data
 
@@ -41,15 +41,17 @@ exchage_values$Value <- gsub(",", ".", exchage_values$Value)
 exchage_values$Value <- as.double(exchage_values$Value)
 exchage_values <- aggregate(exchage_values[-c(2)], exchage_values[c("Date")], mean, na.rm = TRUE)
 
+avg_gross_pl$Value <- (avg_gross_pl_zl$National_economy / exchage_values$Value)
+
 # 2014-2022
 
-years_pl <- avg_gross_pl$Period[5:13]
+years_pl <- avg_gross_pl$Period[1:9]
 food_price_to_gross_pl <- c()
 market_basket_cost_pl <- c()
 
 for(year in years_pl) {
-  mb_pl <- getMonthMarketBasketByYear(food_pl, paste0("X", year, collapse = NULL)) *  as.double(filter(exchage_values, exchage_values$Date == year)$Value)
-  avg_year_gross_pl <- as.double(filter(avg_gross_pl, avg_gross_pl$Period == year)$National_economy)
+  mb_pl <- getMonthMarketBasketByYear(food_pl, paste0("X", year, collapse = NULL)) #*  as.double(filter(exchage_values, exchage_values$Date == year)$Value)
+  avg_year_gross_pl <- as.double(filter(avg_gross_pl, avg_gross_pl$Period == year)$Value)
   market_basket_cost_pl <- append(market_basket_cost_pl, mb_pl)
   food_price_to_gross_pl <- append(food_price_to_gross_pl, c(mb_pl/avg_year_gross_pl *100))
 }
