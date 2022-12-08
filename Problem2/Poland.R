@@ -64,8 +64,11 @@ hicd_pl <- filter(hicd_pl, hicd_pl$Period >= 2014)
 
 colnames(hicd_pl)[2] = "Value"
 data_value_plot(hicd_pl, "Blue", "Blue", "Poland HICD", "HICD")
-data_value_plot(avg_food_price_pl, "Blue", "Blue", "Poland average food price", "avg. price per month")
+data_value_plot(avg_food_price_pl, "Blue", "Blue", "Poland average food cost per month", "Price in $")
 
 colnames(avg_gross_pl)[2] = "Value"
-data_value_plot(avg_gross_pl, "Blue", "Blue", "Poland average monthly salary", "Salary per zl.")
-data_value_plot(food_price_to_gross_df_pl, "Blue", "Blue", "Poland average food price and monthly salary corellation", "HICD")
+data_value_plot(avg_gross_pl, "Blue", "Blue", "Poland average salary per month (full-time)", "Salary in $")
+data_value_plot(food_price_to_gross_df_pl, "Blue", "Blue", "Poland ratio of salary to the price of food", "Ratio in %")
+
+cor.test(hicd_pl$Value, avg_food_price_pl$Value, method = "pearson")
+cor.test(hicd_pl$Value, avg_gross_pl$Value, method = "pearson")

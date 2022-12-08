@@ -51,8 +51,11 @@ hicd_czechia <- filter(hicd_czechia, hicd_czechia$Period >= 2014)
 
 colnames(hicd_czechia)[2] = "Value"
 data_value_plot(hicd_czechia, "Blue", "Blue", "Czechia HICD", "HICD")
-data_value_plot(avg_food_price_czechia, "Blue", "Blue", "Czechia average food price", "avg. price per month")
+data_value_plot(avg_food_price_czechia, "Blue", "Blue", "Czechia average food cost per month", "Price in $")
 
 colnames(avg_gross_czechia)[2] = "Value"
-data_value_plot(avg_gross_czechia, "Blue", "Blue", "Czechia average monthly salary gross", "Salary per dollar.")
-data_value_plot(food_price_to_gross_df_czechia, "Blue", "Blue", "Czechia average food price and monthly salary corellation", "HICD")
+data_value_plot(avg_gross_czechia, "Blue", "Blue", "Czechia average salary per month (full-time)", "Salary in $")
+data_value_plot(food_price_to_gross_df_czechia, "Blue", "Blue", "Czechia ratio of salary to the price of food", "Ratio in %")
+
+cor.test(hicd_czechia$Value, avg_food_price_czechia$Value, method = "pearson")
+cor.test(hicd_czechia$Value, avg_gross_czechia$Value, method = "pearson")

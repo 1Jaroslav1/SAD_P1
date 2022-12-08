@@ -51,8 +51,11 @@ hicd_german <- filter(hicd_german, hicd_german$Period >= 2014)
 
 colnames(hicd_german)[2] = "Value"
 data_value_plot(hicd_german, "Blue", "Blue", "German HICD", "HICD")
-data_value_plot(avg_food_price_german, "Blue", "Blue", "German average food price", "avg. price per month")
+data_value_plot(avg_food_price_german, "Blue", "Blue", "German average food cost per month", "Price in $")
 
 colnames(avg_gross_german)[2] = "Value"
-data_value_plot(avg_gross_german, "Blue", "Blue", "German average monthly salary gross", "Salary per dollar.")
-data_value_plot(food_price_to_gross_df_german, "Blue", "Blue", "German average food price and monthly salary corellation", "HICD")
+data_value_plot(avg_gross_german, "Blue", "Blue", "German average salary per month (full-time)", "Salary in $")
+data_value_plot(food_price_to_gross_df_german, "Blue", "Blue", "German ratio of salary to the price of food", "Ratio in %")
+
+cor.test(hicd_german$Value, avg_food_price_german$Value, method = "pearson")
+cor.test(hicd_german$Value, avg_gross_german$Value, method = "pearson")
