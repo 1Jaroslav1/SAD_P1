@@ -27,12 +27,12 @@ draw_stacking_data <- function(data_frame, title, ylab) {
     )
 }
 
-hicd <- data.frame(Period = hicd_pl$Period)
-hicd$Poland <- hicd_pl$Value
-hicd$German <- hicd_german$Value
-hicd$Czechia <- hicd_czechia$Value
-hicd <-  pivot_longer(hicd, -Period, names_to = "Country", values_to = "Value")
-draw_stacking_data(hicd, "HICD", "HICD")
+hicp <- data.frame(Period = hicp_pl$Period)
+hicp$Poland <- hicp_pl$Value
+hicp$German <- hicp_german$Value
+hicp$Czechia <- hicp_czechia$Value
+hicp <-  pivot_longer(hicp, -Period, names_to = "Country", values_to = "Value")
+draw_stacking_data(hicp, "HICP", "HICP")
 
 avg_food_price <- data.frame(Period = avg_food_price_pl$Period)
 avg_food_price$Poland <- avg_food_price_pl$Value
@@ -56,5 +56,5 @@ food_price_to_gross$Czechia <- food_price_to_gross_df_czechia$Value
 food_price_to_gross <-  pivot_longer(food_price_to_gross, -Period, names_to = "Country", values_to = "Value")
 draw_stacking_data(food_price_to_gross, "Ratio of salary to the price of food", "Ratio in %")
 
-# cor.test(hicd$Value, avg_food_price$Value, method = "pearson")
-# cor.test(hicd$Value, avg_gross$Value, method = "pearson")
+# cor.test(hicp$Value, avg_food_price$Value, method = "pearson")
+# cor.test(hicp$Value, avg_gross$Value, method = "pearson")

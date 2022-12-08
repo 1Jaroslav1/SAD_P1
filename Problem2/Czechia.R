@@ -1,14 +1,14 @@
 source("./Problem2/commonData.R")
 source("./Problem2/Plots.R")
 
-# preparing hicd value
+# preparing hicp value
 
-hicd_czechia <- read.csv("Problem2/data/HICD-Czechia.csv")
-hicd_czechia <- hicd_czechia[c("Period", "hicd")]
-hicd_czechia["Period"] <- anytime::anydate(paste(hicd_czechia[, "Period"], 1))
-hicd_czechia["Period"] <- format(as.Date(hicd_czechia$Period), format = "%Y")
-hicd_czechia <- aggregate(hicd_czechia[-c(1)], hicd_czechia[c("Period")],mean, na.rm = TRUE)
-hicd_czechia["Period"] <- as.numeric(as.character(hicd_czechia$Period))
+hicp_czechia <- read.csv("Problem2/data/HICD-Czechia.csv")
+hicp_czechia <- hicp_czechia[c("Period", "hicp")]
+hicp_czechia["Period"] <- anytime::anydate(paste(hicp_czechia[, "Period"], 1))
+hicp_czechia["Period"] <- format(as.Date(hicp_czechia$Period), format = "%Y")
+hicp_czechia <- aggregate(hicp_czechia[-c(1)], hicp_czechia[c("Period")],mean, na.rm = TRUE)
+hicp_czechia["Period"] <- as.numeric(as.character(hicp_czechia$Period))
 
 # preparing avg gross
 
@@ -47,15 +47,15 @@ avg_food_price_czechia = data.frame(Period = years_czechia, Value = market_baske
 avg_food_price_czechia$Period <- as.numeric(as.character(avg_food_price_czechia$Period))
 
 food_price_to_gross_df_czechia = data.frame(Period = years_czechia, Value = food_price_to_gross_czechia)
-hicd_czechia <- filter(hicd_czechia, hicd_czechia$Period >= 2014)
+hicp_czechia <- filter(hicp_czechia, hicp_czechia$Period >= 2014)
 
-colnames(hicd_czechia)[2] = "Value"
-data_value_plot(hicd_czechia, "Blue", "Blue", "Czechia HICD", "HICD")
+colnames(hicp_czechia)[2] = "Value"
+data_value_plot(hicp_czechia, "Blue", "Blue", "Czechia Inflation", "Inflation (%)")
 data_value_plot(avg_food_price_czechia, "Blue", "Blue", "Czechia average food cost per month", "Price in $")
 
 colnames(avg_gross_czechia)[2] = "Value"
 data_value_plot(avg_gross_czechia, "Blue", "Blue", "Czechia average salary per month (full-time)", "Salary in $")
 data_value_plot(food_price_to_gross_df_czechia, "Blue", "Blue", "Czechia ratio of salary to the price of food", "Ratio in %")
 
-cor.test(hicd_czechia$Value, avg_food_price_czechia$Value, method = "pearson")
-cor.test(hicd_czechia$Value, avg_gross_czechia$Value, method = "pearson")
+cor.test(hicp_czechia$Value, avg_food_price_czechia$Value, method = "pearson")
+cor.test(hicp_czechia$Value, avg_gross_czechia$Value, method = "pearson")

@@ -1,14 +1,14 @@
 source("./Problem2/commonData.R")
 source("./Problem2/Plots.R")
 
-# preparing hicd value
+# preparing hicp value
 
-hicd_german <- read.csv("Problem2/data/HICD-German.csv")
-hicd_german <- hicd_german[c("Period", "hicd")]
-hicd_german["Period"] <- anytime::anydate(paste(hicd_german[, "Period"], 1))
-hicd_german["Period"] <- format(as.Date(hicd_german$Period), format = "%Y")
-hicd_german <- aggregate(hicd_german[-c(1)], hicd_german[c("Period")],mean, na.rm = TRUE)
-hicd_german["Period"] <- as.numeric(as.character(hicd_german$Period))
+hicp_german <- read.csv("Problem2/data/HICD-German.csv")
+hicp_german <- hicp_german[c("Period", "hicp")]
+hicp_german["Period"] <- anytime::anydate(paste(hicp_german[, "Period"], 1))
+hicp_german["Period"] <- format(as.Date(hicp_german$Period), format = "%Y")
+hicp_german <- aggregate(hicp_german[-c(1)], hicp_german[c("Period")],mean, na.rm = TRUE)
+hicp_german["Period"] <- as.numeric(as.character(hicp_german$Period))
 
 # preparing avg gross
 
@@ -47,15 +47,15 @@ avg_food_price_german = data.frame(Period = years_german, Value = market_basket_
 avg_food_price_german$Period <- as.numeric(as.character(avg_food_price_german$Period))
 
 food_price_to_gross_df_german = data.frame(Period = years_german, Value = food_price_to_gross_german)
-hicd_german <- filter(hicd_german, hicd_german$Period >= 2014)
+hicp_german <- filter(hicp_german, hicp_german$Period >= 2014)
 
-colnames(hicd_german)[2] = "Value"
-data_value_plot(hicd_german, "Blue", "Blue", "German HICD", "HICD")
+colnames(hicp_german)[2] = "Value"
+data_value_plot(hicp_german, "Blue", "Blue", "German Inflation", "Inflation (%)")
 data_value_plot(avg_food_price_german, "Blue", "Blue", "German average food cost per month", "Price in $")
 
 colnames(avg_gross_german)[2] = "Value"
 data_value_plot(avg_gross_german, "Blue", "Blue", "German average salary per month (full-time)", "Salary in $")
 data_value_plot(food_price_to_gross_df_german, "Blue", "Blue", "German ratio of salary to the price of food", "Ratio in %")
 
-cor.test(hicd_german$Value, avg_food_price_german$Value, method = "pearson")
-cor.test(hicd_german$Value, avg_gross_german$Value, method = "pearson")
+cor.test(hicp_german$Value, avg_food_price_german$Value, method = "pearson")
+cor.test(hicp_german$Value, avg_gross_german$Value, method = "pearson")

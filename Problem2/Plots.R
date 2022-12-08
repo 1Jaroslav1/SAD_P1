@@ -1,7 +1,10 @@
+library(ggrepel)
+
 data_value_plot <- function(data_frame, line_color, point_color, title, xLab) {
-  ggplot(data_frame, aes(x = Period, y = Value)) +
+  ggplot(data_frame, aes(x = Period, y = Value, label=Value)) +
     geom_line(color=line_color, size = 1) +
     geom_point(shape = 21, color = point_color, fill = point_color, size = 4) +
+    geom_text(aes(label = scales::comma(Value)), size = 3, vjust = -1.5) +
     scale_color_manual(values = line_color) +
     xlab("Year") +
     ylab(xLab) +

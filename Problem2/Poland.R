@@ -1,14 +1,14 @@
 source("./Problem2/commonData.R")
 source("./Problem2/Plots.R")
 
-# preparing hicd value
+# preparing hicp value
 
-hicd_pl <- read.csv("Problem2/data/HICD-Poland.csv")
-hicd_pl <- hicd_pl[c("Period", "hicd")]
-hicd_pl["Period"] <- anytime::anydate(paste(hicd_pl[, "Period"], 1))
-hicd_pl["Period"] <- format(as.Date(hicd_pl$Period), format = "%Y")
-hicd_pl <- aggregate(hicd_pl[-c(1)], hicd_pl[c("Period")],mean, na.rm = TRUE)
-hicd_pl["Period"] <- as.numeric(as.character(hicd_pl$Period))
+hicp_pl <- read.csv("Problem2/data/HICD-Poland.csv")
+hicp_pl <- hicp_pl[c("Period", "hicp")]
+hicp_pl["Period"] <- anytime::anydate(paste(hicp_pl[, "Period"], 1))
+hicp_pl["Period"] <- format(as.Date(hicp_pl$Period), format = "%Y")
+hicp_pl <- aggregate(hicp_pl[-c(1)], hicp_pl[c("Period")],mean, na.rm = TRUE)
+hicp_pl["Period"] <- as.numeric(as.character(hicp_pl$Period))
 
 # preparing avg gross
 
@@ -60,15 +60,22 @@ avg_food_price_pl = data.frame(Period = years_pl, Value = market_basket_cost_pl)
 avg_food_price_pl$Period <- as.numeric(as.character(avg_food_price_pl$Period))
 
 food_price_to_gross_df_pl = data.frame(Period = years_pl, Value = food_price_to_gross_pl)
-hicd_pl <- filter(hicd_pl, hicd_pl$Period >= 2014)
+hicp_pl <- filter(hicp_pl, hicp_pl$Period >= 2014)
 
-colnames(hicd_pl)[2] = "Value"
-data_value_plot(hicd_pl, "Blue", "Blue", "Poland HICD", "HICD")
-data_value_plot(avg_food_price_pl, "Blue", "Blue", "Poland average food cost per month", "Price in $")
+colnames(hicp_pl)[2] = "Value"
+data_value_plot(hicp_pl, "Blue", "Blue", "Poland Inflation", "Inflation (%)")
+data_value_plot(avg_food_price_pl, "Green", "Green", "Poland average food cost per month", "Price in $")
 
 colnames(avg_gross_pl)[2] = "Value"
-data_value_plot(avg_gross_pl, "Blue", "Blue", "Poland average salary per month (full-time)", "Salary in $")
-data_value_plot(food_price_to_gross_df_pl, "Blue", "Blue", "Poland ratio of salary to the price of food", "Ratio in %")
+data_value_plot(avg_gross_pl, "Orange", "Orange", "Poland average salary per month (full-time)", "Salary in $")
+data_value_plot(food_price_to_gross_df_pl, "Red", "Red", "Poland ratio of salary to the price of food", "Ratio in %")
 
-cor.test(hicd_pl$Value, avg_food_price_pl$Value, method = "pearson")
-cor.test(hicd_pl$Value, avg_gross_pl$Value, method = "pearson")
+avg_food_price_pl_zl = data.frame(Period = years_pl, Value = market_basket_cost_pl * as.double(exchage_values$Value))
+avg_gross_pl_zl <- data.frame(Period = years_pl, Value = avg_gross_pl$Value * as.double(exchage_values$Value))
+
+data_value_plot(avg_food_price_pl_zl, "Green", "Green", "Poland average food cost per month", "Price in zł")
+data_value_plot(avg_gross_pl_zl, "Orange", "Orange", "Poland average salary per month (full-time)", "Salary in zł")
+
+
+cor.test(hicp_pl$Value, avg_food_price_pl$Value, method = "pearson")
+cor.test(hicp_pl$Value, avg_gross_pl$Value, method = "pearson")
