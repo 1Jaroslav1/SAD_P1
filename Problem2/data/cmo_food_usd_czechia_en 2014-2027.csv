@@ -1,0 +1,1217 @@
+﻿Region,Market,Chart,Name,Unit,Source,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Czechia,Food,Price per Unit,Average,USD (US$),Statista,2.622,2.226,2.262,2.432,2.682,2.619,2.679,3,3.36,3.368,3.434,3.502,3.57,3.641
+Czechia,Food,Price per Unit,Baby Food,USD (US$),Statista,3.976,3.473,3.627,4.001,4.524,4.533,4.671,5.286,5.76,5.893,6.01,6.131,6.253,6.378
+Czechia,Food,Price per Unit,Bread & Cereal Products,USD (US$),Statista,1.308,1.095,1.097,1.162,1.262,1.215,1.241,1.384,1.513,1.54,1.568,1.597,1.628,1.65
+Czechia,Food,Price per Unit,Confectionery & Snacks,USD (US$),Statista,5.088,4.315,4.299,4.589,5.035,4.904,5.017,5.617,6.11,6.242,6.35,6.462,6.589,6.676
+Czechia,Food,Price per Unit,Convenience Food,USD (US$),Statista,4.337,3.666,3.75,4.024,4.439,4.345,4.44,4.974,5.416,5.536,5.642,5.751,5.867,5.976
+Czechia,Food,Price per Unit,Dairy Products & Eggs,USD (US$),Statista,2.255,1.864,1.842,1.924,2.06,1.958,1.964,2.155,2.346,2.398,2.446,2.494,2.543,2.601
+Czechia,Food,Price per Unit,Fish & Seafood,USD (US$),Statista,13.9,12.19,12.78,14.16,16.07,16.18,16.73,19,21.02,21.33,21.78,22.23,22.68,23.21
+Czechia,Food,Price per Unit,Fruits & Nuts,USD (US$),Statista,2.068,1.79,1.854,2.03,2.279,2.269,2.343,2.649,2.879,2.95,3.014,3.079,3.14,3.212
+Czechia,Food,Price per Unit,Meat,USD (US$),Statista,6.957,5.884,5.943,6.338,6.971,6.79,6.928,7.747,8.493,8.718,8.935,9.157,9.346,9.608
+Czechia,Food,Price per Unit,Oils & Fats,USD (US$),Statista,6.073,5.329,5.599,6.217,7.082,7.155,7.378,8.378,9.304,9.387,9.573,9.766,9.958,10.15
+Czechia,Food,Price per Unit,Pet Food,USD (US$),Statista,1.65,1.43,1.49,1.64,1.84,1.84,1.786,1.999,2.178,2.228,2.272,2.318,2.364,2.411
+Czechia,Food,Price per Unit,Sauces & Spices,USD (US$),Statista,2.995,2.542,2.582,2.772,3.051,2.977,3.041,3.403,3.713,3.803,3.881,3.962,4.041,4.121
+Czechia,Food,Price per Unit,Spreads & Sweeteners,USD (US$),Statista,2.412,2.009,1.999,2.106,2.276,2.182,2.2,2.434,2.68,2.694,2.738,2.784,2.829,2.841
+Czechia,Food,Price per Unit,Vegetables,USD (US$),Statista,1.188,1.043,1.095,1.214,1.381,1.392,1.461,1.66,1.811,1.854,1.893,1.932,1.971,2.013
+Czechia,Food,Revenue by Segment,Total,billion USD (US$),Statista,15.48,13.49,14.07,15.47,17.02,17.47,18.06,20.56,21.84,23.6,24.71,25.81,27,28.55
+Czechia,Food,Revenue by Segment,Baby Food,billion USD (US$),Statista,0.074,0.064,0.067,0.074,0.081,0.083,0.086,0.098,0.107,0.111,0.115,0.119,0.124,0.123
+Czechia,Food,Revenue by Segment,Bread & Cereal Products,billion USD (US$),Statista,1.709,1.48,1.541,1.694,1.863,1.907,1.968,2.239,1.815,2.415,2.545,2.667,2.801,2.998
+Czechia,Food,Revenue by Segment,Confectionery & Snacks,billion USD (US$),Statista,3.057,2.649,2.753,3.025,3.32,3.398,3.509,3.997,4.441,4.633,4.836,5.04,5.264,5.532
+Czechia,Food,Revenue by Segment,Convenience Food,billion USD (US$),Statista,0.636,0.554,0.581,0.643,0.712,0.733,0.762,0.873,0.973,1.018,1.066,1.114,1.162,1.231
+Czechia,Food,Revenue by Segment,Dairy Products & Eggs,billion USD (US$),Statista,2.146,1.863,1.942,2.139,2.356,2.418,2.503,2.853,3.226,3.418,3.61,3.802,4.021,4.462
+Czechia,Food,Revenue by Segment,Fish & Seafood,billion USD (US$),Statista,0.674,0.586,0.612,0.675,0.745,0.765,0.792,0.905,0.827,0.972,1.013,1.053,1.096,1.09
+Czechia,Food,Revenue by Segment,Fruits & Nuts,billion USD (US$),Statista,1.232,1.073,1.124,1.243,1.374,1.415,1.468,1.68,1.853,1.927,2.01,2.093,2.178,2.225
+Czechia,Food,Revenue by Segment,Meat,billion USD (US$),Statista,3.128,2.714,2.83,3.117,3.432,3.52,3.638,4.148,4.551,4.85,5.089,5.328,5.591,6.062
+Czechia,Food,Revenue by Segment,Oils & Fats,billion USD (US$),Statista,0.369,0.32,0.334,0.368,0.406,0.417,0.431,0.492,0.472,0.54,0.561,0.583,0.606,0.596
+Czechia,Food,Revenue by Segment,Pet Food,billion USD (US$),Statista,0.351,0.355,0.362,0.367,0.374,0.383,0.382,0.387,0.424,0.427,0.431,0.436,0.442,0.451
+Czechia,Food,Revenue by Segment,Sauces & Spices,billion USD (US$),Statista,0.339,0.294,0.307,0.339,0.374,0.384,0.397,0.454,0.505,0.529,0.553,0.577,0.603,0.634
+Czechia,Food,Revenue by Segment,Spreads & Sweeteners,billion USD (US$),Statista,0.198,0.176,0.194,0.222,0.257,0.272,0.286,0.33,0.341,0.384,0.414,0.446,0.468,0.537
+Czechia,Food,Revenue by Segment,Vegetables,billion USD (US$),Statista,1.564,1.359,1.42,1.567,1.729,1.777,1.84,2.101,2.306,2.378,2.463,2.55,2.644,2.608
+Czechia,Food,Revenue Change by Segment,Total,percent,Statista,,-12.855,4.299,9.95,10.019,2.644,3.377,13.843,6.226,8.059,4.703,4.452,4.611,5.741
+Czechia,Food,Revenue Change by Segment,Baby Food,percent,Statista,,-13.282,4.247,10.109,10.092,2.533,3.338,13.946,10.008,3.442,3.507,3.562,3.859,-0.727
+Czechia,Food,Revenue Change by Segment,Bread & Cereal Products,percent,Statista,,-13.4,4.122,9.929,9.976,2.362,3.199,13.77,-18.937,33.058,5.383,4.794,5.024,7.033
+Czechia,Food,Revenue Change by Segment,Confectionery & Snacks,percent,Statista,,-13.346,3.926,9.88,9.752,2.349,3.267,13.907,11.108,4.323,4.382,4.218,4.444,5.091
+Czechia,Food,Revenue Change by Segment,Convenience Food,percent,Statista,,-12.821,4.8,10.692,10.67,3.064,3.873,14.546,11.496,4.646,4.715,4.503,4.309,5.938
+Czechia,Food,Revenue Change by Segment,Dairy Products & Eggs,percent,Statista,,-13.187,4.24,10.144,10.145,2.632,3.515,13.983,13.074,5.952,5.617,5.319,5.76,10.967
+Czechia,Food,Revenue Change by Segment,Fish & Seafood,percent,Statista,,-13.097,4.455,10.327,10.308,2.726,3.555,14.174,-8.534,17.464,4.229,3.949,4.084,-0.547
+Czechia,Food,Revenue Change by Segment,Fruits & Nuts,percent,Statista,,-12.906,4.753,10.587,10.539,2.984,3.746,14.441,10.298,3.994,4.307,4.129,4.061,2.158
+Czechia,Food,Revenue Change by Segment,Meat,percent,Statista,,-13.235,4.274,10.141,10.106,2.564,3.352,14.019,9.716,6.57,4.928,4.696,4.936,8.424
+Czechia,Food,Revenue Change by Segment,Oils & Fats,percent,Statista,,-13.178,4.372,10.233,10.206,2.635,3.456,14.08,-3.945,14.268,3.983,3.777,3.948,-1.552
+Czechia,Food,Revenue Change by Segment,Pet Food,percent,Statista,,1.139,1.914,1.491,1.905,2.19,-0.131,1.23,9.718,0.66,0.936,1.043,1.514,1.989
+Czechia,Food,Revenue Change by Segment,Sauces & Spices,percent,Statista,,-13.127,4.414,10.276,10.262,2.675,3.49,14.145,11.444,4.61,4.521,4.397,4.49,5.192
+Czechia,Food,Revenue Change by Segment,Spreads & Sweeteners,percent,Statista,,-11.201,10.284,14.529,15.475,5.882,5.224,15.28,3.397,12.643,7.891,7.579,4.891,14.952
+Czechia,Food,Revenue Change by Segment,Vegetables,percent,Statista,,-13.107,4.489,10.352,10.338,2.776,3.545,14.185,9.757,3.122,3.574,3.532,3.686,-1.362
+Czechia,Food,Average Revenue per Capita,Total,USD (US$),Statista,"1,461","1,272","1,325","1,454","1,596","1,634","1,687","1,917","2,034","2,196","2,298","2,399","2,509","2,654"
+Czechia,Food,Average Revenue per Capita,Baby Food,USD (US$),Statista,6.974,6.042,6.288,6.909,7.589,7.764,8.008,9.112,10.01,10.34,10.71,11.08,11.51,11.42
+Czechia,Food,Average Revenue per Capita,Bread & Cereal Products,USD (US$),Statista,161.4,139.6,145.1,159.2,174.6,178.4,183.8,208.8,169,224.7,236.7,248,260.3,278.7
+Czechia,Food,Average Revenue per Capita,Confectionery & Snacks,USD (US$),Statista,288.6,249.9,259.2,284.2,311.3,317.9,327.7,372.7,413.7,431.2,449.7,468.6,489.2,514.2
+Czechia,Food,Average Revenue per Capita,Convenience Food,USD (US$),Statista,60.02,52.28,54.7,60.42,66.71,68.6,71.13,81.36,90.6,94.72,99.1,103.6,108,114.4
+Czechia,Food,Average Revenue per Capita,Dairy Products & Eggs,USD (US$),Statista,202.6,175.7,182.9,201,220.9,226.2,233.7,266,300.4,318.1,335.7,353.5,373.8,414.8
+Czechia,Food,Average Revenue per Capita,Fish & Seafood,USD (US$),Statista,63.66,55.26,57.63,63.45,69.83,71.58,73.98,84.35,77.06,90.44,94.22,97.92,101.9,101.4
+Czechia,Food,Average Revenue per Capita,Fruits & Nuts,USD (US$),Statista,116.4,101.2,105.8,116.8,128.8,132.3,137.1,156.7,172.5,179.4,186.9,194.6,202.4,206.8
+Czechia,Food,Average Revenue per Capita,Meat,USD (US$),Statista,295.3,256,266.5,292.9,321.8,329.3,339.8,386.7,423.8,451.4,473.3,495.3,519.7,563.5
+Czechia,Food,Average Revenue per Capita,Oils & Fats,USD (US$),Statista,34.82,30.2,31.47,34.62,38.07,38.99,40.26,45.86,43.99,50.23,52.2,54.15,56.28,55.41
+Czechia,Food,Average Revenue per Capita,Pet Food,USD (US$),Statista,33.17,33.52,34.1,34.54,35.11,35.8,35.69,36.08,39.54,39.77,40.12,40.51,41.12,41.94
+Czechia,Food,Average Revenue per Capita,Sauces & Spices,USD (US$),Statista,32.01,27.78,28.95,31.86,35.05,35.92,37.1,42.29,47.07,49.2,51.39,53.63,56.03,58.94
+Czechia,Food,Average Revenue per Capita,Spreads & Sweeteners,USD (US$),Statista,18.71,16.6,18.28,20.89,24.07,25.43,26.71,30.75,31.75,35.74,38.53,41.43,43.46,49.95
+Czechia,Food,Average Revenue per Capita,Vegetables,USD (US$),Statista,147.7,128.2,133.7,147.3,162.1,166.2,171.8,195.9,214.7,221.3,229.1,237.1,245.8,242.4
+Czechia,Food,Organic Food Share,Sustainable,percent,Statista|Statista Global Consumer Survey,0.68,0.728,0.784,0.973,1.227,1.36,1.377,1.423,1.439,1.582,1.735,1.901,2.078,2.292
+Czechia,Food,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.729,99.698,99.664,99.624,99.58,99.529,,
+Czechia,Food,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.271,0.302,0.336,0.376,0.42,0.471,,
+Czechia,Food,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Food,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Food,Out-of-Home Revenue,Total,billion USD (US$),Statista,4.469,4.599,4.729,4.859,4.989,5.119,3.677,4.093,4.595,5.066,5.551,6.047,5.268,5.347
+Czechia,Food,Out-of-Home Revenue,Gastronomic Services,billion USD (US$),Statista,3.122,3.213,3.304,3.395,3.485,3.576,1.992,2.573,3.026,3.437,3.767,4.103,3.396,3.427
+Czechia,Food,Out-of-Home Revenue,Institutional Food Services,billion USD (US$),Statista,0.211,0.218,0.224,0.23,0.236,0.242,0.174,0.194,0.217,0.24,0.263,0.286,0.249,0.253
+Czechia,Food,Out-of-Home Revenue,Takeout,billion USD (US$),Statista,1.136,1.169,1.202,1.235,1.268,1.301,1.511,1.327,1.351,1.389,1.522,1.657,1.606,1.653
+Czechia,Food,Volume by Segment,Total,million kilograms,Statista,"5,903.153","6,059.397","6,218.58","6,360.924","6,347.299","6,669.953","6,741.161","6,851.436","6,500.235","7,007.796","7,195.463","7,370.545","7,562.789","7,841.41"
+Czechia,Food,Volume by Segment,Baby Food,million kilograms,Statista,18.576,18.446,18.409,18.375,17.89,18.306,18.358,18.486,18.667,18.865,19.156,19.443,19.802,19.269
+Czechia,Food,Volume by Segment,Bread & Cereal Products,million kilograms,Statista,"1,306.707","1,351.641","1,404.25","1,458.297","1,476.36","1,570.131","1,586.394","1,618.48","1,199.495","1,568.489","1,623.614","1,670.364","1,720.521","1,816.871"
+Czechia,Food,Volume by Segment,Confectionery & Snacks,million kilograms,Statista,600.868,613.956,640.33,659.075,659.456,692.929,699.341,711.663,726.922,742.311,761.503,780.073,798.846,828.663
+Czechia,Food,Volume by Segment,Convenience Food,million kilograms,Statista,146.589,151.184,154.872,159.762,160.275,168.767,171.551,175.402,179.61,183.852,188.856,193.717,198.086,205.928
+Czechia,Food,Volume by Segment,Dairy Products & Eggs,million kilograms,Statista,951.531,999.54,"1,054.525","1,111.836","1,143.49","1,234.56","1,273.967","1,323.645","1,374.679","1,425.326","1,475.766","1,524.377","1,581.384","1,715.798"
+Czechia,Food,Volume by Segment,Fish & Seafood,million kilograms,Statista,48.493,48.069,47.882,47.696,46.333,47.296,47.355,47.601,39.355,45.563,46.523,47.375,48.317,46.971
+Czechia,Food,Volume by Segment,Fruits & Nuts,million kilograms,Statista,595.894,599.624,605.993,612.134,602.745,623.411,626.694,634.301,643.537,653.321,666.776,679.91,693.414,692.532
+Czechia,Food,Volume by Segment,Meat,million kilograms,Statista,449.573,461.225,476.152,491.75,492.329,518.348,525.138,535.389,535.794,556.367,569.53,581.809,598.237,630.966
+Czechia,Food,Volume by Segment,Oils & Fats,million kilograms,Statista,60.732,60.086,59.691,59.255,57.325,58.241,58.431,58.703,50.769,57.507,58.634,59.643,60.8,58.715
+Czechia,Food,Volume by Segment,Pet Food,million kilograms,Statista,212.888,248.467,242.992,224.078,203.517,207.994,213.961,193.601,194.931,191.826,189.829,188.029,187.15,187.114
+Czechia,Food,Volume by Segment,Sauces & Spices,million kilograms,Statista,113.202,115.831,119.057,122.333,122.545,128.957,130.643,133.248,136.124,139.018,142.38,145.62,149.171,153.872
+Czechia,Food,Volume by Segment,Spreads & Sweeteners,million kilograms,Statista,82.171,87.591,97.129,105.587,112.782,124.568,129.972,135.491,127.193,142.569,151.326,160.087,165.257,189.172
+Czechia,Food,Volume by Segment,Vegetables,million kilograms,Statista,"1,315.928","1,303.736","1,297.298","1,290.744","1,252.253","1,276.445","1,259.356","1,265.426","1,273.158","1,282.781","1,301.571","1,320.098","1,341.805","1,295.541"
+Czechia,Food,Volume Change by Segment,Total,percent,Statista,,2.647,2.627,2.289,-0.214,5.083,1.068,1.636,-5.126,7.808,2.678,2.433,2.608,3.684
+Czechia,Food,Volume Change by Segment,Baby Food,percent,Statista,,-0.701,-0.201,-0.184,-2.641,2.324,0.287,0.696,0.981,1.059,1.542,1.5,1.845,-2.69
+Czechia,Food,Volume Change by Segment,Bread & Cereal Products,percent,Statista,,3.439,3.892,3.849,1.239,6.352,1.036,2.023,-25.888,30.762,3.515,2.879,3.003,5.6
+Czechia,Food,Volume Change by Segment,Confectionery & Snacks,percent,Statista,,2.178,4.296,2.927,0.058,5.076,0.925,1.762,2.144,2.117,2.585,2.439,2.407,3.733
+Czechia,Food,Volume Change by Segment,Convenience Food,percent,Statista,,3.135,2.439,3.158,0.321,5.298,1.65,2.245,2.399,2.362,2.721,2.574,2.255,3.959
+Czechia,Food,Volume Change by Segment,Dairy Products & Eggs,percent,Statista,,5.045,5.501,5.435,2.847,7.964,3.192,3.899,3.856,3.684,3.539,3.294,3.74,8.5
+Czechia,Food,Volume Change by Segment,Fish & Seafood,percent,Statista,,-0.874,-0.389,-0.388,-2.858,2.077,0.125,0.52,-17.323,15.774,2.108,1.832,1.987,-2.784
+Czechia,Food,Volume Change by Segment,Fruits & Nuts,percent,Statista,,0.626,1.062,1.013,-1.534,3.429,0.527,1.214,1.456,1.52,2.06,1.97,1.986,-0.127
+Czechia,Food,Volume Change by Segment,Meat,percent,Statista,,2.592,3.236,3.276,0.118,5.285,1.31,1.952,0.076,3.84,2.366,2.156,2.824,5.471
+Czechia,Food,Volume Change by Segment,Oils & Fats,percent,Statista,,-1.062,-0.658,-0.73,-3.256,1.597,0.326,0.466,-13.515,13.272,1.959,1.72,1.939,-3.428
+Czechia,Food,Volume Change by Segment,Pet Food,percent,Statista,,16.712,-2.204,-7.784,-9.176,2.2,2.869,-9.516,0.687,-1.593,-1.041,-0.948,-0.467,-0.019
+Czechia,Food,Volume Change by Segment,Sauces & Spices,percent,Statista,,2.322,2.785,2.752,0.173,5.232,1.308,1.994,2.158,2.126,2.418,2.275,2.439,3.151
+Czechia,Food,Volume Change by Segment,Spreads & Sweeteners,percent,Statista,,6.596,10.889,8.708,6.814,10.45,4.338,4.246,-6.124,12.089,6.142,5.789,3.229,14.472
+Czechia,Food,Volume Change by Segment,Vegetables,percent,Statista,,-0.927,-0.494,-0.505,-2.982,1.932,-1.339,0.482,0.611,0.756,1.465,1.423,1.644,-3.448
+Czechia,Food,Average Volume per Capita,Total,kilograms,Statista,557.369,571.566,585.616,597.773,595.114,623.989,629.487,638.855,605.417,652.137,669.197,685.205,702.937,728.849
+Czechia,Food,Average Volume per Capita,Baby Food,kilograms,Statista,1.754,1.74,1.734,1.727,1.677,1.713,1.714,1.724,1.739,1.756,1.782,1.808,1.841,1.791
+Czechia,Food,Average Volume per Capita,Bread & Cereal Products,kilograms,Statista,123.378,127.497,132.241,137.045,138.422,146.889,148.137,150.914,111.718,145.962,151,155.286,159.917,168.876
+Czechia,Food,Average Volume per Capita,Confectionery & Snacks,kilograms,Statista,56.733,57.913,60.301,61.937,61.83,64.825,65.304,66.358,67.704,69.079,70.822,72.52,74.25,77.023
+Czechia,Food,Average Volume per Capita,Convenience Food,kilograms,Statista,13.841,14.261,14.585,15.014,15.027,15.788,16.019,16.355,16.728,17.109,17.564,18.009,18.411,19.141
+Czechia,Food,Average Volume per Capita,Dairy Products & Eggs,kilograms,Statista,89.842,94.284,99.307,104.486,107.212,115.496,118.962,123.422,128.035,132.639,137.25,141.714,146.985,159.481
+Czechia,Food,Average Volume per Capita,Fish & Seafood,kilograms,Statista,4.579,4.534,4.509,4.482,4.344,4.425,4.422,4.438,3.665,4.24,4.327,4.404,4.491,4.366
+Czechia,Food,Average Volume per Capita,Fruits & Nuts,kilograms,Statista,56.264,56.561,57.068,57.526,56.513,58.322,58.52,59.145,59.938,60.797,62.012,63.208,64.451,64.37
+Czechia,Food,Average Volume per Capita,Meat,kilograms,Statista,42.448,43.506,44.84,46.213,46.16,48.493,49.037,49.922,49.903,51.775,52.968,54.088,55.604,58.647
+Czechia,Food,Average Volume per Capita,Oils & Fats,kilograms,Statista,5.734,5.668,5.621,5.569,5.375,5.449,5.456,5.474,4.729,5.352,5.453,5.545,5.651,5.458
+Czechia,Food,Average Volume per Capita,Pet Food,kilograms,Statista,20.101,23.437,22.883,21.058,19.081,19.458,19.98,18.052,18.155,17.851,17.655,17.48,17.395,17.392
+Czechia,Food,Average Volume per Capita,Sauces & Spices,kilograms,Statista,10.688,10.926,11.212,11.496,11.49,12.064,12.199,12.425,12.678,12.937,13.242,13.538,13.865,14.302
+Czechia,Food,Average Volume per Capita,Spreads & Sweeteners,kilograms,Statista,7.759,8.262,9.147,9.923,10.574,11.654,12.137,12.634,11.846,13.267,14.074,14.883,15.36,17.583
+Czechia,Food,Average Volume per Capita,Vegetables,kilograms,Statista,124.248,122.978,122.169,121.299,117.41,119.414,117.598,117.993,118.579,119.374,121.049,122.723,124.717,120.419
+Czechia,Eggs,Price per Unit,Average,USD (US$),Statista,2.133,1.683,1.594,1.599,1.651,1.516,1.459,1.544,1.682,1.721,1.755,1.79,1.826,1.863
+Czechia,Eggs,Revenue,Total,million USD (US$),Statista,204.1,177.3,185.1,204.1,225.1,231.1,239.2,273,320.4,351.9,380.7,410.8,442.1,523
+Czechia,Eggs,Revenue Change,Total,percent,Statista,,-13.131,4.399,10.265,10.289,2.665,3.505,14.13,17.363,9.831,8.184,7.906,7.619,18.299
+Czechia,Eggs,Average Revenue per Capita,Total,USD (US$),Statista,19.27,16.72,17.43,19.18,21.1,21.62,22.33,25.45,29.84,32.75,35.41,38.19,41.09,48.61
+Czechia,Eggs,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.738,99.706,99.67,99.63,99.583,99.529,,
+Czechia,Eggs,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.262,0.294,0.33,0.37,0.417,0.471,,
+Czechia,Eggs,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Eggs,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Eggs,Volume,Total,million kilograms,Statista,95.695,105.341,116.141,127.626,136.316,152.489,163.933,176.824,190.465,204.491,216.92,229.443,242.103,280.796
+Czechia,Eggs,Volume Change,Total,percent,Statista,,10.08,10.252,9.888,6.809,11.864,7.505,7.864,7.714,7.364,6.078,5.773,5.517,15.982
+Czechia,Eggs,Average Volume per Capita in kilograms,Total,kilograms,Statista,9.035,9.937,10.937,11.994,12.781,14.266,15.308,16.488,17.739,19.03,20.174,21.33,22.503,26.1
+Czechia,Eggs,... in 12-packs,Eggs,12-packs,Statista,12.549,13.801,15.191,16.658,17.751,19.813,21.261,22.9,24.638,26.43,28.02,29.625,31.254,36.249
+Czechia,Eggs,... in 10-packs,Eggs,10-packs,Statista,15.059,16.561,18.229,19.99,21.301,23.776,25.513,27.48,29.566,31.716,33.624,35.55,37.505,43.499
+Czechia,Eggs,... in 6-packs,Eggs,6-packs,Statista,25.098,27.601,30.381,33.316,35.502,39.627,42.522,45.799,49.276,52.86,56.039,59.251,62.508,72.499
+Czechia,Cheese,Price per Unit,Average,USD (US$),Statista,7.51,6.212,6.147,6.427,6.889,6.545,6.637,7.348,8.007,8.191,8.355,8.522,8.692,8.866
+Czechia,Cheese,Revenue,Total,billion USD (US$),Statista,0.825,0.715,0.746,0.821,0.904,0.926,0.957,1.091,1.224,1.288,1.355,1.421,1.493,1.643
+Czechia,Cheese,Revenue Change,Total,percent,Statista,,-13.279,4.251,10.101,10.088,2.534,3.335,13.954,12.191,5.229,5.202,4.871,5.067,10.047
+Czechia,Cheese,Average Revenue per Capita,Total,USD (US$),Statista,77.86,67.45,70.2,77.14,84.72,86.67,89.4,101.7,114,119.9,126,132.1,138.7,152.7
+Czechia,Cheese,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.738,99.706,99.67,99.63,99.583,99.529,,
+Czechia,Cheese,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.262,0.294,0.33,0.37,0.417,0.471,,
+Czechia,Cheese,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Cheese,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Cheese,Volume,Total,million kilograms,Statista,109.799,115.123,121.265,127.716,131.167,141.558,144.236,148.464,152.901,157.274,162.136,166.718,171.721,185.267
+Czechia,Cheese,Volume Change,Total,percent,Statista,,4.849,5.335,5.32,2.702,7.922,1.892,2.931,2.989,2.86,3.091,2.826,3.001,7.889
+Czechia,Cheese,Average Volume per Capita,Total,kilograms,Statista,10.367,10.859,11.42,12.002,12.298,13.243,13.469,13.843,14.241,14.636,15.079,15.499,15.961,17.22
+Czechia,Cheese,... in 250-gram packs,Cheese,250 g packs,Statista,41.469,43.437,45.679,48.009,49.192,52.972,53.875,55.374,56.964,58.543,60.316,61.996,63.844,68.881
+Czechia,Cheese,... in 150-gram packs,Cheese,150 g packs,Statista,69.114,72.395,76.132,80.015,81.987,88.287,89.792,92.289,94.939,97.572,100.527,103.327,106.406,114.802
+Czechia,Other Dairy Products & Eggs,Price per Unit,Average,USD (US$),Statista,3.197,2.624,2.579,2.679,2.856,2.7,2.711,2.978,3.245,3.32,3.386,3.454,3.523,3.594
+Czechia,Other Dairy Products & Eggs,Revenue,Total,billion USD (US$),Statista,0.42,0.364,0.38,0.418,0.46,0.471,0.486,0.554,0.626,0.663,0.699,0.736,0.775,0.863
+Czechia,Other Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,-13.341,4.199,10.034,10.029,2.48,3.269,13.895,12.958,5.864,5.494,5.222,5.411,11.286
+Czechia,Other Dairy Products & Eggs,Average Revenue per Capita,Total,USD (US$),Statista,39.7,34.38,35.76,39.27,43.1,44.07,45.43,51.67,58.3,61.66,65.01,68.38,72.06,80.2
+Czechia,Other Dairy Products & Eggs,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.738,99.706,99.67,99.63,99.583,99.529,,
+Czechia,Other Dairy Products & Eggs,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.262,0.294,0.33,0.37,0.417,0.471,,
+Czechia,Other Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Other Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Other Dairy Products & Eggs,Volume,Total,million kilograms,Statista,131.538,138.908,147.257,155.972,160.988,174.499,179.456,186.051,192.879,199.594,206.424,212.943,220.067,240.102
+Czechia,Other Dairy Products & Eggs,Volume Change,Total,percent,Statista,,5.603,6.011,5.918,3.216,8.393,2.841,3.675,3.67,3.482,3.422,3.158,3.345,9.104
+Czechia,Other Dairy Products & Eggs,Average Volume per Capita,Total,kilograms,Statista,12.42,13.103,13.867,14.658,15.094,16.325,16.758,17.348,17.964,18.574,19.198,19.796,20.455,22.317
+Czechia,Milk,Price per Unit,Average,USD (US$),Statista,0.867,0.723,0.722,0.761,0.824,0.79,0.798,0.883,0.962,0.984,1.004,1.024,1.044,1.065
+Czechia,Milk,Revenue,Total,billion USD (US$),Statista,0.433,0.375,0.39,0.428,0.471,0.482,0.497,0.565,0.633,0.665,0.697,0.729,0.765,0.826
+Czechia,Milk,Revenue Change,Total,percent,Statista,,-13.441,4.029,9.9,9.872,2.315,3.135,13.728,12.071,5.085,4.779,4.575,4.979,7.944
+Czechia,Milk,Average Revenue per Capita,Total,USD (US$),Statista,40.89,35.35,36.72,40.27,44.14,45.07,46.39,52.68,58.98,61.92,64.84,67.78,71.15,76.79
+Czechia,Milk,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.738,99.706,99.67,99.63,99.583,99.529,,
+Czechia,Milk,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.262,0.294,0.33,0.37,0.417,0.471,,
+Czechia,Milk,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Milk,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Milk,Volume,Total,million kilograms,Statista,499.351,518.227,540.134,562.69,571.41,609.521,622.643,640.098,658.366,676.27,694.667,712.259,733.071,775.718
+Czechia,Milk,Volume Change,Total,percent,Statista,,3.78,4.227,4.176,1.55,6.67,2.153,2.803,2.854,2.719,2.72,2.532,2.922,5.818
+Czechia,Milk,Average Volume per Capita,Total,kilograms,Statista,47.148,48.883,50.865,52.879,53.575,57.022,58.142,59.685,61.319,62.933,64.606,66.215,68.137,72.102
+Czechia,Milk,... in 3-liter packs,Milk,3 L packs,Statista,15.258,15.82,16.461,17.113,17.338,18.454,18.816,19.316,19.844,20.367,20.908,21.429,22.051,23.334
+Czechia,Milk,... in 1-liter packs,Milk,1 L packs,Statista,45.775,47.459,49.384,51.339,52.014,55.361,56.449,57.947,59.533,61.1,62.724,64.287,66.152,70.002
+Czechia,Milk,… in 0.5-liter packs,Milk,0.5 L packs,Statista,91.55,94.918,98.768,102.678,104.028,110.722,112.897,115.894,119.066,122.2,125.448,128.573,132.304,140.004
+Czechia,Milk Substitutes,Price per Unit,Average,USD (US$),Statista,2.48,2.178,2.052,2.109,2.14,2.136,2.165,2.235,2.435,2.491,2.541,2.592,2.644,2.696
+Czechia,Milk Substitutes,Average Revenue per Capita,Total,USD (US$),Statista,1.454,1.495,1.634,1.897,2.267,2.606,3.139,3.777,4.2,4.6,5.001,5.419,6.175,6.94
+Czechia,Milk Substitutes,Revenue,Total,million USD (US$),Statista,15.4,15.85,17.35,20.18,24.18,27.86,33.62,40.5,48.38,53.45,59.71,65.3,80.91,91.94
+Czechia,Milk Substitutes,Revenue Change,Total,percent,Statista,,2.922,9.464,16.311,19.822,15.219,20.675,20.464,19.457,10.48,11.712,9.362,23.905,13.632
+Czechia,Milk Substitutes,Volume,Total,million kilograms,Statista,6.21,7.278,8.458,9.571,11.299,13.039,15.524,18.124,19.867,21.458,23.5,25.195,30.608,34.096
+Czechia,Milk Substitutes,Volume Change,Total,percent,Statista,,17.207,16.206,13.158,18.06,15.397,19.063,16.748,9.612,8.009,9.519,7.211,21.485,11.397
+Czechia,Milk Substitutes,Average Volume per Capita,Total,kilograms,Statista,0.586,0.687,0.796,0.899,1.059,1.22,1.45,1.69,1.85,1.997,2.186,2.342,2.845,3.169
+Czechia,Milk Substitutes,... in 3-liter packs,Milk Substitutes,3 L packs,Statista,0.19,0.222,0.258,0.291,0.343,0.395,0.469,0.547,0.599,0.646,0.707,0.758,0.921,1.026
+Czechia,Milk Substitutes,... in 1-liter packs,Milk Substitutes,1 L packs,Statista,0.569,0.667,0.773,0.873,1.029,1.184,1.407,1.641,1.796,1.939,2.122,2.274,2.762,3.077
+Czechia,Milk Substitutes,… in 0.5-liter packs,Milk Substitutes,0.5 L packs,Statista,1.138,1.333,1.547,1.746,2.057,2.369,2.815,3.282,3.593,3.877,4.244,4.548,5.524,6.154
+Czechia,Dairy Products & Eggs,Price per Unit,Average,USD (US$),Statista,2.255,1.864,1.842,1.924,2.06,1.958,1.964,2.155,2.346,2.398,2.446,2.494,2.543,2.601
+Czechia,Dairy Products & Eggs,Price per Unit,Cheese,USD (US$),Statista,7.51,6.212,6.147,6.427,6.889,6.545,6.637,7.348,8.007,8.191,8.355,8.522,8.692,8.866
+Czechia,Dairy Products & Eggs,Price per Unit,Eggs,USD (US$),Statista,2.133,1.683,1.594,1.599,1.651,1.516,1.459,1.544,1.682,1.721,1.755,1.79,1.826,1.863
+Czechia,Dairy Products & Eggs,Price per Unit,Milk,USD (US$),Statista,0.867,0.723,0.722,0.761,0.824,0.79,0.798,0.883,0.962,0.984,1.004,1.024,1.044,1.065
+Czechia,Dairy Products & Eggs,Price per Unit,Milk Substitutes,USD (US$),Statista,2.48,2.178,2.052,2.109,2.14,2.136,2.165,2.235,2.435,2.491,2.541,2.592,2.644,2.696
+Czechia,Dairy Products & Eggs,Price per Unit,Other Dairy Products & Eggs,USD (US$),Statista,3.197,2.624,2.579,2.679,2.856,2.7,2.711,2.978,3.245,3.32,3.386,3.454,3.523,3.594
+Czechia,Dairy Products & Eggs,Price per Unit,Yogurt,USD (US$),Statista,2.276,1.877,1.851,1.928,2.059,1.948,1.95,2.139,2.33,2.384,2.432,2.48,2.53,2.581
+Czechia,Dairy Products & Eggs,Revenue,Total,million USD (US$),Statista,"2,146","1,863","1,942","2,139","2,356","2,418","2,503","2,853","3,226","3,418","3,610","3,802","4,021","4,462"
+Czechia,Dairy Products & Eggs,Revenue,Cheese,million USD (US$),Statista,824.6,715.1,745.5,820.8,903.6,926.5,957.4,"1,091","1,224","1,288","1,355","1,421","1,493","1,643"
+Czechia,Dairy Products & Eggs,Revenue,Eggs,million USD (US$),Statista,204.1,177.3,185.1,204.1,225.1,231.1,239.2,273,320.4,351.9,380.7,410.8,442.1,523
+Czechia,Dairy Products & Eggs,Revenue,Milk,million USD (US$),Statista,433,374.8,389.9,428.5,470.8,481.7,496.8,565,633.2,665.4,697.2,729.1,765.4,826.2
+Czechia,Dairy Products & Eggs,Revenue,Milk Substitutes,million USD (US$),Statista,15.4,15.85,17.35,20.18,24.18,27.86,33.62,40.5,48.38,53.45,59.71,65.3,80.91,91.94
+Czechia,Dairy Products & Eggs,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,420.5,364.4,379.7,417.8,459.7,471.1,486.5,554.1,625.9,662.6,699,735.5,775.3,862.8
+Czechia,Dairy Products & Eggs,Revenue,Yogurt,million USD (US$),Statista,248,215.2,224.5,247.3,272.4,279.5,289,329.5,373.3,396.3,418.5,441,465,515.6
+Czechia,Dairy Products & Eggs,Revenue Change,Total,percent,Statista,,-13.187,4.24,10.144,10.145,2.632,3.515,13.983,13.074,5.952,5.617,5.319,5.76,10.967
+Czechia,Dairy Products & Eggs,Revenue Change,Cheese,percent,Statista,,-13.279,4.251,10.101,10.088,2.534,3.335,13.954,12.191,5.229,5.202,4.871,5.067,10.047
+Czechia,Dairy Products & Eggs,Revenue Change,Eggs,percent,Statista,,-13.131,4.399,10.265,10.289,2.665,3.505,14.13,17.363,9.831,8.184,7.906,7.619,18.299
+Czechia,Dairy Products & Eggs,Revenue Change,Milk,percent,Statista,,-13.441,4.029,9.9,9.872,2.315,3.135,13.728,12.071,5.085,4.779,4.575,4.979,7.944
+Czechia,Dairy Products & Eggs,Revenue Change,Milk Substitutes,percent,Statista,,2.922,9.464,16.311,19.822,15.219,20.675,20.464,19.457,10.48,11.712,9.362,23.905,13.632
+Czechia,Dairy Products & Eggs,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,-13.341,4.199,10.034,10.029,2.48,3.269,13.895,12.958,5.864,5.494,5.222,5.411,11.286
+Czechia,Dairy Products & Eggs,Revenue Change,Yogurt,percent,Statista,,-13.226,4.322,10.156,10.15,2.606,3.399,14.014,13.293,6.161,5.602,5.376,5.442,10.882
+Czechia,Dairy Products & Eggs,Average Revenue per Capita,Total,USD (US$),Statista,202.6,175.7,182.9,201,220.9,226.2,233.7,266,300.4,318.1,335.7,353.5,373.8,414.8
+Czechia,Dairy Products & Eggs,Average Revenue per Capita,Cheese,USD (US$),Statista,77.86,67.45,70.2,77.14,84.72,86.67,89.4,101.7,114,119.9,126,132.1,138.7,152.7
+Czechia,Dairy Products & Eggs,Average Revenue per Capita,Eggs,USD (US$),Statista,19.27,16.72,17.43,19.18,21.1,21.62,22.33,25.45,29.84,32.75,35.41,38.19,41.09,48.61
+Czechia,Dairy Products & Eggs,Average Revenue per Capita,Milk,USD (US$),Statista,40.89,35.35,36.72,40.27,44.14,45.07,46.39,52.68,58.98,61.92,64.84,67.78,71.15,76.79
+Czechia,Dairy Products & Eggs,Average Revenue per Capita,Milk Substitutes,USD (US$),Statista,1.454,1.495,1.634,1.897,2.267,2.606,3.139,3.777,4.2,4.6,5.001,5.419,6.175,6.94
+Czechia,Dairy Products & Eggs,Average Revenue per Capita,Other Dairy Products & Eggs,USD (US$),Statista,39.7,34.38,35.76,39.27,43.1,44.07,45.43,51.67,58.3,61.66,65.01,68.38,72.06,80.2
+Czechia,Dairy Products & Eggs,Average Revenue per Capita,Yogurt,USD (US$),Statista,23.42,20.3,21.14,23.24,25.54,26.15,26.99,30.73,34.77,36.88,38.93,41,43.22,47.93
+Czechia,Dairy Products & Eggs,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.738,99.706,99.67,99.63,99.583,99.529,,
+Czechia,Dairy Products & Eggs,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.262,0.294,0.33,0.37,0.417,0.471,,
+Czechia,Dairy Products & Eggs,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Dairy Products & Eggs,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Dairy Products & Eggs,Volume,Total,million kilograms,Statista,951.531,999.54,"1,054.525","1,111.836","1,143.49","1,234.56","1,273.967","1,323.645","1,374.679","1,425.326","1,475.766","1,524.377","1,581.384","1,715.798"
+Czechia,Dairy Products & Eggs,Volume,Cheese,million kilograms,Statista,109.799,115.123,121.265,127.716,131.167,141.558,144.236,148.464,152.901,157.274,162.136,166.718,171.721,185.267
+Czechia,Dairy Products & Eggs,Volume,Eggs,million kilograms,Statista,95.695,105.341,116.141,127.626,136.316,152.489,163.933,176.824,190.465,204.491,216.92,229.443,242.103,280.796
+Czechia,Dairy Products & Eggs,Volume,Milk,million kilograms,Statista,499.351,518.227,540.134,562.69,571.41,609.521,622.643,640.098,658.366,676.27,694.667,712.259,733.071,775.718
+Czechia,Dairy Products & Eggs,Volume,Milk Substitutes,million kilograms,Statista,6.21,7.278,8.458,9.571,11.299,13.039,15.524,18.124,19.867,21.458,23.5,25.195,30.608,34.096
+Czechia,Dairy Products & Eggs,Volume,Other Dairy Products & Eggs,million kilograms,Statista,131.538,138.908,147.257,155.972,160.988,174.499,179.456,186.051,192.879,199.594,206.424,212.943,220.067,240.102
+Czechia,Dairy Products & Eggs,Volume,Yogurt,million kilograms,Statista,108.938,114.663,121.27,128.261,132.31,143.454,148.174,154.084,160.202,166.239,172.119,177.818,183.815,199.818
+Czechia,Dairy Products & Eggs,Volume Change,Total,percent,Statista,,5.045,5.501,5.435,2.847,7.964,3.192,3.899,3.856,3.684,3.539,3.294,3.74,8.5
+Czechia,Dairy Products & Eggs,Volume Change,Cheese,percent,Statista,,4.849,5.335,5.32,2.702,7.922,1.892,2.931,2.989,2.86,3.091,2.826,3.001,7.889
+Czechia,Dairy Products & Eggs,Volume Change,Eggs,percent,Statista,,10.08,10.252,9.888,6.809,11.864,7.505,7.864,7.714,7.364,6.078,5.773,5.517,15.982
+Czechia,Dairy Products & Eggs,Volume Change,Milk,percent,Statista,,3.78,4.227,4.176,1.55,6.67,2.153,2.803,2.854,2.719,2.72,2.532,2.922,5.818
+Czechia,Dairy Products & Eggs,Volume Change,Milk Substitutes,percent,Statista,,17.207,16.206,13.158,18.06,15.397,19.063,16.748,9.612,8.009,9.519,7.211,21.485,11.397
+Czechia,Dairy Products & Eggs,Volume Change,Other Dairy Products & Eggs,percent,Statista,,5.603,6.011,5.918,3.216,8.393,2.841,3.675,3.67,3.482,3.422,3.158,3.345,9.104
+Czechia,Dairy Products & Eggs,Volume Change,Yogurt,percent,Statista,,5.256,5.762,5.765,3.157,8.423,3.29,3.988,3.97,3.769,3.537,3.311,3.372,8.706
+Czechia,Dairy Products & Eggs,Average Volume per Capita,Total,kilograms,Statista,89.842,94.284,99.307,104.486,107.212,115.496,118.962,123.422,128.035,132.639,137.25,141.714,146.985,159.481
+Czechia,Dairy Products & Eggs,Average Volume per Capita,Cheese,kilograms,Statista,10.367,10.859,11.42,12.002,12.298,13.243,13.469,13.843,14.241,14.636,15.079,15.499,15.961,17.22
+Czechia,Dairy Products & Eggs,Average Volume per Capita,Eggs,kilograms,Statista,9.035,9.937,10.937,11.994,12.781,14.266,15.308,16.488,17.739,19.03,20.174,21.33,22.503,26.1
+Czechia,Dairy Products & Eggs,Average Volume per Capita,Milk,kilograms,Statista,47.148,48.883,50.865,52.879,53.575,57.022,58.142,59.685,61.319,62.933,64.606,66.215,68.137,72.102
+Czechia,Dairy Products & Eggs,Average Volume per Capita,Milk Substitutes,kilograms,Statista,0.586,0.687,0.796,0.899,1.059,1.22,1.45,1.69,1.85,1.997,2.186,2.342,2.845,3.169
+Czechia,Dairy Products & Eggs,Average Volume per Capita,Other Dairy Products & Eggs,kilograms,Statista,12.42,13.103,13.867,14.658,15.094,16.325,16.758,17.348,17.964,18.574,19.198,19.796,20.455,22.317
+Czechia,Dairy Products & Eggs,Average Volume per Capita,Yogurt,kilograms,Statista,10.286,10.816,11.42,12.053,12.405,13.42,13.836,14.367,14.921,15.47,16.008,16.531,17.085,18.573
+Czechia,Yogurt,Price per Unit,Average,USD (US$),Statista,2.276,1.877,1.851,1.928,2.059,1.948,1.95,2.139,2.33,2.384,2.432,2.48,2.53,2.581
+Czechia,Yogurt,Revenue,Total,billion USD (US$),Statista,0.248,0.215,0.225,0.247,0.272,0.28,0.289,0.33,0.373,0.396,0.418,0.441,0.465,0.516
+Czechia,Yogurt,Revenue Change,Total,percent,Statista,,-13.226,4.322,10.156,10.15,2.606,3.399,14.014,13.293,6.161,5.602,5.376,5.442,10.882
+Czechia,Yogurt,Average Revenue per Capita,Total,USD (US$),Statista,23.42,20.3,21.14,23.24,25.54,26.15,26.99,30.73,34.77,36.88,38.93,41,43.22,47.93
+Czechia,Yogurt,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.738,99.706,99.67,99.63,99.583,99.529,,
+Czechia,Yogurt,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.262,0.294,0.33,0.37,0.417,0.471,,
+Czechia,Yogurt,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Yogurt,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Yogurt,Volume,Total,million kilograms,Statista,108.938,114.663,121.27,128.261,132.31,143.454,148.174,154.084,160.202,166.239,172.119,177.818,183.815,199.818
+Czechia,Yogurt,Volume Change,Total,percent,Statista,,5.256,5.762,5.765,3.157,8.423,3.29,3.988,3.97,3.769,3.537,3.311,3.372,8.706
+Czechia,Yogurt,Average Volume per Capita,Total,kilograms,Statista,10.286,10.816,11.42,12.053,12.405,13.42,13.836,14.367,14.921,15.47,16.008,16.531,17.085,18.573
+Czechia,Yogurt,... in 500-gram packs,Yogurt,500 g packs,Statista,20.572,21.632,22.84,24.107,24.81,26.841,27.673,28.735,29.842,30.94,32.015,33.062,34.17,37.146
+Czechia,Yogurt,... in 250-gram packs,Yogurt,250 g packs,Statista,41.143,43.264,45.681,48.214,49.621,53.682,55.346,57.47,59.683,61.88,64.03,66.124,68.34,74.291
+Czechia,Yogurt,... in 150-gram packs,Yogurt,150 g packs,Statista,68.572,72.106,76.135,80.356,82.701,89.47,92.243,95.783,99.472,103.134,106.717,110.206,113.9,123.819
+Czechia,Fruits & Nuts,Price per Unit,Average,USD (US$),Statista,2.068,1.79,1.854,2.03,2.279,2.269,2.343,2.649,2.879,2.95,3.014,3.079,3.14,3.212
+Czechia,Fruits & Nuts,Price per Unit,Fresh Fruits,USD (US$),Statista,1.84,1.592,1.648,1.804,2.025,2.015,2.08,2.351,2.565,2.628,2.684,2.742,2.797,2.864
+Czechia,Fruits & Nuts,Price per Unit,Nuts,USD (US$),Statista,6.766,5.737,5.823,6.247,6.877,6.713,6.863,7.685,7.967,8.16,8.328,8.49,8.635,8.645
+Czechia,Fruits & Nuts,Price per Unit,Processed & Frozen Fruits,USD (US$),Statista,3.346,2.929,3.066,3.39,3.841,3.856,3.998,4.544,4.952,5.066,5.167,5.27,5.376,5.483
+Czechia,Fruits & Nuts,Revenue,Total,billion USD (US$),Statista,1.232,1.073,1.124,1.243,1.374,1.415,1.468,1.68,1.853,1.927,2.01,2.093,2.178,2.225
+Czechia,Fruits & Nuts,Revenue,Fresh Fruits,billion USD (US$),Statista,0.995,0.866,0.907,1.002,1.108,1.14,1.183,1.353,1.498,1.557,1.623,1.69,1.758,1.798
+Czechia,Fruits & Nuts,Revenue,Nuts,billion USD (US$),Statista,0.105,0.092,0.096,0.107,0.118,0.122,0.128,0.146,0.156,0.164,0.172,0.181,0.188,0.197
+Czechia,Fruits & Nuts,Revenue,Processed & Frozen Fruits,billion USD (US$),Statista,0.132,0.115,0.121,0.134,0.148,0.152,0.158,0.181,0.199,0.206,0.214,0.223,0.231,0.23
+Czechia,Fruits & Nuts,Revenue Change,Total,percent,Statista,,-12.906,4.753,10.587,10.539,2.984,3.746,14.441,10.298,3.994,4.307,4.129,4.061,2.158
+Czechia,Fruits & Nuts,Revenue Change,Fresh Fruits,percent,Statista,,-12.951,4.651,10.511,10.579,2.888,3.772,14.37,10.717,3.939,4.239,4.128,4.024,2.275
+Czechia,Fruits & Nuts,Revenue Change,Nuts,percent,Statista,,-12.605,5.066,10.984,10.955,3.291,4.167,14.824,6.489,5.196,5.122,4.93,4.091,4.355
+Czechia,Fruits & Nuts,Revenue Change,Processed & Frozen Fruits,percent,Statista,,-12.84,4.679,10.596,10.629,2.977,3.811,14.494,10.116,3.514,3.928,3.873,3.729,-0.433
+Czechia,Fruits & Nuts,Average Revenue per Capita,Total,USD (US$),Statista,116.4,101.2,105.8,116.8,128.8,132.3,137.1,156.7,172.5,179.4,186.9,194.6,202.4,206.8
+Czechia,Fruits & Nuts,Average Revenue per Capita,Fresh Fruits,USD (US$),Statista,93.97,81.73,85.39,94.19,103.8,106.6,110.4,126.1,139.5,144.9,150.9,157.1,163.4,167.1
+Czechia,Fruits & Nuts,Average Revenue per Capita,Nuts,USD (US$),Statista,9.894,8.639,9.062,10.04,11.11,11.45,11.9,13.65,14.52,15.26,16.04,16.81,17.5,18.27
+Czechia,Fruits & Nuts,Average Revenue per Capita,Processed & Frozen Fruits,USD (US$),Statista,12.5,10.88,11.38,12.56,13.86,14.24,14.76,16.87,18.56,19.19,19.93,20.69,21.46,21.37
+Czechia,Fruits & Nuts,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.733,99.702,99.666,99.627,99.581,99.529,,
+Czechia,Fruits & Nuts,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.267,0.298,0.334,0.373,0.419,0.471,,
+Czechia,Fruits & Nuts,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Fruits & Nuts,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Fruits & Nuts,Volume,Total,million kilograms,Statista,595.894,599.624,605.993,612.134,602.745,623.411,626.694,634.301,643.537,653.321,666.776,679.91,693.414,692.532
+Czechia,Fruits & Nuts,Volume,Fresh Fruits,million kilograms,Statista,540.832,544.274,550.069,555.617,547.032,565.689,568.59,575.438,583.734,592.515,604.595,616.377,628.65,627.869
+Czechia,Fruits & Nuts,Volume,Nuts,million kilograms,Statista,15.488,15.966,16.526,17.093,17.229,18.237,18.575,19.05,19.568,20.094,20.706,21.305,21.811,22.735
+Czechia,Fruits & Nuts,Volume,Processed & Frozen Fruits,million kilograms,Statista,39.574,39.384,39.399,39.425,38.484,39.486,39.529,39.814,40.235,40.712,41.475,42.228,42.954,41.927
+Czechia,Fruits & Nuts,Volume Change,Total,percent,Statista,,0.626,1.062,1.013,-1.534,3.429,0.527,1.214,1.456,1.52,2.06,1.97,1.986,-0.127
+Czechia,Fruits & Nuts,Volume Change,Fresh Fruits,percent,Statista,,0.636,1.065,1.009,-1.545,3.411,0.513,1.204,1.442,1.504,2.039,1.949,1.991,-0.124
+Czechia,Fruits & Nuts,Volume Change,Nuts,percent,Statista,,3.086,3.506,3.429,0.796,5.85,1.857,2.554,2.719,2.689,3.044,2.893,2.374,4.241
+Czechia,Fruits & Nuts,Volume Change,Processed & Frozen Fruits,percent,Statista,,-0.479,0.037,0.067,-2.386,2.603,0.108,0.721,1.06,1.184,1.875,1.816,1.719,-2.391
+Czechia,Fruits & Nuts,Average Volume per Capita,Total,kilograms,Statista,56.264,56.561,57.068,57.526,56.513,58.322,58.52,59.145,59.938,60.797,62.012,63.208,64.451,64.37
+Czechia,Fruits & Nuts,Average Volume per Capita,Fresh Fruits,kilograms,Statista,51.065,51.34,51.801,52.215,51.289,52.921,53.095,53.656,54.368,55.139,56.229,57.302,58.431,58.36
+Czechia,Fruits & Nuts,Average Volume per Capita,Nuts,kilograms,Statista,1.462,1.506,1.556,1.606,1.615,1.706,1.735,1.776,1.823,1.87,1.926,1.981,2.027,2.113
+Czechia,Fruits & Nuts,Average Volume per Capita,Processed & Frozen Fruits,kilograms,Statista,3.737,3.715,3.71,3.705,3.608,3.694,3.691,3.712,3.747,3.789,3.857,3.926,3.992,3.897
+Czechia,Fresh Fruits,Price per Unit,Average,USD (US$),Statista,1.84,1.592,1.648,1.804,2.025,2.015,2.08,2.351,2.565,2.628,2.684,2.742,2.797,2.864
+Czechia,Fresh Fruits,Price per Unit,Apples & Pears,USD (US$),Statista,1.227,1.079,1.136,1.263,1.442,1.46,1.517,1.729,1.884,1.927,1.966,2.005,2.045,2.086
+Czechia,Fresh Fruits,Price per Unit,Bananas,USD (US$),Statista,1.296,1.119,1.157,1.264,1.416,1.408,1.45,1.638,1.785,1.826,1.863,1.9,1.938,1.977
+Czechia,Fresh Fruits,Price per Unit,Berries & Grapes,USD (US$),Statista,6.369,5.463,5.61,6.089,6.781,6.697,6.877,7.741,8.435,8.629,8.802,8.978,9.157,9.341
+Czechia,Fresh Fruits,Price per Unit,Citrus Fruits,USD (US$),Statista,1.275,1.087,1.109,1.197,1.325,1.3,1.335,1.497,1.631,1.668,1.702,1.736,1.771,1.806
+Czechia,Fresh Fruits,Price per Unit,Other Fresh Fruits,USD (US$),Statista,2.542,2.187,2.253,2.453,2.741,2.716,2.795,3.151,3.434,3.513,3.583,3.655,3.728,3.802
+Czechia,Fresh Fruits,Revenue,Total,billion USD (US$),Statista,0.995,0.866,0.907,1.002,1.108,1.14,1.183,1.353,1.498,1.557,1.623,1.69,1.758,1.798
+Czechia,Fresh Fruits,Revenue,Apples & Pears,billion USD (US$),Statista,0.188,0.163,0.169,0.186,0.204,0.209,0.216,0.246,0.268,0.275,0.284,0.293,0.303,0.295
+Czechia,Fresh Fruits,Revenue,Bananas,billion USD (US$),Statista,0.127,0.111,0.115,0.127,0.14,0.144,0.149,0.17,0.188,0.195,0.202,0.21,0.218,0.222
+Czechia,Fresh Fruits,Revenue,Berries & Grapes,billion USD (US$),Statista,0.193,0.169,0.177,0.196,0.217,0.225,0.234,0.268,0.298,0.312,0.327,0.342,0.356,0.369
+Czechia,Fresh Fruits,Revenue,Citrus Fruits,billion USD (US$),Statista,0.173,0.151,0.158,0.174,0.193,0.199,0.206,0.236,0.262,0.274,0.286,0.299,0.312,0.326
+Czechia,Fresh Fruits,Revenue,Other Fresh Fruits,billion USD (US$),Statista,0.315,0.274,0.288,0.319,0.353,0.364,0.378,0.433,0.481,0.501,0.524,0.546,0.569,0.586
+Czechia,Fresh Fruits,Revenue Change,Total,percent,Statista,,-12.951,4.651,10.511,10.579,2.888,3.772,14.37,10.717,3.939,4.239,4.128,4.024,2.275
+Czechia,Fresh Fruits,Revenue Change,Apples & Pears,percent,Statista,,-13.426,4.123,9.929,9.946,2.347,3.201,13.75,9.198,2.646,3.086,3.1,3.621,-2.605
+Czechia,Fresh Fruits,Revenue Change,Bananas,percent,Statista,,-13.129,4.434,10.225,10.22,2.71,3.472,14.161,10.347,3.676,3.905,3.808,4.05,1.511
+Czechia,Fresh Fruits,Revenue Change,Berries & Grapes,percent,Statista,,-12.649,4.985,10.854,10.862,3.266,4.053,14.769,11.339,4.523,4.679,4.593,4.157,3.85
+Czechia,Fresh Fruits,Revenue Change,Citrus Fruits,percent,Statista,,-12.89,4.645,10.59,10.55,2.956,3.728,14.424,11.29,4.5,4.562,4.433,4.278,4.519
+Czechia,Fresh Fruits,Revenue Change,Other Fresh Fruits,percent,Statista,,-12.782,4.849,10.744,10.738,3.119,3.932,14.603,10.988,4.264,4.468,4.354,4.081,2.936
+Czechia,Fresh Fruits,Average Revenue per Capita,Total,USD (US$),Statista,93.97,81.73,85.39,94.19,103.8,106.6,110.4,126.1,139.5,144.9,150.9,157.1,163.4,167.1
+Czechia,Fresh Fruits,Average Revenue per Capita,Apples & Pears,USD (US$),Statista,17.72,15.33,15.93,17.48,19.17,19.58,20.17,22.91,24.99,25.63,26.41,27.21,28.19,27.46
+Czechia,Fresh Fruits,Average Revenue per Capita,Bananas,USD (US$),Statista,12.01,10.42,10.86,11.95,13.15,13.47,13.92,15.86,17.48,18.11,18.8,19.52,20.29,20.61
+Czechia,Fresh Fruits,Average Revenue per Capita,Berries & Grapes,USD (US$),Statista,18.21,15.89,16.66,18.43,20.39,21,21.82,25,27.8,29.04,30.38,31.76,33.07,34.34
+Czechia,Fresh Fruits,Average Revenue per Capita,Citrus Fruits,USD (US$),Statista,16.34,14.21,14.85,16.39,18.07,18.57,19.23,21.97,24.42,25.5,26.64,27.81,29,30.31
+Czechia,Fresh Fruits,Average Revenue per Capita,Other Fresh Fruits,USD (US$),Statista,29.69,25.87,27.08,29.93,33.07,34.02,35.29,40.39,44.79,46.65,48.7,50.8,52.87,54.42
+Czechia,Fresh Fruits,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.733,99.702,99.666,99.627,99.581,99.529,,
+Czechia,Fresh Fruits,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.267,0.298,0.334,0.373,0.419,0.471,,
+Czechia,Fresh Fruits,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Fresh Fruits,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Fresh Fruits,Volume,Total,million kilograms,Statista,540.832,544.274,550.069,555.617,547.032,565.689,568.59,575.438,583.734,592.515,604.595,616.377,628.65,627.869
+Czechia,Fresh Fruits,Volume,Apples & Pears,million kilograms,Statista,152.996,150.685,149.011,147.243,141.79,143.382,142.388,142.132,142.402,142.887,144.452,145.962,148.311,141.634
+Czechia,Fresh Fruits,Volume,Bananas,million kilograms,Statista,98.131,98.723,99.724,100.66,99.019,102.289,102.744,103.796,105.131,106.543,108.545,110.484,112.664,112.15
+Czechia,Fresh Fruits,Volume,Berries & Grapes,million kilograms,Statista,30.283,30.835,31.526,32.207,32.066,33.526,33.976,34.635,35.384,36.158,37.111,38.049,38.855,39.554
+Czechia,Fresh Fruits,Volume,Citrus Fruits,million kilograms,Statista,135.699,138.606,142.151,145.681,145.499,152.606,154.243,157.416,160.786,164.217,168.34,172.359,176.242,180.543
+Czechia,Fresh Fruits,Volume,Other Fresh Fruits,million kilograms,Statista,123.723,125.424,127.657,129.825,128.658,133.886,135.24,137.459,140.032,142.71,146.148,149.522,152.578,153.988
+Czechia,Fresh Fruits,Volume Change,Total,percent,Statista,,0.636,1.065,1.009,-1.545,3.411,0.513,1.204,1.442,1.504,2.039,1.949,1.991,-0.124
+Czechia,Fresh Fruits,Volume Change,Apples & Pears,percent,Statista,,-1.51,-1.111,-1.186,-3.704,1.123,-0.693,-0.18,0.19,0.341,1.095,1.046,1.609,-4.502
+Czechia,Fresh Fruits,Volume Change,Bananas,percent,Statista,,0.604,1.013,0.939,-1.63,3.303,0.445,1.024,1.286,1.343,1.879,1.787,1.973,-0.457
+Czechia,Fresh Fruits,Volume Change,Berries & Grapes,percent,Statista,,1.824,2.238,2.162,-0.439,4.553,1.342,1.94,2.163,2.186,2.636,2.527,2.119,1.8
+Czechia,Fresh Fruits,Volume Change,Citrus Fruits,percent,Statista,,2.142,2.558,2.483,-0.125,4.884,1.073,2.057,2.141,2.134,2.511,2.387,2.253,2.441
+Czechia,Fresh Fruits,Volume Change,Other Fresh Fruits,percent,Statista,,1.375,1.78,1.698,-0.898,4.063,1.011,1.641,1.872,1.913,2.409,2.309,2.044,0.924
+Czechia,Fresh Fruits,Average Volume per Capita,Total,kilograms,Statista,51.065,51.34,51.801,52.215,51.289,52.921,53.095,53.656,54.368,55.139,56.229,57.302,58.431,58.36
+Czechia,Fresh Fruits,Average Volume per Capita,Apples & Pears,kilograms,Statista,14.446,14.214,14.033,13.837,13.294,13.414,13.296,13.253,13.263,13.297,13.434,13.569,13.785,13.165
+Czechia,Fresh Fruits,Average Volume per Capita,Bananas,kilograms,Statista,9.265,9.312,9.391,9.46,9.284,9.569,9.594,9.678,9.792,9.915,10.095,10.271,10.472,10.424
+Czechia,Fresh Fruits,Average Volume per Capita,Berries & Grapes,kilograms,Statista,2.859,2.909,2.969,3.027,3.006,3.136,3.173,3.23,3.296,3.365,3.451,3.537,3.611,3.677
+Czechia,Fresh Fruits,Average Volume per Capita,Citrus Fruits,kilograms,Statista,12.813,13.074,13.387,13.691,13.642,14.277,14.403,14.678,14.975,15.282,15.656,16.023,16.381,16.781
+Czechia,Fresh Fruits,Average Volume per Capita,Other Fresh Fruits,kilograms,Statista,11.682,11.831,12.022,12.2,12.063,12.525,12.629,12.817,13.042,13.28,13.592,13.9,14.182,14.313
+Czechia,Processed & Frozen Fruits,Price per Unit,Average,USD (US$),Statista,3.346,2.929,3.066,3.39,3.841,3.856,3.998,4.544,4.952,5.066,5.167,5.27,5.376,5.483
+Czechia,Processed & Frozen Fruits,Revenue,Total,million USD (US$),Statista,132.4,115.4,120.8,133.6,147.8,152.2,158,180.9,199.2,206.2,214.3,222.6,230.9,229.9
+Czechia,Processed & Frozen Fruits,Revenue Change,Total,percent,Statista,,-12.84,4.679,10.596,10.629,2.977,3.811,14.494,10.116,3.514,3.928,3.873,3.729,-0.433
+Czechia,Processed & Frozen Fruits,Average Revenue per Capita,Total,USD (US$),Statista,12.5,10.88,11.38,12.56,13.86,14.24,14.76,16.87,18.56,19.19,19.93,20.69,21.46,21.37
+Czechia,Processed & Frozen Fruits,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.733,99.702,99.666,99.627,99.581,99.529,,
+Czechia,Processed & Frozen Fruits,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.267,0.298,0.334,0.373,0.419,0.471,,
+Czechia,Processed & Frozen Fruits,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Processed & Frozen Fruits,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Processed & Frozen Fruits,Volume,Total,million kilograms,Statista,39.574,39.384,39.399,39.425,38.484,39.486,39.529,39.814,40.235,40.712,41.475,42.228,42.954,41.927
+Czechia,Processed & Frozen Fruits,Volume Change,Total,percent,Statista,,-0.479,0.037,0.067,-2.386,2.603,0.108,0.721,1.06,1.184,1.875,1.816,1.719,-2.391
+Czechia,Processed & Frozen Fruits,Average Volume per Capita,Total,kilograms,Statista,3.737,3.715,3.71,3.705,3.608,3.694,3.691,3.712,3.747,3.789,3.857,3.926,3.992,3.897
+Czechia,Fresh Vegetables,Price per Unit,Average,USD (US$),Statista,1.176,1.035,1.09,1.213,1.385,1.401,1.476,1.68,1.833,1.877,1.916,1.956,1.996,2.04
+Czechia,Fresh Vegetables,Price per Unit,Cabbage Vegetables,USD (US$),Statista,0.915,0.806,0.851,0.948,1.085,1.1,1.167,1.33,1.449,1.482,1.512,1.542,1.573,1.604
+Czechia,Fresh Vegetables,Price per Unit,Leafy Vegetables,USD (US$),Statista,1.828,1.592,1.661,1.831,2.071,2.079,2.18,2.471,2.693,2.755,2.81,2.866,2.923,2.982
+Czechia,Fresh Vegetables,Price per Unit,Onions,USD (US$),Statista,0.738,0.645,0.678,0.751,0.853,0.858,0.902,1.025,1.117,1.142,1.165,1.189,1.212,1.237
+Czechia,Fresh Vegetables,Price per Unit,Other Fresh Vegetables,USD (US$),Statista,1.252,1.1,1.157,1.285,1.465,1.481,1.558,1.771,1.93,1.974,2.014,2.054,2.095,2.137
+Czechia,Fresh Vegetables,Price per Unit,Potatoes,USD (US$),Statista,0.743,0.657,0.695,0.775,0.885,0.896,0.947,1.079,1.176,1.203,1.227,1.252,1.277,1.302
+Czechia,Fresh Vegetables,Price per Unit,Root Vegetables & Mushrooms,USD (US$),Statista,1.559,1.373,1.449,1.615,1.847,1.874,1.949,2.223,2.422,2.478,2.527,2.578,2.629,2.682
+Czechia,Fresh Vegetables,Price per Unit,Tomatoes,USD (US$),Statista,1.73,1.524,1.607,1.792,2.05,2.079,2.206,2.499,2.723,2.786,2.841,2.898,2.956,3.015
+Czechia,Fresh Vegetables,Revenue,Total,billion USD (US$),Statista,1.276,1.11,1.16,1.281,1.415,1.455,1.508,1.724,1.89,1.949,2.018,2.089,2.165,2.123
+Czechia,Fresh Vegetables,Revenue,Cabbage Vegetables,billion USD (US$),Statista,0.097,0.084,0.088,0.097,0.106,0.109,0.113,0.129,0.14,0.144,0.149,0.153,0.159,0.154
+Czechia,Fresh Vegetables,Revenue,Leafy Vegetables,billion USD (US$),Statista,0.197,0.172,0.179,0.198,0.219,0.226,0.234,0.268,0.295,0.305,0.317,0.329,0.341,0.341
+Czechia,Fresh Vegetables,Revenue,Onions,billion USD (US$),Statista,0.083,0.072,0.075,0.082,0.091,0.093,0.096,0.11,0.12,0.124,0.128,0.132,0.137,0.135
+Czechia,Fresh Vegetables,Revenue,Other Fresh Vegetables,billion USD (US$),Statista,0.376,0.328,0.343,0.379,0.42,0.432,0.449,0.514,0.564,0.583,0.604,0.627,0.649,0.639
+Czechia,Fresh Vegetables,Revenue,Potatoes,billion USD (US$),Statista,0.192,0.166,0.173,0.19,0.208,0.213,0.22,0.25,0.273,0.279,0.287,0.295,0.306,0.295
+Czechia,Fresh Vegetables,Revenue,Root Vegetables & Mushrooms,billion USD (US$),Statista,0.148,0.129,0.135,0.149,0.165,0.17,0.176,0.202,0.222,0.229,0.237,0.246,0.255,0.25
+Czechia,Fresh Vegetables,Revenue,Tomatoes,billion USD (US$),Statista,0.184,0.16,0.168,0.185,0.205,0.211,0.22,0.251,0.276,0.286,0.296,0.307,0.318,0.311
+Czechia,Fresh Vegetables,Revenue Change,Total,percent,Statista,,-13.009,4.505,10.431,10.461,2.827,3.643,14.324,9.629,3.122,3.54,3.518,3.638,-1.94
+Czechia,Fresh Vegetables,Revenue Change,Cabbage Vegetables,percent,Statista,,-13.217,4.311,10.183,10.133,2.634,3.391,14.007,9.098,2.637,3.194,3.163,3.457,-2.963
+Czechia,Fresh Vegetables,Revenue Change,Leafy Vegetables,percent,Statista,,-12.944,4.665,10.529,10.534,2.918,3.766,14.389,10.041,3.426,3.837,3.759,3.744,-0.088
+Czechia,Fresh Vegetables,Revenue Change,Onions,percent,Statista,,-13.212,4.322,10.196,10.163,2.609,3.412,14.016,9.463,2.993,3.39,3.357,3.625,-1.531
+Czechia,Fresh Vegetables,Revenue Change,Other Fresh Vegetables,percent,Statista,,-12.872,4.731,10.58,10.596,3.003,3.795,14.49,9.833,3.28,3.725,3.69,3.623,-1.602
+Czechia,Fresh Vegetables,Revenue Change,Potatoes,percent,Statista,,-13.459,4.099,9.902,9.852,2.35,3.14,13.766,8.826,2.349,2.94,2.891,3.487,-3.631
+Czechia,Fresh Vegetables,Revenue Change,Root Vegetables & Mushrooms,percent,Statista,,-12.914,4.736,10.6,10.59,3.03,3.765,14.456,9.757,3.204,3.717,3.668,3.619,-2.002
+Czechia,Fresh Vegetables,Revenue Change,Tomatoes,percent,Statista,,-12.894,4.747,10.614,10.62,3.021,3.832,14.487,9.948,3.402,3.64,3.681,3.583,-2.327
+Czechia,Fresh Vegetables,Average Revenue per Capita,Total,USD (US$),Statista,120.5,104.7,109.3,120.4,132.7,136.1,140.8,160.7,176,181.3,187.7,194.2,201.2,197.4
+Czechia,Fresh Vegetables,Average Revenue per Capita,Cabbage Vegetables,USD (US$),Statista,9.137,7.921,8.25,9.07,9.969,10.2,10.53,11.99,13.07,13.4,13.82,14.25,14.74,14.31
+Czechia,Fresh Vegetables,Average Revenue per Capita,Leafy Vegetables,USD (US$),Statista,18.6,16.18,16.9,18.65,20.56,21.12,21.87,24.98,27.45,28.37,29.44,30.54,31.68,31.65
+Czechia,Fresh Vegetables,Average Revenue per Capita,Onions,USD (US$),Statista,7.804,6.766,7.047,7.749,8.517,8.72,9.001,10.25,11.21,11.53,11.91,12.31,12.75,12.56
+Czechia,Fresh Vegetables,Average Revenue per Capita,Other Fresh Vegetables,USD (US$),Statista,35.5,30.9,32.31,35.66,39.34,40.43,41.89,47.89,52.54,54.22,56.2,58.25,60.35,59.39
+Czechia,Fresh Vegetables,Average Revenue per Capita,Potatoes,USD (US$),Statista,18.1,15.65,16.26,17.83,19.55,19.97,20.56,23.35,25.38,25.96,26.7,27.46,28.42,27.39
+Czechia,Fresh Vegetables,Average Revenue per Capita,Root Vegetables & Mushrooms,USD (US$),Statista,13.97,12.15,12.71,14.02,15.47,15.9,16.47,18.83,20.64,21.29,22.06,22.86,23.68,23.21
+Czechia,Fresh Vegetables,Average Revenue per Capita,Tomatoes,USD (US$),Statista,17.35,15.1,15.79,17.44,19.24,19.78,20.49,23.43,25.73,26.58,27.54,28.54,29.56,28.87
+Czechia,Fresh Vegetables,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.733,99.702,99.666,99.627,99.581,99.529,,
+Czechia,Fresh Vegetables,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.267,0.298,0.334,0.373,0.419,0.471,,
+Czechia,Fresh Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Fresh Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Fresh Vegetables,Volume,Total,million kilograms,Statista,"1,084.977","1,072.177","1,064.089","1,055.955","1,021.804","1,038.827","1,021.413","1,025.717","1,031.043","1,038.096","1,052.985","1,067.774","1,084.503","1,040.693"
+Czechia,Fresh Vegetables,Volume,Cabbage Vegetables,million kilograms,Statista,105.721,104.13,102.981,101.77,98.015,99.133,96.621,96.721,96.841,97.148,98.275,99.387,100.855,95.933
+Czechia,Fresh Vegetables,Volume,Leafy Vegetables,million kilograms,Statista,107.783,107.706,108.069,108.355,105.877,108.601,107.437,108.405,109.463,110.67,112.664,114.628,116.589,114.18
+Czechia,Fresh Vegetables,Volume,Onions,million kilograms,Statista,112.01,111.114,110.426,109.794,106.507,108.616,106.846,107.253,107.764,108.437,109.924,111.377,113.194,109.249
+Czechia,Fresh Vegetables,Volume,Other Fresh Vegetables,million kilograms,Statista,300.333,297.856,296.588,295.19,286.393,291.834,287.901,289.96,292.3,295.115,300.091,305.063,309.901,298.969
+Czechia,Fresh Vegetables,Volume,Potatoes,million kilograms,Statista,257.996,252.483,248.554,244.923,235.57,238.282,232.578,231.992,231.707,231.861,233.952,235.991,239.481,226.259
+Czechia,Fresh Vegetables,Volume,Root Vegetables & Mushrooms,million kilograms,Statista,94.88,93.811,93.132,92.392,89.325,90.692,90.536,90.843,91.502,92.319,93.867,95.403,96.904,93.106
+Czechia,Fresh Vegetables,Volume,Tomatoes,million kilograms,Statista,106.254,105.078,104.34,103.531,100.116,101.669,99.495,100.542,101.467,102.545,104.212,105.924,107.579,102.997
+Czechia,Fresh Vegetables,Volume Change,Total,percent,Statista,,-1.18,-0.754,-0.764,-3.234,1.666,-1.676,0.421,0.519,0.684,1.434,1.405,1.567,-4.04
+Czechia,Fresh Vegetables,Volume Change,Cabbage Vegetables,percent,Statista,,-1.505,-1.103,-1.175,-3.69,1.141,-2.534,0.104,0.124,0.317,1.16,1.132,1.477,-4.88
+Czechia,Fresh Vegetables,Volume Change,Leafy Vegetables,percent,Statista,,-0.071,0.337,0.264,-2.286,2.572,-1.072,0.902,0.976,1.103,1.802,1.743,1.711,-2.066
+Czechia,Fresh Vegetables,Volume Change,Onions,percent,Statista,,-0.8,-0.619,-0.572,-2.993,1.98,-1.629,0.381,0.476,0.625,1.371,1.322,1.631,-3.485
+Czechia,Fresh Vegetables,Volume Change,Other Fresh Vegetables,percent,Statista,,-0.825,-0.426,-0.471,-2.98,1.9,-1.348,0.715,0.807,0.963,1.686,1.657,1.586,-3.527
+Czechia,Fresh Vegetables,Volume Change,Potatoes,percent,Statista,,-2.137,-1.556,-1.461,-3.819,1.151,-2.394,-0.252,-0.123,0.067,0.902,0.872,1.479,-5.521
+Czechia,Fresh Vegetables,Volume Change,Root Vegetables & Mushrooms,percent,Statista,,-1.127,-0.723,-0.795,-3.319,1.531,-0.173,0.339,0.726,0.892,1.677,1.636,1.573,-3.92
+Czechia,Fresh Vegetables,Volume Change,Tomatoes,percent,Statista,,-1.107,-0.703,-0.775,-3.299,1.551,-2.138,1.052,0.92,1.063,1.625,1.643,1.562,-4.259
+Czechia,Fresh Vegetables,Average Volume per Capita,Total,kilograms,Statista,102.442,101.136,100.207,99.234,95.803,97.185,95.379,95.642,96.029,96.604,97.93,99.266,100.801,96.731
+Czechia,Fresh Vegetables,Average Volume per Capita,Cabbage Vegetables,kilograms,Statista,9.982,9.822,9.698,9.564,9.19,9.274,9.022,9.019,9.02,9.04,9.14,9.24,9.374,8.917
+Czechia,Fresh Vegetables,Average Volume per Capita,Leafy Vegetables,kilograms,Statista,10.177,10.16,10.177,10.183,9.927,10.16,10.032,10.108,10.195,10.299,10.478,10.656,10.837,10.613
+Czechia,Fresh Vegetables,Average Volume per Capita,Onions,kilograms,Statista,10.576,10.481,10.399,10.318,9.986,10.161,9.977,10.001,10.037,10.091,10.223,10.354,10.521,10.155
+Czechia,Fresh Vegetables,Average Volume per Capita,Other Fresh Vegetables,kilograms,Statista,28.357,28.096,27.93,27.741,26.852,27.302,26.884,27.037,27.224,27.463,27.909,28.36,28.804,27.789
+Czechia,Fresh Vegetables,Average Volume per Capita,Potatoes,kilograms,Statista,24.36,23.816,23.407,23.017,22.087,22.292,21.718,21.632,21.581,21.577,21.758,21.939,22.259,21.03
+Czechia,Fresh Vegetables,Average Volume per Capita,Root Vegetables & Mushrooms,kilograms,Statista,8.958,8.849,8.77,8.683,8.375,8.484,8.454,8.471,8.522,8.591,8.73,8.869,9.007,8.654
+Czechia,Fresh Vegetables,Average Volume per Capita,Tomatoes,kilograms,Statista,10.032,9.912,9.826,9.729,9.387,9.511,9.291,9.375,9.45,9.543,9.692,9.847,9.999,9.573
+Czechia,Nuts,Price per Unit,Average,USD (US$),Statista,6.766,5.737,5.823,6.247,6.877,6.713,6.863,7.685,7.967,8.16,8.328,8.49,8.635,8.645
+Czechia,Nuts,Revenue,Total,million USD (US$),Statista,104.8,91.59,96.23,106.8,118.5,122.4,127.5,146.4,155.9,164,172.4,180.9,188.3,196.5
+Czechia,Nuts,Revenue Change,Total,percent,Statista,,-12.605,5.066,10.984,10.955,3.291,4.167,14.824,6.489,5.196,5.122,4.93,4.091,4.355
+Czechia,Nuts,Average Revenue per Capita,Total,USD (US$),Statista,9.894,8.639,9.062,10.04,11.11,11.45,11.9,13.65,14.52,15.26,16.04,16.81,17.5,18.27
+Czechia,Nuts,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.733,99.701,99.666,99.627,99.581,99.529,,
+Czechia,Nuts,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.267,0.299,0.334,0.373,0.419,0.471,,
+Czechia,Nuts,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Nuts,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Nuts,Volume,Total,million kilograms,Statista,15.488,15.966,16.526,17.093,17.229,18.237,18.575,19.05,19.568,20.094,20.706,21.305,21.811,22.735
+Czechia,Nuts,Volume Change,Total,percent,Statista,,3.086,3.506,3.429,0.796,5.85,1.857,2.554,2.719,2.689,3.044,2.893,2.374,4.241
+Czechia,Nuts,Average Volume per Capita,Total,kilograms,Statista,1.462,1.506,1.556,1.606,1.615,1.706,1.735,1.776,1.823,1.87,1.926,1.981,2.027,2.113
+Czechia,Vegetables,Price per Unit,Average,USD (US$),Statista,1.188,1.043,1.095,1.214,1.381,1.392,1.461,1.66,1.811,1.854,1.893,1.932,1.971,2.013
+Czechia,Vegetables,Price per Unit,Fresh Vegetables,USD (US$),Statista,1.176,1.035,1.09,1.213,1.385,1.401,1.476,1.68,1.833,1.877,1.916,1.956,1.996,2.04
+Czechia,Vegetables,Price per Unit,Processed & Frozen Vegetables,USD (US$),Statista,1.248,1.078,1.114,1.217,1.363,1.353,1.395,1.575,1.717,1.756,1.791,1.827,1.864,1.901
+Czechia,Vegetables,Revenue,Total,billion USD (US$),Statista,1.564,1.359,1.42,1.567,1.729,1.777,1.84,2.101,2.306,2.378,2.463,2.55,2.644,2.608
+Czechia,Vegetables,Revenue,Fresh Vegetables,billion USD (US$),Statista,1.276,1.11,1.16,1.281,1.415,1.455,1.508,1.724,1.89,1.949,2.018,2.089,2.165,2.123
+Czechia,Vegetables,Revenue,Processed & Frozen Vegetables,billion USD (US$),Statista,0.288,0.249,0.26,0.286,0.314,0.322,0.332,0.378,0.416,0.43,0.445,0.461,0.479,0.484
+Czechia,Vegetables,Revenue Change,Total,percent,Statista,,-13.107,4.489,10.352,10.338,2.776,3.545,14.185,9.757,3.122,3.574,3.532,3.686,-1.362
+Czechia,Vegetables,Revenue Change,Fresh Vegetables,percent,Statista,,-13.009,4.505,10.431,10.461,2.827,3.643,14.324,9.629,3.122,3.54,3.518,3.638,-1.94
+Czechia,Vegetables,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,-13.398,4.128,9.969,9.94,2.388,3.203,13.769,10.064,3.393,3.63,3.526,4.013,1.022
+Czechia,Vegetables,Average Revenue per Capita,Total,USD (US$),Statista,147.7,128.2,133.7,147.3,162.1,166.2,171.8,195.9,214.7,221.3,229.1,237.1,245.8,242.4
+Czechia,Vegetables,Average Revenue per Capita,Fresh Vegetables,USD (US$),Statista,120.5,104.7,109.3,120.4,132.7,136.1,140.8,160.7,176,181.3,187.7,194.2,201.2,197.4
+Czechia,Vegetables,Average Revenue per Capita,Processed & Frozen Vegetables,USD (US$),Statista,27.2,23.54,24.46,26.85,29.45,30.08,30.99,35.21,38.71,39.99,41.41,42.86,44.57,45.03
+Czechia,Vegetables,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.733,99.702,99.666,99.627,99.581,99.529,,
+Czechia,Vegetables,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.267,0.298,0.334,0.373,0.419,0.471,,
+Czechia,Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Vegetables,Volume,Total,million kilograms,Statista,"1,315.928","1,303.736","1,297.298","1,290.744","1,252.253","1,276.445","1,259.356","1,265.426","1,273.158","1,282.781","1,301.571","1,320.098","1,341.805","1,295.541"
+Czechia,Vegetables,Volume,Fresh Vegetables,million kilograms,Statista,"1,084.977","1,072.177","1,064.089","1,055.955","1,021.804","1,038.827","1,021.413","1,025.717","1,031.043","1,038.096","1,052.985","1,067.774","1,084.503","1,040.693"
+Czechia,Vegetables,Volume,Processed & Frozen Vegetables,million kilograms,Statista,230.951,231.559,233.208,234.788,230.449,237.618,237.943,239.71,242.115,244.685,248.586,252.324,257.302,254.848
+Czechia,Vegetables,Volume Change,Total,percent,Statista,,-0.927,-0.494,-0.505,-2.982,1.932,-1.339,0.482,0.611,0.756,1.465,1.423,1.644,-3.448
+Czechia,Vegetables,Volume Change,Fresh Vegetables,percent,Statista,,-1.18,-0.754,-0.764,-3.234,1.666,-1.676,0.421,0.519,0.684,1.434,1.405,1.567,-4.04
+Czechia,Vegetables,Volume Change,Processed & Frozen Vegetables,percent,Statista,,0.263,0.712,0.678,-1.848,3.111,0.137,0.742,1.004,1.061,1.594,1.504,1.973,-0.954
+Czechia,Vegetables,Average Volume per Capita,Total,kilograms,Statista,124.248,122.978,122.169,121.299,117.41,119.414,117.598,117.993,118.579,119.374,121.049,122.723,124.717,120.419
+Czechia,Vegetables,Average Volume per Capita,Fresh Vegetables,kilograms,Statista,102.442,101.136,100.207,99.234,95.803,97.185,95.379,95.642,96.029,96.604,97.93,99.266,100.801,96.731
+Czechia,Vegetables,Average Volume per Capita,Processed & Frozen Vegetables,kilograms,Statista,21.806,21.842,21.962,22.064,21.607,22.23,22.219,22.351,22.55,22.77,23.119,23.457,23.915,23.688
+Czechia,Processed & Frozen Vegetables,Price per Unit,Average,USD (US$),Statista,1.248,1.078,1.114,1.217,1.363,1.353,1.395,1.575,1.717,1.756,1.791,1.827,1.864,1.901
+Czechia,Processed & Frozen Vegetables,Revenue,Total,billion USD (US$),Statista,0.288,0.249,0.26,0.286,0.314,0.322,0.332,0.378,0.416,0.43,0.445,0.461,0.479,0.484
+Czechia,Processed & Frozen Vegetables,Revenue Change,Total,percent,Statista,,-13.398,4.128,9.969,9.94,2.388,3.203,13.769,10.064,3.393,3.63,3.526,4.013,1.022
+Czechia,Processed & Frozen Vegetables,Average Revenue per Capita,Total,USD (US$),Statista,27.2,23.54,24.46,26.85,29.45,30.08,30.99,35.21,38.71,39.99,41.41,42.86,44.57,45.03
+Czechia,Processed & Frozen Vegetables,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.733,99.702,99.667,99.627,99.581,99.529,,
+Czechia,Processed & Frozen Vegetables,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.267,0.298,0.333,0.373,0.419,0.471,,
+Czechia,Processed & Frozen Vegetables,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Processed & Frozen Vegetables,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Processed & Frozen Vegetables,Volume,Total,million kilograms,Statista,230.951,231.559,233.208,234.788,230.449,237.618,237.943,239.71,242.115,244.685,248.586,252.324,257.302,254.848
+Czechia,Processed & Frozen Vegetables,Volume Change,Total,percent,Statista,,0.263,0.712,0.678,-1.848,3.111,0.137,0.742,1.004,1.061,1.594,1.504,1.973,-0.954
+Czechia,Processed & Frozen Vegetables,Average Volume per Capita,Total,kilograms,Statista,21.806,21.842,21.962,22.064,21.607,22.23,22.219,22.351,22.55,22.77,23.119,23.457,23.915,23.688
+Czechia,Oils & Fats,Price per Unit,Average,USD (US$),Statista,6.073,5.329,5.599,6.217,7.082,7.155,7.378,8.378,9.304,9.387,9.573,9.766,9.958,10.15
+Czechia,Oils & Fats,Price per Unit,Butter,USD (US$),Statista,7.227,6.384,6.75,7.545,8.652,8.798,9.08,10.33,11.26,11.52,11.75,11.98,12.22,12.47
+Czechia,Oils & Fats,Price per Unit,Edible Oils,USD (US$),Statista,6.137,5.361,5.607,6.199,7.03,7.071,7.282,8.252,8.991,9.198,9.382,9.57,9.761,9.956
+Czechia,Oils & Fats,Price per Unit,Margarine,USD (US$),Statista,4.713,4.118,4.306,4.761,5.399,5.431,5.592,6.337,6.905,7.064,7.205,7.35,7.497,7.646
+Czechia,Oils & Fats,Price per Unit,Other Oils & Fats,USD (US$),Statista,6.026,5.287,5.555,6.168,7.027,7.1,7.318,8.307,9.052,9.26,9.445,9.634,9.826,10.02
+Czechia,Oils & Fats,Revenue,Total,million USD (US$),Statista,368.8,320.2,334.2,368.4,406,416.7,431.1,491.8,472.4,539.8,561.3,582.5,605.5,596.1
+Czechia,Oils & Fats,Revenue,Butter,million USD (US$),Statista,114.8,99.88,104.5,115.4,127.4,131,135.8,155.3,170.6,176.2,182.5,189.1,196,190.9
+Czechia,Oils & Fats,Revenue,Edible Oils,million USD (US$),Statista,103.4,89.93,94.03,103.8,114.6,117.9,122.2,139.6,110.8,147.9,155,161.8,168.7,168.4
+Czechia,Oils & Fats,Revenue,Margarine,million USD (US$),Statista,64.93,55.89,57.83,63.2,69.05,70.25,72.03,81.44,63.92,84.38,87.51,90.33,94.17,92.33
+Czechia,Oils & Fats,Revenue,Other Oils & Fats,million USD (US$),Statista,85.69,74.51,77.88,85.98,94.9,97.56,101.1,115.5,127.1,131.4,136.3,141.3,146.6,144.5
+Czechia,Oils & Fats,Revenue Change,Total,percent,Statista,,-13.178,4.372,10.233,10.206,2.635,3.456,14.08,-3.945,14.268,3.983,3.777,3.948,-1.552
+Czechia,Oils & Fats,Revenue Change,Butter,percent,Statista,,-12.997,4.626,10.431,10.399,2.826,3.664,14.359,9.852,3.283,3.575,3.616,3.649,-2.602
+Czechia,Oils & Fats,Revenue Change,Edible Oils,percent,Statista,,-13.027,4.559,10.39,10.405,2.88,3.647,14.239,-20.63,33.484,4.801,4.387,4.265,-0.178
+Czechia,Oils & Fats,Revenue Change,Margarine,percent,Statista,,-13.923,3.471,9.286,9.256,1.738,2.534,13.064,-21.513,32.009,3.709,3.222,4.251,-1.954
+Czechia,Oils & Fats,Revenue Change,Other Oils & Fats,percent,Statista,,-13.047,4.523,10.401,10.375,2.803,3.629,14.243,10.043,3.383,3.729,3.668,3.751,-1.432
+Czechia,Oils & Fats,Average Revenue per Capita,Total,USD (US$),Statista,34.82,30.2,31.47,34.62,38.07,38.99,40.26,45.86,43.99,50.23,52.2,54.15,56.28,55.41
+Czechia,Oils & Fats,Average Revenue per Capita,Butter,USD (US$),Statista,10.84,9.422,9.836,10.84,11.95,12.26,12.68,14.48,15.89,16.39,16.97,17.58,18.22,17.74
+Czechia,Oils & Fats,Average Revenue per Capita,Edible Oils,USD (US$),Statista,9.763,8.483,8.855,9.758,10.75,11.03,11.41,13.02,10.32,13.76,14.42,15.04,15.68,15.65
+Czechia,Oils & Fats,Average Revenue per Capita,Margarine,USD (US$),Statista,6.131,5.272,5.446,5.939,6.474,6.572,6.726,7.594,5.954,7.853,8.138,8.397,8.753,8.582
+Czechia,Oils & Fats,Average Revenue per Capita,Other Oils & Fats,USD (US$),Statista,8.09,7.028,7.334,8.08,8.898,9.127,9.439,10.77,11.84,12.23,12.67,13.13,13.63,13.43
+Czechia,Oils & Fats,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.738,99.706,99.67,99.63,99.583,99.529,,
+Czechia,Oils & Fats,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.262,0.294,0.33,0.37,0.417,0.471,,
+Czechia,Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Oils & Fats,Volume,Total,million kilograms,Statista,60.732,60.086,59.691,59.255,57.325,58.241,58.431,58.703,50.769,57.507,58.634,59.643,60.8,58.715
+Czechia,Oils & Fats,Volume,Butter,million kilograms,Statista,15.887,15.647,15.473,15.291,14.726,14.894,14.959,15.029,15.151,15.295,15.537,15.78,16.037,15.313
+Czechia,Oils & Fats,Volume,Edible Oils,million kilograms,Statista,16.849,16.774,16.768,16.75,16.307,16.671,16.778,16.921,12.322,16.075,16.524,16.908,17.282,16.909
+Czechia,Oils & Fats,Volume,Margarine,million kilograms,Statista,13.776,13.574,13.429,13.275,12.788,12.935,12.88,12.851,9.257,11.945,12.145,12.29,12.562,12.075
+Czechia,Oils & Fats,Volume,Other Oils & Fats,million kilograms,Statista,14.22,14.091,14.02,13.939,13.505,13.741,13.813,13.903,14.039,14.192,14.429,14.665,14.918,14.418
+Czechia,Oils & Fats,Volume Change,Total,percent,Statista,,-1.062,-0.658,-0.73,-3.256,1.597,0.326,0.466,-13.515,13.272,1.959,1.72,1.939,-3.428
+Czechia,Oils & Fats,Volume Change,Butter,percent,Statista,,-1.51,-1.108,-1.179,-3.693,1.138,0.441,0.462,0.815,0.953,1.58,1.564,1.628,-4.515
+Czechia,Oils & Fats,Volume Change,Edible Oils,percent,Statista,,-0.442,-0.036,-0.108,-2.649,2.234,0.644,0.848,-27.178,30.457,2.793,2.326,2.212,-2.159
+Czechia,Oils & Fats,Volume Change,Margarine,percent,Statista,,-1.465,-1.069,-1.148,-3.67,1.155,-0.426,-0.231,-27.963,29.04,1.668,1.198,2.212,-3.874
+Czechia,Oils & Fats,Volume Change,Other Oils & Fats,percent,Statista,,-0.907,-0.505,-0.579,-3.112,1.746,0.525,0.654,0.977,1.088,1.67,1.636,1.731,-3.355
+Czechia,Oils & Fats,Average Volume per Capita,Total,kilograms,Statista,5.734,5.668,5.621,5.569,5.375,5.449,5.456,5.474,4.729,5.352,5.453,5.545,5.651,5.458
+Czechia,Oils & Fats,Average Volume per Capita,Butter,kilograms,Statista,1.5,1.476,1.457,1.437,1.381,1.393,1.397,1.401,1.411,1.423,1.445,1.467,1.491,1.423
+Czechia,Oils & Fats,Average Volume per Capita,Edible Oils,kilograms,Statista,1.591,1.582,1.579,1.574,1.529,1.56,1.567,1.578,1.148,1.496,1.537,1.572,1.606,1.572
+Czechia,Oils & Fats,Average Volume per Capita,Margarine,kilograms,Statista,1.301,1.28,1.265,1.248,1.199,1.21,1.203,1.198,0.862,1.112,1.129,1.143,1.168,1.122
+Czechia,Oils & Fats,Average Volume per Capita,Other Oils & Fats,kilograms,Statista,1.343,1.329,1.32,1.31,1.266,1.285,1.29,1.296,1.308,1.321,1.342,1.363,1.387,1.34
+Czechia,Butter,Price per Unit,Average,USD (US$),Statista,7.227,6.384,6.75,7.545,8.652,8.798,9.08,10.33,11.26,11.52,11.75,11.98,12.22,12.47
+Czechia,Butter,Revenue,Total,million USD (US$),Statista,114.8,99.88,104.5,115.4,127.4,131,135.8,155.3,170.6,176.2,182.5,189.1,196,190.9
+Czechia,Butter,Revenue Change,Total,percent,Statista,,-12.997,4.626,10.431,10.399,2.826,3.664,14.359,9.852,3.283,3.575,3.616,3.649,-2.602
+Czechia,Butter,Average Revenue per Capita,Total,USD (US$),Statista,10.84,9.422,9.836,10.84,11.95,12.26,12.68,14.48,15.89,16.39,16.97,17.58,18.22,17.74
+Czechia,Butter,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.738,99.706,99.67,99.629,99.583,99.529,,
+Czechia,Butter,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.262,0.294,0.33,0.371,0.417,0.471,,
+Czechia,Butter,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Butter,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Butter,Volume,Total,million liters,Statista,15.887,15.647,15.473,15.291,14.726,14.894,14.959,15.029,15.151,15.295,15.537,15.78,16.037,15.313
+Czechia,Butter,Volume Change,Total,percent,Statista,,-1.51,-1.108,-1.179,-3.693,1.138,0.441,0.462,0.815,0.953,1.58,1.564,1.628,-4.515
+Czechia,Butter,Average Volume per Capita,Total,liters,Statista,1.5,1.476,1.457,1.437,1.381,1.393,1.397,1.401,1.411,1.423,1.445,1.467,1.491,1.423
+Czechia,Butter,... in 500-gram packs,Butter,500 g packs,Statista,3,2.952,2.914,2.874,2.761,2.787,2.794,2.803,2.822,2.847,2.89,2.934,2.981,2.847
+Czechia,Butter,... in 350-gram packs,Butter,350 g packs,Statista,4.286,4.217,4.163,4.106,3.945,3.981,3.991,4.004,4.032,4.067,4.129,4.191,4.259,4.067
+Czechia,Butter,... in 250-gram packs,Butter,250 g packs,Statista,6,5.904,5.829,5.748,5.523,5.573,5.588,5.605,5.645,5.693,5.78,5.868,5.962,5.693
+Czechia,Other Oils & Fats,Price per Unit,Average,USD (US$),Statista,6.026,5.287,5.555,6.168,7.027,7.1,7.318,8.307,9.052,9.26,9.445,9.634,9.826,10.02
+Czechia,Other Oils & Fats,Revenue,Total,million USD (US$),Statista,85.69,74.51,77.88,85.98,94.9,97.56,101.1,115.5,127.1,131.4,136.3,141.3,146.6,144.5
+Czechia,Other Oils & Fats,Revenue Change,Total,percent,Statista,,-13.047,4.523,10.401,10.375,2.803,3.629,14.243,10.043,3.383,3.729,3.668,3.751,-1.432
+Czechia,Other Oils & Fats,Average Revenue per Capita,Total,USD (US$),Statista,8.09,7.028,7.334,8.08,8.898,9.127,9.439,10.77,11.84,12.23,12.67,13.13,13.63,13.43
+Czechia,Other Oils & Fats,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.738,99.706,99.67,99.629,99.583,99.529,,
+Czechia,Other Oils & Fats,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.262,0.294,0.33,0.371,0.417,0.471,,
+Czechia,Other Oils & Fats,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Other Oils & Fats,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Other Oils & Fats,Volume,Total,million kilograms,Statista,14.22,14.091,14.02,13.939,13.505,13.741,13.813,13.903,14.039,14.192,14.429,14.665,14.918,14.418
+Czechia,Other Oils & Fats,Volume Change,Total,percent,Statista,,-0.907,-0.505,-0.579,-3.112,1.746,0.525,0.654,0.977,1.088,1.67,1.636,1.731,-3.355
+Czechia,Other Oils & Fats,Average Volume per Capita,Total,kilograms,Statista,1.343,1.329,1.32,1.31,1.266,1.285,1.29,1.296,1.308,1.321,1.342,1.363,1.387,1.34
+Czechia,Margarine,Price per Unit,Average,USD (US$),Statista,4.713,4.118,4.306,4.761,5.399,5.431,5.592,6.337,6.905,7.064,7.205,7.35,7.497,7.646
+Czechia,Margarine,Revenue,Total,million USD (US$),Statista,64.93,55.89,57.83,63.2,69.05,70.25,72.03,81.44,63.92,84.38,87.51,90.33,94.17,92.33
+Czechia,Margarine,Revenue Change,Total,percent,Statista,,-13.923,3.471,9.286,9.256,1.738,2.534,13.064,-21.513,32.009,3.709,3.222,4.251,-1.954
+Czechia,Margarine,Average Revenue per Capita,Total,USD (US$),Statista,6.131,5.272,5.446,5.939,6.474,6.572,6.726,7.594,5.954,7.853,8.138,8.397,8.753,8.582
+Czechia,Margarine,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.738,99.706,99.67,99.63,99.583,99.529,,
+Czechia,Margarine,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.262,0.294,0.33,0.37,0.417,0.471,,
+Czechia,Margarine,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Margarine,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Margarine,Volume,Total,million liters,Statista,13.776,13.574,13.429,13.275,12.788,12.935,12.88,12.851,9.257,11.945,12.145,12.29,12.562,12.075
+Czechia,Margarine,Volume Change,Total,percent,Statista,,-1.465,-1.069,-1.148,-3.67,1.155,-0.426,-0.231,-27.963,29.04,1.668,1.198,2.212,-3.874
+Czechia,Margarine,Average Volume per Capita,Total,liters,Statista,1.301,1.28,1.265,1.248,1.199,1.21,1.203,1.198,0.862,1.112,1.129,1.143,1.168,1.122
+Czechia,Margarine,... in 500-gram packs,Margarine,500 g packs,Statista,2.601,2.561,2.529,2.495,2.398,2.42,2.406,2.396,1.724,2.223,2.259,2.285,2.335,2.245
+Czechia,Margarine,... in 350-gram packs,Margarine,350 g packs,Statista,3.716,3.658,3.613,3.564,3.426,3.458,3.436,3.424,2.463,3.176,3.227,3.264,3.336,3.207
+Czechia,Margarine,... in 250-gram packs,Margarine,250 g packs,Statista,5.203,5.122,5.059,4.99,4.796,4.841,4.811,4.793,3.449,4.446,4.518,4.57,4.67,4.49
+Czechia,Sauces & Spices,Price per Unit,Average,USD (US$),Statista,2.995,2.542,2.582,2.772,3.051,2.977,3.041,3.403,3.713,3.803,3.881,3.962,4.041,4.121
+Czechia,Sauces & Spices,Price per Unit,Other Sauces,USD (US$),Statista,2.644,2.22,2.232,2.372,2.586,2.5,2.536,2.819,3.071,3.142,3.205,3.269,3.334,3.401
+Czechia,Sauces & Spices,Price per Unit,Spices & Culinary Herbs,USD (US$),Statista,12.05,10.32,10.55,11.38,12.57,12.31,12.59,14.1,15.37,15.72,16.04,16.36,16.68,17.02
+Czechia,Sauces & Spices,Price per Unit,Tomato Ketchup,USD (US$),Statista,1.413,1.215,1.251,1.362,1.519,1.503,1.552,1.754,1.911,1.955,1.994,2.034,2.075,2.117
+Czechia,Sauces & Spices,Revenue,Total,million USD (US$),Statista,339,294.5,307.5,339.1,373.9,383.9,397.3,453.5,505.4,528.7,552.6,576.9,602.8,634.1
+Czechia,Sauces & Spices,Revenue,Other Sauces,million USD (US$),Statista,168.4,146.1,152.4,167.9,184.9,189.7,196.2,223.7,250.3,262.6,275.1,287.7,301.4,322.3
+Czechia,Sauces & Spices,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,114.1,99.27,103.8,114.7,126.7,130.3,135.1,154.5,172.1,180.1,188.2,196.5,205,213.2
+Czechia,Sauces & Spices,Revenue,Tomato Ketchup,million USD (US$),Statista,56.6,49.12,51.25,56.47,62.22,63.85,66.03,75.31,83.03,86,89.36,92.75,96.49,98.57
+Czechia,Sauces & Spices,Revenue Change,Total,percent,Statista,,-13.127,4.414,10.276,10.262,2.675,3.49,14.145,11.444,4.61,4.521,4.397,4.49,5.192
+Czechia,Sauces & Spices,Revenue Change,Other Sauces,percent,Statista,,-13.242,4.312,10.171,10.125,2.596,3.426,14.016,11.891,4.914,4.76,4.58,4.762,6.934
+Czechia,Sauces & Spices,Revenue Change,Spices & Culinary Herbs,percent,Statista,,-12.997,4.563,10.501,10.462,2.841,3.684,14.36,11.392,4.648,4.498,4.41,4.326,4
+Czechia,Sauces & Spices,Revenue Change,Tomato Ketchup,percent,Statista,,-13.216,4.336,10.185,10.182,2.62,3.414,14.054,10.251,3.577,3.907,3.794,4.032,2.156
+Czechia,Sauces & Spices,Average Revenue per Capita,Total,USD (US$),Statista,32.01,27.78,28.95,31.86,35.05,35.92,37.1,42.29,47.07,49.2,51.39,53.63,56.03,58.94
+Czechia,Sauces & Spices,Average Revenue per Capita,Other Sauces,USD (US$),Statista,15.9,13.78,14.35,15.78,17.34,17.75,18.32,20.86,23.31,24.44,25.58,26.75,28.01,29.96
+Czechia,Sauces & Spices,Average Revenue per Capita,Spices & Culinary Herbs,USD (US$),Statista,10.77,9.363,9.778,10.78,11.88,12.19,12.62,14.41,16.03,16.76,17.5,18.26,19.05,19.82
+Czechia,Sauces & Spices,Average Revenue per Capita,Tomato Ketchup,USD (US$),Statista,5.344,4.633,4.826,5.307,5.834,5.973,6.166,7.022,7.733,8.003,8.311,8.623,8.969,9.162
+Czechia,Sauces & Spices,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.75,99.718,99.68,99.637,99.587,99.529,,
+Czechia,Sauces & Spices,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.25,0.282,0.32,0.363,0.413,0.471,,
+Czechia,Sauces & Spices,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Sauces & Spices,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Sauces & Spices,Volume,Total,million kilograms,Statista,113.202,115.831,119.057,122.333,122.545,128.957,130.643,133.248,136.124,139.018,142.38,145.62,149.171,153.872
+Czechia,Sauces & Spices,Volume,Other Sauces,million kilograms,Statista,63.679,65.794,68.261,70.774,71.518,75.9,77.373,79.365,81.484,83.582,85.84,88.017,90.384,94.771
+Czechia,Sauces & Spices,Volume,Spices & Culinary Herbs,million kilograms,Statista,9.464,9.62,9.842,10.08,10.076,10.588,10.733,10.953,11.201,11.453,11.733,12.01,12.285,12.53
+Czechia,Sauces & Spices,Volume,Tomato Ketchup,million kilograms,Statista,40.059,40.416,40.954,41.479,40.952,42.469,42.538,42.929,43.44,43.983,44.807,45.593,46.502,46.57
+Czechia,Sauces & Spices,Volume Change,Total,percent,Statista,,2.322,2.785,2.752,0.173,5.232,1.308,1.994,2.158,2.126,2.418,2.275,2.439,3.151
+Czechia,Sauces & Spices,Volume Change,Other Sauces,percent,Statista,,3.321,3.75,3.682,1.051,6.127,1.941,2.575,2.669,2.575,2.702,2.536,2.689,4.855
+Czechia,Sauces & Spices,Volume Change,Spices & Culinary Herbs,percent,Statista,,1.652,2.305,2.418,-0.044,5.089,1.363,2.056,2.256,2.253,2.447,2.358,2.294,1.993
+Czechia,Sauces & Spices,Volume Change,Tomato Ketchup,percent,Statista,,0.891,1.33,1.282,-1.271,3.706,0.162,0.92,1.188,1.252,1.872,1.755,1.994,0.146
+Czechia,Sauces & Spices,Average Volume per Capita,Total,kilograms,Statista,10.688,10.926,11.212,11.496,11.49,12.064,12.199,12.425,12.678,12.937,13.242,13.538,13.865,14.302
+Czechia,Sauces & Spices,Average Volume per Capita,Other Sauces,kilograms,Statista,6.013,6.206,6.428,6.651,6.705,7.101,7.225,7.4,7.589,7.778,7.983,8.183,8.401,8.809
+Czechia,Sauces & Spices,Average Volume per Capita,Spices & Culinary Herbs,kilograms,Statista,0.894,0.907,0.927,0.947,0.945,0.991,1.002,1.021,1.043,1.066,1.091,1.116,1.142,1.165
+Czechia,Sauces & Spices,Average Volume per Capita,Tomato Ketchup,kilograms,Statista,3.782,3.812,3.857,3.898,3.84,3.973,3.972,4.003,4.046,4.093,4.167,4.239,4.322,4.329
+Czechia,Spices & Culinary Herbs,Price per Unit,Average,USD (US$),Statista,12.05,10.32,10.55,11.38,12.57,12.31,12.59,14.1,15.37,15.72,16.04,16.36,16.68,17.02
+Czechia,Spices & Culinary Herbs,Revenue,Total,million USD (US$),Statista,114.1,99.27,103.8,114.7,126.7,130.3,135.1,154.5,172.1,180.1,188.2,196.5,205,213.2
+Czechia,Spices & Culinary Herbs,Revenue Change,Total,percent,Statista,,-12.997,4.563,10.501,10.462,2.841,3.684,14.36,11.392,4.648,4.498,4.41,4.326,4
+Czechia,Spices & Culinary Herbs,Average Revenue per Capita,Total,USD (US$),Statista,10.77,9.363,9.778,10.78,11.88,12.19,12.62,14.41,16.03,16.76,17.5,18.26,19.05,19.82
+Czechia,Spices & Culinary Herbs,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.75,99.718,99.68,99.637,99.587,99.529,,
+Czechia,Spices & Culinary Herbs,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.25,0.282,0.32,0.363,0.413,0.471,,
+Czechia,Spices & Culinary Herbs,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Spices & Culinary Herbs,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Spices & Culinary Herbs,Volume,Total,million kilograms,Statista,9.464,9.62,9.842,10.08,10.076,10.588,10.733,10.953,11.201,11.453,11.733,12.01,12.285,12.53
+Czechia,Spices & Culinary Herbs,Volume Change,Total,percent,Statista,,1.652,2.305,2.418,-0.044,5.089,1.363,2.056,2.256,2.253,2.447,2.358,2.294,1.993
+Czechia,Spices & Culinary Herbs,Average Volume per Capita,Total,kilograms,Statista,0.894,0.907,0.927,0.947,0.945,0.991,1.002,1.021,1.043,1.066,1.091,1.116,1.142,1.165
+Czechia,Tomato Ketchup,Price per Unit,Average,USD (US$),Statista,1.413,1.215,1.251,1.362,1.519,1.503,1.552,1.754,1.911,1.955,1.994,2.034,2.075,2.117
+Czechia,Tomato Ketchup,Revenue,Total,million USD (US$),Statista,56.6,49.12,51.25,56.47,62.22,63.85,66.03,75.31,83.03,86,89.36,92.75,96.49,98.57
+Czechia,Tomato Ketchup,Revenue Change,Total,percent,Statista,,-13.216,4.336,10.185,10.182,2.62,3.414,14.054,10.251,3.577,3.907,3.794,4.032,2.156
+Czechia,Tomato Ketchup,Average Revenue per Capita,Total,USD (US$),Statista,5.344,4.633,4.826,5.307,5.834,5.973,6.166,7.022,7.733,8.003,8.311,8.623,8.969,9.162
+Czechia,Tomato Ketchup,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.75,99.718,99.68,99.637,99.587,99.529,,
+Czechia,Tomato Ketchup,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.25,0.282,0.32,0.363,0.413,0.471,,
+Czechia,Tomato Ketchup,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Tomato Ketchup,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Tomato Ketchup,Volume,Total,million kilograms,Statista,40.059,40.416,40.954,41.479,40.952,42.469,42.538,42.929,43.44,43.983,44.807,45.593,46.502,46.57
+Czechia,Tomato Ketchup,Volume Change,Total,percent,Statista,,0.891,1.33,1.282,-1.271,3.706,0.162,0.92,1.188,1.252,1.872,1.755,1.994,0.146
+Czechia,Tomato Ketchup,Average Volume per Capita,Total,kilograms,Statista,3.782,3.812,3.857,3.898,3.84,3.973,3.972,4.003,4.046,4.093,4.167,4.239,4.322,4.329
+Czechia,Tomato Ketchup,... in 750-milliliter bottles,Tomato Ketchup,750 mL bottles,Statista,5.043,5.083,5.142,5.197,5.119,5.297,5.296,5.337,5.394,5.457,5.556,5.651,5.763,5.772
+Czechia,Tomato Ketchup,... in 500-milliliter bottles,Tomato Ketchup,500 mL bottles,Statista,7.565,7.625,7.713,7.796,7.679,7.946,7.944,8.006,8.092,8.186,8.334,8.477,8.644,8.657
+Czechia,Tomato Ketchup,... in 300-milliliter bottles,Tomato Ketchup,300 mL bottles,Statista,12.608,12.708,12.856,12.993,12.799,13.244,13.241,13.343,13.486,13.643,13.89,14.129,14.407,14.429
+Czechia,Other Sauces,Price per Unit,Average,USD (US$),Statista,2.644,2.22,2.232,2.372,2.586,2.5,2.536,2.819,3.071,3.142,3.205,3.269,3.334,3.401
+Czechia,Other Sauces,Revenue,Total,million USD (US$),Statista,168.4,146.1,152.4,167.9,184.9,189.7,196.2,223.7,250.3,262.6,275.1,287.7,301.4,322.3
+Czechia,Other Sauces,Revenue Change,Total,percent,Statista,,-13.242,4.312,10.171,10.125,2.596,3.426,14.016,11.891,4.914,4.76,4.58,4.762,6.934
+Czechia,Other Sauces,Average Revenue per Capita,Total,USD (US$),Statista,15.9,13.78,14.35,15.78,17.34,17.75,18.32,20.86,23.31,24.44,25.58,26.75,28.01,29.96
+Czechia,Other Sauces,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.75,99.718,99.68,99.637,99.587,99.529,,
+Czechia,Other Sauces,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.25,0.282,0.32,0.363,0.413,0.471,,
+Czechia,Other Sauces,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Other Sauces,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Other Sauces,Volume,Total,million kilograms,Statista,63.679,65.794,68.261,70.774,71.518,75.9,77.373,79.365,81.484,83.582,85.84,88.017,90.384,94.771
+Czechia,Other Sauces,Volume Change,Total,percent,Statista,,3.321,3.75,3.682,1.051,6.127,1.941,2.575,2.669,2.575,2.702,2.536,2.689,4.855
+Czechia,Other Sauces,Average Volume per Capita,Total,kilograms,Statista,6.013,6.206,6.428,6.651,6.705,7.101,7.225,7.4,7.589,7.778,7.983,8.183,8.401,8.809
+Czechia,Ready-to-Eat Meals,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,12.44,,,,,,
+Czechia,Ready-to-Eat Meals,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,26.316,,,,,,
+Czechia,Ready-to-Eat Meals,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,26.794,,,,,,
+Czechia,Ready-to-Eat Meals,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,20.574,,,,,,
+Czechia,Ready-to-Eat Meals,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,13.876,,,,,,
+Czechia,Ready-to-Eat Meals,Users by Income,high income,percent,Statista Global Consumer Survey|Statista,,,,,,,,27.811,,,,,,
+Czechia,Ready-to-Eat Meals,Users by Income,low income,percent,Statista Global Consumer Survey|Statista,,,,,,,,34.32,,,,,,
+Czechia,Ready-to-Eat Meals,Users by Income,medium income,percent,Statista Global Consumer Survey|Statista,,,,,,,,37.87,,,,,,
+Czechia,Ready-to-Eat Meals,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,,,,38.756,,,,,,
+Czechia,Ready-to-Eat Meals,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,,,,61.244,,,,,,
+Czechia,Ready-to-Eat Meals,Price per Unit,Average,USD (US$),Statista,3.993,3.424,3.516,3.814,4.245,4.189,4.302,4.842,5.277,5.398,5.506,5.616,5.728,5.843
+Czechia,Ready-to-Eat Meals,Revenue,Total,billion USD (US$),Statista,0.517,0.462,0.482,0.543,0.608,0.633,0.663,0.766,0.858,0.901,0.947,0.994,1.036,1.105
+Czechia,Ready-to-Eat Meals,Revenue Change,Total,percent,Statista,,-10.6,4.219,12.663,11.977,4.13,4.851,15.494,11.954,5.047,5.126,4.95,4.194,6.66
+Czechia,Ready-to-Eat Meals,Average Revenue per Capita,Total,USD (US$),Statista,48.81,43.6,45.37,51,56.97,59.2,61.96,71.45,79.9,83.86,88.11,92.43,96.27,102.7
+Czechia,Ready-to-Eat Meals,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.712,99.683,99.65,99.614,99.574,99.529,,
+Czechia,Ready-to-Eat Meals,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.288,0.317,0.35,0.386,0.426,0.471,,
+Czechia,Ready-to-Eat Meals,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Ready-to-Eat Meals,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Ready-to-Eat Meals,Volume,Total,million kilograms,Statista,129.488,134.98,137.024,142.28,143.143,151.064,154.223,158.25,162.591,166.955,172.073,177.046,180.808,189.046
+Czechia,Ready-to-Eat Meals,Volume Change,Total,percent,Statista,,4.242,1.514,3.836,0.607,5.533,2.092,2.611,2.743,2.684,3.065,2.89,2.125,4.556
+Czechia,Ready-to-Eat Meals,Average Volume per Capita,Total,kilograms,Statista,12.226,12.732,12.904,13.371,13.421,14.132,14.401,14.756,15.143,15.537,16.003,16.459,16.806,17.572
+Czechia,Soups,Price per Unit,Average,USD (US$),Statista,6.941,5.677,5.551,5.73,6.06,5.675,5.669,6.193,6.748,6.903,7.041,7.182,7.325,7.472
+Czechia,Soups,Revenue,Total,million USD (US$),Statista,118.7,91.99,99.08,100.2,103.8,100.5,98.24,106.2,114.8,116.6,118.2,119.7,126.6,126.1
+Czechia,Soups,Revenue Change,Total,percent,Statista,,-22.502,7.707,1.13,3.593,-3.179,-2.249,8.103,8.098,1.568,1.372,1.269,5.764,-0.395
+Czechia,Soups,Average Revenue per Capita,Total,USD (US$),Statista,11.21,8.677,9.33,9.414,9.733,9.398,9.173,9.904,10.7,10.85,10.99,11.13,11.76,11.72
+Czechia,Soups,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.713,99.684,99.651,99.615,99.575,99.529,,
+Czechia,Soups,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.287,0.316,0.349,0.385,0.425,0.471,,
+Czechia,Soups,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Soups,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Soups,Volume,Total,million kilograms,Statista,17.102,16.204,17.848,17.482,17.131,17.703,17.327,17.153,17.019,16.897,16.783,16.671,17.277,16.881
+Czechia,Soups,Volume Change,Total,percent,Statista,,-5.249,10.145,-2.047,-2.008,3.336,-2.121,-1.008,-0.777,-0.72,-0.673,-0.666,3.633,-2.291
+Czechia,Soups,Average Volume per Capita,Total,kilograms,Statista,1.615,1.528,1.681,1.643,1.606,1.656,1.618,1.599,1.585,1.572,1.561,1.55,1.606,1.569
+Czechia,Convenience Food,Price per Unit,Average,USD (US$),Statista,4.337,3.666,3.75,4.024,4.439,4.345,4.44,4.974,5.416,5.536,5.642,5.751,5.867,5.976
+Czechia,Convenience Food,Price per Unit,Ready-to-Eat Meals,USD (US$),Statista,3.993,3.424,3.516,3.814,4.245,4.189,4.302,4.842,5.277,5.398,5.506,5.616,5.728,5.843
+Czechia,Convenience Food,Price per Unit,Soups,USD (US$),Statista,6.941,5.677,5.551,5.73,6.06,5.675,5.669,6.193,6.748,6.903,7.041,7.182,7.325,7.472
+Czechia,Convenience Food,Revenue,Total,billion USD (US$),Statista,0.636,0.554,0.581,0.643,0.712,0.733,0.762,0.873,0.973,1.018,1.066,1.114,1.162,1.231
+Czechia,Convenience Food,Revenue,Ready-to-Eat Meals,billion USD (US$),Statista,0.517,0.462,0.482,0.543,0.608,0.633,0.663,0.766,0.858,0.901,0.947,0.994,1.036,1.105
+Czechia,Convenience Food,Revenue,Soups,billion USD (US$),Statista,0.119,0.092,0.099,0.1,0.104,0.101,0.098,0.106,0.115,0.117,0.118,0.12,0.127,0.126
+Czechia,Convenience Food,Revenue Change,Total,percent,Statista,,-12.821,4.8,10.692,10.67,3.064,3.873,14.546,11.496,4.646,4.715,4.503,4.309,5.938
+Czechia,Convenience Food,Revenue Change,Ready-to-Eat Meals,percent,Statista,,-10.6,4.219,12.663,11.977,4.13,4.851,15.494,11.954,5.047,5.126,4.95,4.194,6.66
+Czechia,Convenience Food,Revenue Change,Soups,percent,Statista,,-22.502,7.707,1.13,3.593,-3.179,-2.249,8.103,8.098,1.568,1.372,1.269,5.764,-0.395
+Czechia,Convenience Food,Average Revenue per Capita,Total,USD (US$),Statista,60.02,52.28,54.7,60.42,66.71,68.6,71.13,81.36,90.6,94.72,99.1,103.6,108,114.4
+Czechia,Convenience Food,Average Revenue per Capita,Ready-to-Eat Meals,USD (US$),Statista,48.81,43.6,45.37,51,56.97,59.2,61.96,71.45,79.9,83.86,88.11,92.43,96.27,102.7
+Czechia,Convenience Food,Average Revenue per Capita,Soups,USD (US$),Statista,11.21,8.677,9.33,9.414,9.733,9.398,9.173,9.904,10.7,10.85,10.99,11.13,11.76,11.72
+Czechia,Convenience Food,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.712,99.683,99.65,99.614,99.574,99.529,,
+Czechia,Convenience Food,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.288,0.317,0.35,0.386,0.426,0.471,,
+Czechia,Convenience Food,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Convenience Food,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Convenience Food,Volume,Total,million kilograms,Statista,146.589,151.184,154.872,159.762,160.275,168.767,171.551,175.402,179.61,183.852,188.856,193.717,198.086,205.928
+Czechia,Convenience Food,Volume,Ready-to-Eat Meals,million kilograms,Statista,129.488,134.98,137.024,142.28,143.143,151.064,154.223,158.25,162.591,166.955,172.073,177.046,180.808,189.046
+Czechia,Convenience Food,Volume,Soups,million kilograms,Statista,17.102,16.204,17.848,17.482,17.131,17.703,17.327,17.153,17.019,16.897,16.783,16.671,17.277,16.881
+Czechia,Convenience Food,Volume Change,Total,percent,Statista,,3.135,2.439,3.158,0.321,5.298,1.65,2.245,2.399,2.362,2.721,2.574,2.255,3.959
+Czechia,Convenience Food,Volume Change,Ready-to-Eat Meals,percent,Statista,,4.242,1.514,3.836,0.607,5.533,2.092,2.611,2.743,2.684,3.065,2.89,2.125,4.556
+Czechia,Convenience Food,Volume Change,Soups,percent,Statista,,-5.249,10.145,-2.047,-2.008,3.336,-2.121,-1.008,-0.777,-0.72,-0.673,-0.666,3.633,-2.291
+Czechia,Convenience Food,Average Volume per Capita,Total,kilograms,Statista,13.841,14.261,14.585,15.014,15.027,15.788,16.019,16.355,16.728,17.109,17.564,18.009,18.411,19.141
+Czechia,Convenience Food,Average Volume per Capita,Ready-to-Eat Meals,kilograms,Statista,12.226,12.732,12.904,13.371,13.421,14.132,14.401,14.756,15.143,15.537,16.003,16.459,16.806,17.572
+Czechia,Convenience Food,Average Volume per Capita,Soups,kilograms,Statista,1.615,1.528,1.681,1.643,1.606,1.656,1.618,1.599,1.585,1.572,1.561,1.55,1.606,1.569
+Czechia,Spreads,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,12.109,,,,,,
+Czechia,Spreads,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,21.094,,,,,,
+Czechia,Spreads,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,28.516,,,,,,
+Czechia,Spreads,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,25,,,,,,
+Czechia,Spreads,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,13.281,,,,,,
+Czechia,Spreads,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,,,,38.462,,,,,,
+Czechia,Spreads,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,,,,27.404,,,,,,
+Czechia,Spreads,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,,,,34.135,,,,,,
+Czechia,Spreads,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,,,,48.438,,,,,,
+Czechia,Spreads,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,,,,51.562,,,,,,
+Czechia,Spreads,Price per Unit,Average,USD (US$),Statista,2.75,2.321,2.335,2.49,2.725,2.646,2.693,3.006,3.3,3.346,3.401,3.458,3.525,3.564
+Czechia,Spreads,Price per Unit,Chocolate Spreads,USD (US$),Statista,4.855,4.163,4.272,4.633,5.155,5.085,5.238,5.907,6.436,6.584,6.716,6.85,6.987,7.127
+Czechia,Spreads,Price per Unit,Jams & Marmalades,USD (US$),Statista,2.453,2.075,2.101,2.248,2.469,2.404,2.449,2.735,2.98,3.048,3.109,3.171,3.235,3.3
+Czechia,Spreads,Price per Unit,Peanut Butter,USD (US$),Statista,4.072,3.491,3.583,3.886,4.323,4.265,4.393,4.954,5.398,5.522,5.632,5.745,5.86,5.977
+Czechia,Spreads,Revenue,Total,million USD (US$),Statista,123.3,110.8,123.8,143.4,167.4,179.3,190.6,222,229.1,260.9,283.3,306.8,320.9,370.6
+Czechia,Spreads,Revenue,Chocolate Spreads,million USD (US$),Statista,25.74,22.34,22.98,25.53,28.62,29.51,30.61,35.31,39.11,40.79,42.67,44.57,46.41,48.24
+Czechia,Spreads,Revenue,Jams & Marmalades,million USD (US$),Statista,96.1,87.18,99.07,116,136.8,147.8,157.9,184.3,187.2,217.1,237.5,259,271.1,318.7
+Czechia,Spreads,Revenue,Peanut Butter,million USD (US$),Statista,1.468,1.328,1.728,1.841,1.963,1.964,2.104,2.44,2.755,2.939,3.088,3.24,3.373,3.598
+Czechia,Spreads,Revenue Change,Total,percent,Statista,,-10.138,11.733,15.832,16.736,7.109,6.302,16.474,3.198,13.88,8.586,8.295,4.596,15.488
+Czechia,Spreads,Revenue Change,Chocolate Spreads,percent,Statista,,-13.209,2.865,11.097,12.103,3.11,3.728,15.354,10.762,4.296,4.609,4.453,4.128,3.943
+Czechia,Spreads,Revenue Change,Jams & Marmalades,percent,Statista,,-9.282,13.638,17.089,17.931,8.041,6.834,16.719,1.574,15.972,9.397,9.053,4.672,17.558
+Czechia,Spreads,Revenue Change,Peanut Butter,percent,Statista,,-9.537,30.12,6.539,6.627,0.051,7.128,15.97,12.91,6.679,5.07,4.922,4.105,6.671
+Czechia,Spreads,Average Revenue per Capita,Total,USD (US$),Statista,11.64,10.46,11.66,13.48,15.7,16.77,17.8,20.7,21.34,24.27,26.34,28.52,29.83,34.45
+Czechia,Spreads,Average Revenue per Capita,Chocolate Spreads,USD (US$),Statista,2.431,2.108,2.164,2.4,2.683,2.761,2.858,3.292,3.642,3.796,3.968,4.143,4.313,4.484
+Czechia,Spreads,Average Revenue per Capita,Jams & Marmalades,USD (US$),Statista,9.073,8.223,9.329,10.9,12.83,13.83,14.74,17.18,17.44,20.21,22.09,24.07,25.2,29.63
+Czechia,Spreads,Average Revenue per Capita,Peanut Butter,USD (US$),Statista,0.139,0.125,0.163,0.173,0.184,0.184,0.197,0.228,0.257,0.274,0.287,0.301,0.314,0.335
+Czechia,Spreads,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.76,99.726,99.688,99.643,99.591,99.529,,
+Czechia,Spreads,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.24,0.274,0.312,0.357,0.409,0.471,,
+Czechia,Spreads,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Spreads,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Spreads,Volume,Total,million kilograms,Statista,44.835,47.764,53.016,57.586,61.436,67.735,70.782,73.847,69.414,77.956,83.29,88.724,91.029,103.973
+Czechia,Spreads,Volume,Chocolate Spreads,million kilograms,Statista,5.302,5.368,5.379,5.511,5.551,5.803,5.843,5.977,6.076,6.195,6.353,6.506,6.641,6.768
+Czechia,Spreads,Volume,Jams & Marmalades,million kilograms,Statista,39.172,42.016,47.155,51.601,55.43,61.472,64.46,67.377,62.828,71.229,76.389,81.654,83.812,96.603
+Czechia,Spreads,Volume,Peanut Butter,million kilograms,Statista,0.361,0.38,0.482,0.474,0.454,0.46,0.479,0.493,0.51,0.532,0.548,0.564,0.576,0.602
+Czechia,Spreads,Volume Change,Total,percent,Statista,,6.534,10.995,8.619,6.685,10.254,4.498,4.331,-6.003,12.305,6.843,6.524,2.598,14.22
+Czechia,Spreads,Volume Change,Chocolate Spreads,percent,Statista,,1.24,0.202,2.46,0.729,4.541,0.68,2.306,1.643,1.959,2.559,2.408,2.078,1.907
+Czechia,Spreads,Volume Change,Jams & Marmalades,percent,Statista,,7.26,12.231,9.428,7.421,10.899,4.862,4.525,-6.751,13.37,7.244,6.892,2.643,15.261
+Czechia,Spreads,Volume Change,Peanut Butter,percent,Statista,,5.485,26.841,-1.767,-4.169,1.401,4.006,2.852,3.599,4.302,3.007,2.854,2.078,4.582
+Czechia,Spreads,Average Volume per Capita,Total,kilograms,Statista,4.233,4.505,4.993,5.412,5.76,6.337,6.61,6.886,6.465,7.254,7.746,8.248,8.461,9.664
+Czechia,Spreads,Average Volume per Capita,Chocolate Spreads,kilograms,Statista,0.501,0.506,0.507,0.518,0.52,0.543,0.546,0.557,0.566,0.576,0.591,0.605,0.617,0.629
+Czechia,Spreads,Average Volume per Capita,Jams & Marmalades,kilograms,Statista,3.699,3.963,4.441,4.849,5.197,5.751,6.019,6.283,5.852,6.628,7.104,7.591,7.79,8.979
+Czechia,Spreads,Average Volume per Capita,Peanut Butter,kilograms,Statista,0.034,0.036,0.045,0.045,0.043,0.043,0.045,0.046,0.048,0.05,0.051,0.052,0.054,0.056
+Czechia,Spreads & Sweeteners,Price per Unit,Average,USD (US$),Statista,2.412,2.009,1.999,2.106,2.276,2.182,2.2,2.434,2.68,2.694,2.738,2.784,2.829,2.841
+Czechia,Spreads & Sweeteners,Price per Unit,Spreads,USD (US$),Statista,2.75,2.321,2.335,2.49,2.725,2.646,2.693,3.006,3.3,3.346,3.401,3.458,3.525,3.564
+Czechia,Spreads & Sweeteners,Price per Unit,Sweeteners,USD (US$),Statista,2.005,1.635,1.595,1.644,1.738,1.629,1.612,1.748,1.935,1.906,1.925,1.947,1.976,1.958
+Czechia,Spreads & Sweeteners,Revenue,Total,million USD (US$),Statista,198.2,176,194.1,222.3,256.7,271.8,286,329.7,340.9,384,414.3,445.7,467.5,537.4
+Czechia,Spreads & Sweeteners,Revenue,Spreads,million USD (US$),Statista,123.3,110.8,123.8,143.4,167.4,179.3,190.6,222,229.1,260.9,283.3,306.8,320.9,370.6
+Czechia,Spreads & Sweeteners,Revenue,Sweeteners,million USD (US$),Statista,74.87,65.12,70.37,78.93,89.25,92.58,95.4,107.7,111.8,123.2,131,138.9,146.6,166.8
+Czechia,Spreads & Sweeteners,Revenue Change,Total,percent,Statista,,-11.201,10.284,14.529,15.475,5.882,5.224,15.28,3.397,12.643,7.891,7.579,4.891,14.952
+Czechia,Spreads & Sweeteners,Revenue Change,Spreads,percent,Statista,,-10.138,11.733,15.832,16.736,7.109,6.302,16.474,3.198,13.88,8.586,8.295,4.596,15.488
+Czechia,Spreads & Sweeteners,Revenue Change,Sweeteners,percent,Statista,,-13.023,8.062,12.164,13.075,3.731,3.046,12.893,3.807,10.197,6.331,6.031,5.544,13.779
+Czechia,Spreads & Sweeteners,Average Revenue per Capita,Total,USD (US$),Statista,18.71,16.6,18.28,20.89,24.07,25.43,26.71,30.75,31.75,35.74,38.53,41.43,43.46,49.95
+Czechia,Spreads & Sweeteners,Average Revenue per Capita,Spreads,USD (US$),Statista,11.64,10.46,11.66,13.48,15.7,16.77,17.8,20.7,21.34,24.27,26.34,28.52,29.83,34.45
+Czechia,Spreads & Sweeteners,Average Revenue per Capita,Sweeteners,USD (US$),Statista,7.07,6.142,6.627,7.417,8.368,8.661,8.909,10.05,10.41,11.46,12.18,12.91,13.63,15.51
+Czechia,Spreads & Sweeteners,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.76,99.726,99.688,99.643,99.591,99.529,,
+Czechia,Spreads & Sweeteners,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.24,0.274,0.312,0.357,0.409,0.471,,
+Czechia,Spreads & Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Spreads & Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Spreads & Sweeteners,Volume,Total,million kilograms,Statista,82.171,87.591,97.129,105.587,112.782,124.568,129.972,135.491,127.193,142.569,151.326,160.087,165.257,189.172
+Czechia,Spreads & Sweeteners,Volume,Spreads,million kilograms,Statista,44.835,47.764,53.016,57.586,61.436,67.735,70.782,73.847,69.414,77.956,83.29,88.724,91.029,103.973
+Czechia,Spreads & Sweeteners,Volume,Sweeteners,million kilograms,Statista,37.336,39.827,44.113,48.001,51.346,56.833,59.19,61.644,57.779,64.613,68.036,71.363,74.228,85.2
+Czechia,Spreads & Sweeteners,Volume Change,Total,percent,Statista,,6.596,10.889,8.708,6.814,10.45,4.338,4.246,-6.124,12.089,6.142,5.789,3.229,14.472
+Czechia,Spreads & Sweeteners,Volume Change,Spreads,percent,Statista,,6.534,10.995,8.619,6.685,10.254,4.498,4.331,-6.003,12.305,6.843,6.524,2.598,14.22
+Czechia,Spreads & Sweeteners,Volume Change,Sweeteners,percent,Statista,,6.67,10.762,8.815,6.968,10.685,4.148,4.145,-6.27,11.829,5.297,4.891,4.014,14.781
+Czechia,Spreads & Sweeteners,Average Volume per Capita,Total,kilograms,Statista,7.759,8.262,9.147,9.923,10.574,11.654,12.137,12.634,11.846,13.267,14.074,14.883,15.36,17.583
+Czechia,Spreads & Sweeteners,Average Volume per Capita,Spreads,kilograms,Statista,4.233,4.505,4.993,5.412,5.76,6.337,6.61,6.886,6.465,7.254,7.746,8.248,8.461,9.664
+Czechia,Spreads & Sweeteners,Average Volume per Capita,Sweeteners,kilograms,Statista,3.525,3.757,4.154,4.511,4.814,5.317,5.527,5.748,5.381,6.013,6.327,6.634,6.899,7.919
+Czechia,Sweeteners,Price per Unit,Average,USD (US$),Statista,2.005,1.635,1.595,1.644,1.738,1.629,1.612,1.748,1.935,1.906,1.925,1.947,1.976,1.958
+Czechia,Sweeteners,Price per Unit,Artificial Sweeteners,USD (US$),Statista,19.62,16.74,17.09,18.42,20.37,19.95,20.43,22.93,24.98,25.55,26.07,26.59,27.12,27.66
+Czechia,Sweeteners,Price per Unit,Honey,USD (US$),Statista,4.588,3.953,4.079,4.448,4.976,4.937,5.082,5.735,6.249,6.392,6.52,6.651,6.784,6.919
+Czechia,Sweeteners,Price per Unit,Sugar,USD (US$),Statista,1.437,1.166,1.133,1.163,1.226,1.145,1.132,1.227,1.337,1.367,1.395,1.423,1.451,1.48
+Czechia,Sweeteners,Revenue,Total,million USD (US$),Statista,74.87,65.12,70.37,78.93,89.25,92.58,95.4,107.7,111.8,123.2,131,138.9,146.6,166.8
+Czechia,Sweeteners,Revenue,Artificial Sweeteners,million USD (US$),Statista,7.406,6.262,6.574,7.157,7.849,7.888,7.866,8.588,9.027,8.861,8.937,8.988,9.376,9.6
+Czechia,Sweeteners,Revenue,Honey,million USD (US$),Statista,20.92,18.23,19.74,22.18,25.13,26.12,26.97,30.52,33.11,33.62,35.16,36.74,38.23,40.22
+Czechia,Sweeteners,Revenue,Sugar,million USD (US$),Statista,46.55,40.62,44.05,49.59,56.27,58.57,60.57,68.64,69.67,80.69,86.9,93.19,99.04,117
+Czechia,Sweeteners,Revenue Change,Total,percent,Statista,,-13.023,8.062,12.164,13.075,3.731,3.046,12.893,3.807,10.197,6.331,6.031,5.544,13.779
+Czechia,Sweeteners,Revenue Change,Artificial Sweeteners,percent,Statista,,-15.447,4.982,8.868,9.669,0.497,-0.279,9.179,5.112,-1.839,0.858,0.571,4.317,2.389
+Czechia,Sweeteners,Revenue Change,Honey,percent,Statista,,-12.859,8.283,12.361,13.3,3.94,3.254,13.163,8.486,1.54,4.581,4.494,4.056,5.205
+Czechia,Sweeteners,Revenue Change,Sugar,percent,Statista,,-12.739,8.444,12.577,13.47,4.087,3.415,13.323,1.501,15.817,7.696,7.238,6.277,18.134
+Czechia,Sweeteners,Average Revenue per Capita,Total,USD (US$),Statista,7.07,6.142,6.627,7.417,8.368,8.661,8.909,10.05,10.41,11.46,12.18,12.91,13.63,15.51
+Czechia,Sweeteners,Average Revenue per Capita,Artificial Sweeteners,USD (US$),Statista,0.699,0.591,0.619,0.673,0.736,0.738,0.735,0.801,0.841,0.825,0.831,0.836,0.872,0.892
+Czechia,Sweeteners,Average Revenue per Capita,Honey,USD (US$),Statista,1.975,1.72,1.859,2.085,2.357,2.444,2.518,2.846,3.084,3.128,3.27,3.415,3.553,3.739
+Czechia,Sweeteners,Average Revenue per Capita,Sugar,USD (US$),Statista,4.395,3.832,4.149,4.66,5.276,5.48,5.656,6.4,6.489,7.509,8.082,8.663,9.205,10.87
+Czechia,Sweeteners,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.76,99.726,99.688,99.643,99.591,99.529,,
+Czechia,Sweeteners,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.24,0.274,0.312,0.357,0.409,0.471,,
+Czechia,Sweeteners,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Sweeteners,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Sweeteners,Volume,Total,million kilograms,Statista,37.336,39.827,44.113,48.001,51.346,56.833,59.19,61.644,57.779,64.613,68.036,71.363,74.228,85.2
+Czechia,Sweeteners,Volume,Artificial Sweeteners,million kilograms,Statista,0.377,0.374,0.385,0.388,0.385,0.395,0.385,0.375,0.361,0.347,0.343,0.338,0.346,0.347
+Czechia,Sweeteners,Volume,Honey,million kilograms,Statista,4.56,4.611,4.839,4.988,5.051,5.291,5.307,5.321,5.299,5.259,5.392,5.524,5.635,5.813
+Czechia,Sweeteners,Volume,Sugar,million kilograms,Statista,32.399,34.842,38.889,42.625,45.91,51.146,53.498,55.948,52.118,59.008,62.3,65.501,68.247,79.04
+Czechia,Sweeteners,Volume Change,Total,percent,Statista,,6.67,10.762,8.815,6.968,10.685,4.148,4.145,-6.27,11.829,5.297,4.891,4.014,14.781
+Czechia,Sweeteners,Volume Change,Artificial Sweeteners,percent,Statista,,-0.91,2.849,0.986,-0.792,2.578,-2.622,-2.688,-3.534,-4.046,-1.127,-1.393,2.267,0.384
+Czechia,Sweeteners,Volume Change,Honey,percent,Statista,,1.116,4.95,3.063,1.274,4.754,0.301,0.267,-0.419,-0.761,2.539,2.443,2.013,3.155
+Czechia,Sweeteners,Volume Change,Sugar,percent,Statista,,7.54,11.616,9.608,7.705,11.406,4.599,4.579,-6.845,13.219,5.58,5.137,4.192,15.814
+Czechia,Sweeteners,Average Volume per Capita,Total,kilograms,Statista,3.525,3.757,4.154,4.511,4.814,5.317,5.527,5.748,5.381,6.013,6.327,6.634,6.899,7.919
+Czechia,Sweeteners,Average Volume per Capita,Artificial Sweeteners,kilograms,Statista,0.036,0.035,0.036,0.037,0.036,0.037,0.036,0.035,0.034,0.032,0.032,0.031,0.032,0.032
+Czechia,Sweeteners,Average Volume per Capita,Honey,kilograms,Statista,0.431,0.435,0.456,0.469,0.474,0.495,0.496,0.496,0.494,0.489,0.501,0.514,0.524,0.54
+Czechia,Sweeteners,Average Volume per Capita,Sugar,kilograms,Statista,3.059,3.287,3.662,4.006,4.304,4.785,4.996,5.217,4.854,5.491,5.794,6.089,6.343,7.347
+Czechia,Confectionery & Snacks,Price per Unit,Average,USD (US$),Statista,5.088,4.315,4.299,4.589,5.035,4.904,5.017,5.617,6.11,6.242,6.35,6.462,6.589,6.676
+Czechia,Confectionery & Snacks,Price per Unit,Confectionery,USD (US$),Statista,4.831,4.079,4.042,4.297,4.691,4.547,4.64,5.182,5.64,5.764,5.859,5.955,6.076,6.16
+Czechia,Confectionery & Snacks,Price per Unit,Snack Food,USD (US$),Statista,6.589,5.735,5.877,6.438,7.251,7.247,7.492,8.487,9.268,9.498,9.712,9.93,10.12,10.35
+Czechia,Confectionery & Snacks,Revenue,Total,billion USD (US$),Statista,3.057,2.649,2.753,3.025,3.32,3.398,3.509,3.997,4.441,4.633,4.836,5.04,5.264,5.532
+Czechia,Confectionery & Snacks,Revenue,Confectionery,billion USD (US$),Statista,2.48,2.147,2.226,2.445,2.678,2.734,2.816,3.202,3.569,3.731,3.892,4.054,4.238,4.475
+Czechia,Confectionery & Snacks,Revenue,Snack Food,billion USD (US$),Statista,0.577,0.501,0.526,0.58,0.642,0.664,0.693,0.796,0.873,0.902,0.944,0.986,1.026,1.057
+Czechia,Confectionery & Snacks,Revenue Change,Total,percent,Statista,,-13.346,3.926,9.88,9.752,2.349,3.267,13.907,11.108,4.323,4.382,4.218,4.444,5.091
+Czechia,Confectionery & Snacks,Revenue Change,Confectionery,percent,Statista,,-13.427,3.68,9.838,9.53,2.091,2.999,13.707,11.462,4.539,4.315,4.162,4.539,5.592
+Czechia,Confectionery & Snacks,Revenue Change,Snack Food,percent,Statista,,-13.13,4.965,10.106,10.749,3.474,4.336,14.848,9.675,3.38,4.555,4.547,4.015,3.021
+Czechia,Confectionery & Snacks,Average Revenue per Capita,Total,USD (US$),Statista,288.6,249.9,259.2,284.2,311.3,317.9,327.7,372.7,413.7,431.2,449.7,468.6,489.2,514.2
+Czechia,Confectionery & Snacks,Average Revenue per Capita,Confectionery,USD (US$),Statista,234.1,202.6,209.7,229.8,251.1,255.7,262.9,298.5,332.4,347.2,362,376.9,393.9,416
+Czechia,Confectionery & Snacks,Average Revenue per Capita,Snack Food,USD (US$),Statista,54.51,47.31,49.57,54.47,60.18,62.14,64.71,74.21,81.3,83.98,87.75,91.7,95.37,98.25
+Czechia,Confectionery & Snacks,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.723,99.692,99.659,99.621,99.578,99.529,,
+Czechia,Confectionery & Snacks,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.277,0.308,0.341,0.379,0.422,0.471,,
+Czechia,Confectionery & Snacks,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Confectionery & Snacks,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Confectionery & Snacks,Volume,Total,million kilograms,Statista,600.868,613.956,640.33,659.075,659.456,692.929,699.341,711.663,726.922,742.311,761.503,780.073,798.846,828.663
+Czechia,Confectionery & Snacks,Volume,Confectionery,million kilograms,Statista,513.252,526.507,550.767,569.037,570.934,601.269,606.844,617.879,632.745,647.305,664.349,680.737,697.469,726.553
+Czechia,Confectionery & Snacks,Volume,Snack Food,million kilograms,Statista,87.616,87.449,89.563,90.038,88.522,91.66,92.497,93.784,94.177,95.006,97.154,99.336,101.376,102.11
+Czechia,Confectionery & Snacks,Volume Change,Total,percent,Statista,,2.178,4.296,2.927,0.058,5.076,0.925,1.762,2.144,2.117,2.585,2.439,2.407,3.733
+Czechia,Confectionery & Snacks,Volume Change,Confectionery,percent,Statista,,2.583,4.608,3.317,0.333,5.313,0.927,1.818,2.406,2.301,2.633,2.467,2.458,4.17
+Czechia,Confectionery & Snacks,Volume Change,Snack Food,percent,Statista,,-0.191,2.417,0.531,-1.684,3.545,0.913,1.392,0.419,0.88,2.261,2.245,2.054,0.723
+Czechia,Confectionery & Snacks,Average Volume per Capita,Total,kilograms,Statista,56.733,57.913,60.301,61.937,61.83,64.825,65.304,66.358,67.704,69.079,70.822,72.52,74.25,77.023
+Czechia,Confectionery & Snacks,Average Volume per Capita,Confectionery,kilograms,Statista,48.461,49.664,51.867,53.476,53.53,56.25,56.667,57.614,58.932,60.237,61.786,63.285,64.828,67.532
+Czechia,Confectionery & Snacks,Average Volume per Capita,Snack Food,kilograms,Statista,8.273,8.249,8.434,8.461,8.3,8.575,8.637,8.745,8.771,8.841,9.036,9.235,9.423,9.491
+Czechia,Confectionery,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,11.479,,,,,,
+Czechia,Confectionery,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,24.903,,,,,,
+Czechia,Confectionery,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,26.848,,,,,,
+Czechia,Confectionery,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,23.735,,,,,,
+Czechia,Confectionery,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,13.035,,,,,,
+Czechia,Confectionery,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,,,,33.57,,,,,,
+Czechia,Confectionery,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,,,,31.915,,,,,,
+Czechia,Confectionery,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,,,,34.515,,,,,,
+Czechia,Confectionery,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,,,,50.389,,,,,,
+Czechia,Confectionery,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,,,,49.611,,,,,,
+Czechia,Confectionery,Price per Unit,Average,USD (US$),Statista,4.831,4.079,4.042,4.297,4.691,4.547,4.64,5.182,5.64,5.764,5.859,5.955,6.076,6.16
+Czechia,Confectionery,Price per Unit,Chocolate Confectionery,USD (US$),Statista,11.94,9.985,9.999,10.58,11.49,11.06,11.27,12.56,13.69,14,14.28,14.57,14.86,15.15
+Czechia,Confectionery,Price per Unit,Ice Cream,USD (US$),Statista,2.476,2.099,2.13,2.284,2.513,2.453,2.505,2.803,3.054,3.125,3.187,3.251,3.316,3.382
+Czechia,Confectionery,Price per Unit,Preserved Pastry Goods & Cakes,USD (US$),Statista,4.411,3.717,3.75,3.999,4.374,4.243,4.34,4.855,5.29,5.411,5.52,5.63,5.743,5.857
+Czechia,Confectionery,Price per Unit,Sugar Confectionery,USD (US$),Statista,6.563,5.551,5.62,6.014,6.603,6.429,6.564,7.339,7.996,8.18,8.344,8.511,8.681,8.855
+Czechia,Confectionery,Revenue,Total,billion USD (US$),Statista,2.48,2.147,2.226,2.445,2.678,2.734,2.816,3.202,3.569,3.731,3.892,4.054,4.238,4.475
+Czechia,Confectionery,Revenue,Chocolate Confectionery,billion USD (US$),Statista,0.371,0.33,0.301,0.319,0.338,0.338,0.342,0.382,0.421,0.434,0.439,0.443,0.464,0.463
+Czechia,Confectionery,Revenue,Ice Cream,billion USD (US$),Statista,0.235,0.21,0.236,0.263,0.29,0.297,0.306,0.348,0.388,0.405,0.428,0.451,0.471,0.508
+Czechia,Confectionery,Revenue,Preserved Pastry Goods & Cakes,billion USD (US$),Statista,1.37,1.167,1.233,1.362,1.498,1.536,1.589,1.814,2.03,2.129,2.23,2.333,2.438,2.595
+Czechia,Confectionery,Revenue,Sugar Confectionery,billion USD (US$),Statista,0.504,0.44,0.457,0.502,0.552,0.563,0.579,0.657,0.73,0.762,0.795,0.827,0.864,0.909
+Czechia,Confectionery,Revenue Change,Total,percent,Statista,,-13.427,3.68,9.838,9.53,2.091,2.999,13.707,11.462,4.539,4.315,4.162,4.539,5.592
+Czechia,Confectionery,Revenue Change,Chocolate Confectionery,percent,Statista,,-11.054,-8.7,5.81,6.181,-0.207,1.244,11.729,10.131,3.28,1.059,0.843,4.72,-0.129
+Czechia,Confectionery,Revenue Change,Ice Cream,percent,Statista,,-10.387,11.971,11.37,10.514,2.482,2.994,13.749,11.312,4.514,5.577,5.423,4.457,7.939
+Czechia,Confectionery,Revenue Change,Preserved Pastry Goods & Cakes,percent,Statista,,-14.818,5.656,10.462,9.985,2.537,3.451,14.16,11.907,4.877,4.744,4.619,4.501,6.44
+Czechia,Confectionery,Revenue Change,Sugar Confectionery,percent,Statista,,-12.654,3.701,9.963,9.837,1.994,2.862,13.599,11.104,4.381,4.25,4.089,4.484,5.183
+Czechia,Confectionery,Average Revenue per Capita,Total,USD (US$),Statista,234.1,202.6,209.7,229.8,251.1,255.7,262.9,298.5,332.4,347.2,362,376.9,393.9,416
+Czechia,Confectionery,Average Revenue per Capita,Chocolate Confectionery,USD (US$),Statista,35.02,31.12,28.37,29.95,31.73,31.59,31.93,35.62,39.18,40.44,40.84,41.17,43.1,43.04
+Czechia,Confectionery,Average Revenue per Capita,Ice Cream,USD (US$),Statista,22.17,19.86,22.2,24.67,27.2,27.81,28.6,32.47,36.11,37.71,39.79,41.93,43.79,47.26
+Czechia,Confectionery,Average Revenue per Capita,Preserved Pastry Goods & Cakes,USD (US$),Statista,129.3,110,116.1,128,140.5,143.7,148.4,169.1,189.1,198.1,207.4,216.9,226.6,241.2
+Czechia,Confectionery,Average Revenue per Capita,Sugar Confectionery,USD (US$),Statista,47.61,41.54,43.01,47.19,51.71,52.63,54.04,61.3,68.03,70.95,73.92,76.91,80.35,84.51
+Czechia,Confectionery,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.723,99.693,99.659,99.621,99.578,99.529,,
+Czechia,Confectionery,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.277,0.307,0.341,0.379,0.422,0.471,,
+Czechia,Confectionery,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Confectionery,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Confectionery,Volume,Total,million kilograms,Statista,513.252,526.507,550.767,569.037,570.934,601.269,606.844,617.879,632.745,647.305,664.349,680.737,697.469,726.553
+Czechia,Confectionery,Volume,Chocolate Confectionery,million kilograms,Statista,31.073,33.039,30.123,30.111,29.456,30.535,30.329,30.415,30.738,31.036,30.749,30.401,31.21,30.558
+Czechia,Confectionery,Volume,Ice Cream,million kilograms,Statista,94.837,100.29,110.67,114.923,115.443,121.216,122.244,124.245,126.942,129.686,134.235,138.746,142.072,150.345
+Czechia,Confectionery,Volume,Preserved Pastry Goods & Cakes,million kilograms,Statista,310.522,313.836,328.709,340.502,342.506,362.017,366.104,373.632,383.724,393.378,404.108,414.385,424.607,442.97
+Czechia,Confectionery,Volume,Sugar Confectionery,million kilograms,Statista,76.82,79.342,81.266,83.501,83.529,87.5,88.167,89.588,91.34,93.205,95.257,97.206,99.58,102.68
+Czechia,Confectionery,Volume Change,Total,percent,Statista,,2.583,4.608,3.317,0.333,5.313,0.927,1.818,2.406,2.301,2.633,2.467,2.458,4.17
+Czechia,Confectionery,Volume Change,Chocolate Confectionery,percent,Statista,,6.327,-8.826,-0.04,-2.176,3.664,-0.675,0.282,1.064,0.969,-0.925,-1.13,2.662,-2.089
+Czechia,Confectionery,Volume Change,Ice Cream,percent,Statista,,5.75,10.35,3.843,0.453,5.001,0.848,1.637,2.171,2.162,3.508,3.36,2.397,5.823
+Czechia,Confectionery,Volume Change,Preserved Pastry Goods & Cakes,percent,Statista,,1.067,4.739,3.588,0.589,5.697,1.129,2.056,2.701,2.516,2.728,2.543,2.467,4.325
+Czechia,Confectionery,Volume Change,Sugar Confectionery,percent,Statista,,3.283,2.425,2.751,0.033,4.755,0.762,1.611,1.956,2.042,2.201,2.046,2.443,3.113
+Czechia,Confectionery,Average Volume per Capita,Total,kilograms,Statista,48.461,49.664,51.867,53.476,53.53,56.25,56.667,57.614,58.932,60.237,61.786,63.285,64.828,67.532
+Czechia,Confectionery,Average Volume per Capita,Chocolate Confectionery,kilograms,Statista,2.934,3.116,2.837,2.83,2.762,2.857,2.832,2.836,2.863,2.888,2.86,2.826,2.901,2.84
+Czechia,Confectionery,Average Volume per Capita,Ice Cream,kilograms,Statista,8.954,9.46,10.422,10.8,10.824,11.34,11.415,11.585,11.823,12.068,12.484,12.899,13.205,13.974
+Czechia,Confectionery,Average Volume per Capita,Preserved Pastry Goods & Cakes,kilograms,Statista,29.319,29.603,30.955,31.999,32.113,33.868,34.187,34.839,35.739,36.607,37.583,38.523,39.466,41.173
+Czechia,Confectionery,Average Volume per Capita,Sugar Confectionery,kilograms,Statista,7.253,7.484,7.653,7.847,7.832,8.186,8.233,8.354,8.507,8.674,8.859,9.037,9.256,9.544
+Czechia,Snack Food,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,17.152,,,,,,
+Czechia,Snack Food,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,28.155,,,,,,
+Czechia,Snack Food,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,27.832,,,,,,
+Czechia,Snack Food,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,18.447,,,,,,
+Czechia,Snack Food,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,8.41,,,,,,
+Czechia,Snack Food,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,,,,34.677,,,,,,
+Czechia,Snack Food,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,,,,31.452,,,,,,
+Czechia,Snack Food,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,,,,33.871,,,,,,
+Czechia,Snack Food,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,,,,46.602,,,,,,
+Czechia,Snack Food,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,,,,53.398,,,,,,
+Czechia,Snack Food,Price per Unit,Average,USD (US$),Statista,6.589,5.735,5.877,6.438,7.251,7.247,7.492,8.487,9.268,9.498,9.712,9.93,10.12,10.35
+Czechia,Snack Food,Price per Unit,Cookies & Crackers,USD (US$),Statista,4.696,4.009,4.098,4.428,4.907,4.823,4.891,5.457,5.946,6.082,6.204,6.328,6.455,6.584
+Czechia,Snack Food,Price per Unit,Potato Chips,USD (US$),Statista,10.19,8.825,9.144,10.01,11.24,11.18,11.56,13.08,14.26,14.58,14.88,15.17,15.48,15.79
+Czechia,Snack Food,Price per Unit,"Tortilla Chips, Flips & Pretzels",USD (US$),Statista,6.832,5.934,6.166,6.768,7.617,7.599,7.852,8.892,9.689,9.912,10.11,10.31,10.52,10.73
+Czechia,Snack Food,Revenue,Total,billion USD (US$),Statista,0.577,0.501,0.526,0.58,0.642,0.664,0.693,0.796,0.873,0.902,0.944,0.986,1.026,1.057
+Czechia,Snack Food,Revenue,Cookies & Crackers,billion USD (US$),Statista,0.179,0.146,0.155,0.163,0.172,0.169,0.169,0.186,0.2,0.204,0.207,0.21,0.219,0.215
+Czechia,Snack Food,Revenue,Potato Chips,billion USD (US$),Statista,0.182,0.161,0.161,0.175,0.194,0.203,0.214,0.247,0.27,0.278,0.286,0.294,0.305,0.303
+Czechia,Snack Food,Revenue,"Tortilla Chips, Flips & Pretzels",billion USD (US$),Statista,0.216,0.194,0.211,0.242,0.276,0.292,0.31,0.363,0.403,0.421,0.451,0.483,0.502,0.538
+Czechia,Snack Food,Revenue Change,Total,percent,Statista,,-13.13,4.965,10.106,10.749,3.474,4.336,14.848,9.675,3.38,4.555,4.547,4.015,3.021
+Czechia,Snack Food,Revenue Change,Cookies & Crackers,percent,Statista,,-18.029,5.874,5.355,5.266,-1.571,-0.414,10.326,7.746,1.747,1.521,1.45,4.431,-1.734
+Czechia,Snack Food,Revenue Change,Potato Chips,percent,Statista,,-11.471,-0.31,8.644,11.105,4.688,5.512,15.065,9.364,2.965,2.88,2.764,3.95,-0.721
+Czechia,Snack Food,Revenue Change,"Tortilla Chips, Flips & Pretzels",percent,Statista,,-10.485,8.669,14.767,14.15,5.763,6.271,17.156,10.873,4.494,7.128,7.053,3.915,7.356
+Czechia,Snack Food,Average Revenue per Capita,Total,USD (US$),Statista,54.51,47.31,49.57,54.47,60.18,62.14,64.71,74.21,81.3,83.98,87.75,91.7,95.37,98.25
+Czechia,Snack Food,Average Revenue per Capita,Cookies & Crackers,USD (US$),Statista,16.87,13.8,14.6,15.34,16.12,15.83,15.73,17.34,18.65,18.96,19.24,19.51,20.38,20.02
+Czechia,Snack Food,Average Revenue per Capita,Potato Chips,USD (US$),Statista,17.2,15.22,15.14,16.41,18.2,19.01,20.02,23.01,25.13,25.85,26.58,27.31,28.38,28.18
+Czechia,Snack Food,Average Revenue per Capita,"Tortilla Chips, Flips & Pretzels",USD (US$),Statista,20.45,18.28,19.83,22.72,25.86,27.3,28.96,33.87,37.51,39.16,41.94,44.88,46.62,50.06
+Czechia,Snack Food,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.722,99.692,99.658,99.62,99.577,99.529,,
+Czechia,Snack Food,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.278,0.308,0.342,0.38,0.423,0.471,,
+Czechia,Snack Food,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Snack Food,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Snack Food,Volume,Total,million kilograms,Statista,87.616,87.449,89.563,90.038,88.522,91.66,92.497,93.784,94.177,95.006,97.154,99.336,101.376,102.11
+Czechia,Snack Food,Volume,Cookies & Crackers,million kilograms,Statista,38.047,36.502,37.829,36.877,35.031,35.084,34.452,34.076,33.683,33.503,33.346,33.165,33.967,32.715
+Czechia,Snack Food,Volume,Potato Chips,million kilograms,Statista,17.875,18.283,17.586,17.447,17.276,18.172,18.55,18.856,18.924,19.044,19.209,19.358,19.725,19.201
+Czechia,Snack Food,Volume,"Tortilla Chips, Flips & Pretzels",million kilograms,Statista,31.695,32.664,34.148,35.715,36.215,38.404,39.495,40.851,41.569,42.459,44.6,46.812,47.685,50.194
+Czechia,Snack Food,Volume Change,Total,percent,Statista,,-0.191,2.417,0.531,-1.684,3.545,0.913,1.392,0.419,0.88,2.261,2.245,2.054,0.723
+Czechia,Snack Food,Volume Change,Cookies & Crackers,percent,Statista,,-4.059,3.635,-2.518,-5.004,0.15,-1.802,-1.09,-1.153,-0.535,-0.469,-0.541,2.415,-3.685
+Czechia,Snack Food,Volume Change,Potato Chips,percent,Statista,,2.282,-3.812,-0.792,-0.98,5.187,2.084,1.65,0.361,0.631,0.866,0.776,1.895,-2.656
+Czechia,Snack Food,Volume Change,"Tortilla Chips, Flips & Pretzels",percent,Statista,,3.056,4.543,4.589,1.4,6.045,2.838,3.435,1.758,2.141,5.041,4.962,1.864,5.262
+Czechia,Snack Food,Average Volume per Capita,Total,kilograms,Statista,8.273,8.249,8.434,8.461,8.3,8.575,8.637,8.745,8.771,8.841,9.036,9.235,9.423,9.491
+Czechia,Snack Food,Average Volume per Capita,Cookies & Crackers,kilograms,Statista,3.592,3.443,3.562,3.466,3.284,3.282,3.217,3.177,3.137,3.118,3.101,3.083,3.157,3.041
+Czechia,Snack Food,Average Volume per Capita,Potato Chips,kilograms,Statista,1.688,1.725,1.656,1.64,1.62,1.7,1.732,1.758,1.763,1.772,1.786,1.8,1.833,1.785
+Czechia,Snack Food,Average Volume per Capita,"Tortilla Chips, Flips & Pretzels",kilograms,Statista,2.993,3.081,3.216,3.356,3.395,3.593,3.688,3.809,3.872,3.951,4.148,4.352,4.432,4.665
+Czechia,Baby Food,Price per Unit,Average,USD (US$),Statista,3.976,3.473,3.627,4.001,4.524,4.533,4.671,5.286,5.76,5.893,6.01,6.131,6.253,6.378
+Czechia,Baby Food,Revenue,Total,million USD (US$),Statista,73.86,64.05,66.77,73.52,80.94,82.99,85.76,97.72,107.5,111.2,115.1,119.2,123.8,122.9
+Czechia,Baby Food,Revenue Change,Total,percent,Statista,,-13.282,4.247,10.109,10.092,2.533,3.338,13.946,10.008,3.442,3.507,3.562,3.859,-0.727
+Czechia,Baby Food,Average Revenue per Capita,Total,USD (US$),Statista,6.974,6.042,6.288,6.909,7.589,7.764,8.008,9.112,10.01,10.34,10.71,11.08,11.51,11.42
+Czechia,Baby Food,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.757,99.724,99.685,99.641,99.59,99.529,,
+Czechia,Baby Food,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.243,0.276,0.315,0.359,0.41,0.471,,
+Czechia,Baby Food,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Baby Food,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Baby Food,Volume,Total,million kilograms,Statista,18.576,18.446,18.409,18.375,17.89,18.306,18.358,18.486,18.667,18.865,19.156,19.443,19.802,19.269
+Czechia,Baby Food,Volume Change,Total,percent,Statista,,-0.701,-0.201,-0.184,-2.641,2.324,0.287,0.696,0.981,1.059,1.542,1.5,1.845,-2.69
+Czechia,Baby Food,Average Volume per Capita,Total,kilograms,Statista,1.754,1.74,1.734,1.727,1.677,1.713,1.714,1.724,1.739,1.756,1.782,1.808,1.841,1.791
+Czechia,Pet Food,Price per Unit,Average,USD (US$),Statista,1.65,1.43,1.49,1.64,1.84,1.84,1.786,1.999,2.178,2.228,2.272,2.318,2.364,2.411
+Czechia,Pet Food,Revenue,Total,billion USD (US$),Statista,0.351,0.355,0.362,0.367,0.374,0.383,0.382,0.387,0.424,0.427,0.431,0.436,0.442,0.451
+Czechia,Pet Food,Revenue Change,Total,percent,Statista,,1.139,1.914,1.491,1.905,2.19,-0.131,1.23,9.718,0.66,0.936,1.043,1.514,1.989
+Czechia,Pet Food,Average Revenue per Capita,Total,USD (US$),Statista,33.17,33.52,34.1,34.54,35.11,35.8,35.69,36.08,39.54,39.77,40.12,40.51,41.12,41.94
+Czechia,Pet Food,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.76,99.727,99.688,99.643,99.591,99.529,,
+Czechia,Pet Food,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.24,0.273,0.312,0.357,0.409,0.471,,
+Czechia,Pet Food,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Pet Food,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Pet Food,Volume,Total,million kilograms,Statista,212.888,248.467,242.992,224.078,203.517,207.994,213.961,193.601,194.931,191.826,189.829,188.029,187.15,187.114
+Czechia,Pet Food,Volume Change,Total,percent,Statista,,16.712,-2.204,-7.784,-9.176,2.2,2.869,-9.516,0.687,-1.593,-1.041,-0.948,-0.467,-0.019
+Czechia,Pet Food,Average Volume per Capita,Total,kilograms,Statista,20.101,23.437,22.883,21.058,19.081,19.458,19.98,18.052,18.155,17.851,17.655,17.48,17.395,17.392
+Czechia,Bread & Cereal Products,Price per Unit,Average,USD (US$),Statista,1.308,1.095,1.097,1.162,1.262,1.215,1.241,1.384,1.513,1.54,1.568,1.597,1.628,1.65
+Czechia,Bread & Cereal Products,Price per Unit,Bread,USD (US$),Statista,1.06,0.883,0.88,0.927,1.002,0.96,0.981,1.093,1.191,1.218,1.243,1.268,1.293,1.319
+Czechia,Bread & Cereal Products,Price per Unit,Breakfast Cereals,USD (US$),Statista,3.487,2.962,3.013,3.239,3.572,3.493,3.562,3.984,4.341,4.441,4.53,4.62,4.713,4.807
+Czechia,Bread & Cereal Products,Price per Unit,Other Cereal Products,USD (US$),Statista,1.924,1.63,1.653,1.772,1.949,1.902,1.945,2.179,2.374,2.429,2.477,2.527,2.578,2.629
+Czechia,Bread & Cereal Products,Price per Unit,Pasta,USD (US$),Statista,1.171,0.996,1.014,1.09,1.204,1.178,1.204,1.349,1.469,1.503,1.533,1.564,1.595,1.627
+Czechia,Bread & Cereal Products,Price per Unit,Rice,USD (US$),Statista,1.977,1.679,1.706,1.833,2.021,1.975,2.035,2.29,2.496,2.553,2.604,2.656,2.709,2.764
+Czechia,Bread & Cereal Products,Revenue,Total,billion USD (US$),Statista,1.709,1.48,1.541,1.694,1.863,1.907,1.968,2.239,1.815,2.415,2.545,2.667,2.801,2.998
+Czechia,Bread & Cereal Products,Revenue,Bread,billion USD (US$),Statista,0.939,0.815,0.85,0.937,1.033,1.06,1.097,1.252,1.006,1.358,1.439,1.514,1.592,1.737
+Czechia,Bread & Cereal Products,Revenue,Breakfast Cereals,billion USD (US$),Statista,0.081,0.071,0.074,0.082,0.091,0.093,0.097,0.111,0.089,0.121,0.128,0.135,0.141,0.15
+Czechia,Bread & Cereal Products,Revenue,Other Cereal Products,billion USD (US$),Statista,0.514,0.442,0.458,0.5,0.546,0.556,0.57,0.644,0.511,0.681,0.712,0.74,0.775,0.806
+Czechia,Bread & Cereal Products,Revenue,Pasta,billion USD (US$),Statista,0.121,0.105,0.109,0.12,0.132,0.135,0.14,0.159,0.127,0.17,0.179,0.187,0.196,0.205
+Czechia,Bread & Cereal Products,Revenue,Rice,billion USD (US$),Statista,0.055,0.048,0.05,0.055,0.061,0.062,0.065,0.074,0.081,0.085,0.088,0.092,0.096,0.1
+Czechia,Bread & Cereal Products,Revenue Change,Total,percent,Statista,,-13.4,4.122,9.929,9.976,2.362,3.199,13.77,-18.937,33.058,5.383,4.794,5.024,7.033
+Czechia,Bread & Cereal Products,Revenue Change,Bread,percent,Statista,,-13.181,4.369,10.23,10.198,2.614,3.491,14.129,-19.649,34.99,5.965,5.212,5.152,9.108
+Czechia,Bread & Cereal Products,Revenue Change,Breakfast Cereals,percent,Statista,,-12.806,4.815,10.701,10.68,3.077,3.873,14.533,-19.523,35.099,5.873,5.313,4.822,5.874
+Czechia,Bread & Cereal Products,Revenue Change,Other Cereal Products,percent,Statista,,-13.921,3.483,9.268,9.262,1.739,2.555,13.055,-20.674,33.242,4.508,3.906,4.841,4.011
+Czechia,Bread & Cereal Products,Revenue Change,Pasta,percent,Statista,,-13.328,4.107,10,10.008,2.426,3.257,13.835,-20.151,34.227,5.17,4.581,4.808,4.536
+Czechia,Bread & Cereal Products,Revenue Change,Rice,percent,Statista,,-13.199,4.36,10.214,10.192,2.633,3.432,14.062,10.657,3.918,4.232,4.06,4.261,4.735
+Czechia,Bread & Cereal Products,Average Revenue per Capita,Total,USD (US$),Statista,161.4,139.6,145.1,159.2,174.6,178.4,183.8,208.8,169,224.7,236.7,248,260.3,278.7
+Czechia,Bread & Cereal Products,Average Revenue per Capita,Bread,USD (US$),Statista,88.61,76.86,80.08,88.09,96.86,99.21,102.4,116.7,93.7,126.4,133.8,140.7,148,161.4
+Czechia,Bread & Cereal Products,Average Revenue per Capita,Breakfast Cereals,USD (US$),Statista,7.646,6.661,6.97,7.7,8.502,8.744,9.066,10.37,8.334,11.25,11.91,12.53,13.14,13.91
+Czechia,Bread & Cereal Products,Average Revenue per Capita,Other Cereal Products,USD (US$),Statista,48.5,41.7,43.08,46.98,51.21,51.99,53.21,60.08,47.6,63.38,66.19,68.75,72.06,74.96
+Czechia,Bread & Cereal Products,Average Revenue per Capita,Pasta,USD (US$),Statista,11.4,9.871,10.26,11.27,12.37,12.64,13.03,14.81,11.81,15.84,16.65,17.41,18.24,19.06
+Czechia,Bread & Cereal Products,Average Revenue per Capita,Rice,USD (US$),Statista,5.215,4.522,4.711,5.182,5.697,5.834,6.023,6.86,7.582,7.873,8.201,8.531,8.892,9.314
+Czechia,Bread & Cereal Products,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.706,99.677,99.645,99.61,99.572,99.529,,
+Czechia,Bread & Cereal Products,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.294,0.323,0.355,0.39,0.428,0.471,,
+Czechia,Bread & Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Bread & Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Bread & Cereal Products,Volume,Total,million kilograms,Statista,"1,306.707","1,351.641","1,404.25","1,458.297","1,476.36","1,570.131","1,586.394","1,618.48","1,199.495","1,568.489","1,623.614","1,670.364","1,720.521","1,816.871"
+Czechia,Bread & Cereal Products,Volume,Bread,million kilograms,Statista,885.405,922.871,966.105,"1,010.906","1,031.159","1,104.898","1,118.678","1,144.98",844.68,"1,114.525","1,157.497","1,194.287","1,231.422","1,316.733"
+Czechia,Bread & Cereal Products,Volume,Breakfast Cereals,million kilograms,Statista,23.227,23.84,24.568,25.299,25.388,26.755,27.255,27.915,20.614,27.233,28.263,29.175,29.992,31.123
+Czechia,Bread & Cereal Products,Volume,Other Cereal Products,million kilograms,Statista,267.006,271.272,276.718,282.055,280.166,292.235,292.912,295.707,215.265,280.386,287.262,292.641,300.789,306.736
+Czechia,Bread & Cereal Products,Volume,Pasta,million kilograms,Statista,103.135,105.099,107.54,109.961,109.577,114.674,115.854,117.758,86.315,113.209,116.729,119.714,123.005,126.02
+Czechia,Bread & Cereal Products,Volume,Rice,million kilograms,Statista,27.934,28.56,29.319,30.077,30.069,31.57,31.695,32.119,32.62,33.136,33.863,34.547,35.312,36.259
+Czechia,Bread & Cereal Products,Volume Change,Total,percent,Statista,,3.439,3.892,3.849,1.239,6.352,1.036,2.023,-25.888,30.762,3.515,2.879,3.003,5.6
+Czechia,Bread & Cereal Products,Volume Change,Bread,percent,Statista,,4.232,4.685,4.637,2.003,7.151,1.247,2.351,-26.228,31.946,3.856,3.178,3.109,6.928
+Czechia,Bread & Cereal Products,Volume Change,Breakfast Cereals,percent,Statista,,2.638,3.054,2.976,0.353,5.383,1.869,2.423,-26.155,32.111,3.782,3.226,2.802,3.771
+Czechia,Bread & Cereal Products,Volume Change,Other Cereal Products,percent,Statista,,1.598,2.008,1.929,-0.67,4.308,0.232,0.954,-27.203,30.252,2.452,1.873,2.784,1.977
+Czechia,Bread & Cereal Products,Volume Change,Pasta,percent,Statista,,1.905,2.323,2.251,-0.349,4.651,1.03,1.644,-26.701,31.157,3.11,2.557,2.749,2.451
+Czechia,Bread & Cereal Products,Volume Change,Rice,percent,Statista,,2.241,2.659,2.585,-0.025,4.99,0.397,1.339,1.56,1.581,2.194,2.02,2.214,2.681
+Czechia,Bread & Cereal Products,Average Volume per Capita,Total,kilograms,Statista,123.378,127.497,132.241,137.045,138.422,146.889,148.137,150.914,111.718,145.962,151,155.286,159.917,168.876
+Czechia,Bread & Cereal Products,Average Volume per Capita,Bread,kilograms,Statista,83.599,87.052,90.98,95.001,96.68,103.366,104.462,106.763,78.672,103.716,107.65,111.027,114.457,122.389
+Czechia,Bread & Cereal Products,Average Volume per Capita,Breakfast Cereals,kilograms,Statista,2.193,2.249,2.314,2.377,2.38,2.503,2.545,2.603,1.92,2.534,2.629,2.712,2.788,2.893
+Czechia,Bread & Cereal Products,Average Volume per Capita,Other Cereal Products,kilograms,Statista,25.21,25.588,26.059,26.506,26.268,27.339,27.352,27.573,20.049,26.092,26.716,27.205,27.957,28.511
+Czechia,Bread & Cereal Products,Average Volume per Capita,Pasta,kilograms,Statista,9.738,9.914,10.127,10.334,10.274,10.728,10.818,10.98,8.039,10.535,10.856,11.129,11.433,11.713
+Czechia,Bread & Cereal Products,Average Volume per Capita,Rice,kilograms,Statista,2.637,2.694,2.761,2.826,2.819,2.953,2.96,2.995,3.038,3.084,3.149,3.212,3.282,3.37
+Czechia,Pasta,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,10.513,,,,,,
+Czechia,Pasta,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,21.402,,,,,,
+Czechia,Pasta,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,26.658,,,,,,
+Czechia,Pasta,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,25.031,,,,,,
+Czechia,Pasta,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,16.395,,,,,,
+Czechia,Pasta,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,,,,34.227,,,,,,
+Czechia,Pasta,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,,,,30.284,,,,,,
+Czechia,Pasta,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,,,,35.489,,,,,,
+Czechia,Pasta,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,,,,51.439,,,,,,
+Czechia,Pasta,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,,,,48.561,,,,,,
+Czechia,Pasta,Price per Unit,Average,USD (US$),Statista,1.171,0.996,1.014,1.09,1.204,1.178,1.204,1.349,1.469,1.503,1.533,1.564,1.595,1.627
+Czechia,Pasta,Revenue,Total,million USD (US$),Statista,120.8,104.7,109,119.9,131.9,135.1,139.5,158.8,126.8,170.2,179,187.2,196.2,205.1
+Czechia,Pasta,Revenue Change,Total,percent,Statista,,-13.328,4.107,10,10.008,2.426,3.257,13.835,-20.151,34.227,5.17,4.581,4.808,4.536
+Czechia,Pasta,Average Revenue per Capita,Total,USD (US$),Statista,11.4,9.871,10.26,11.27,12.37,12.64,13.03,14.81,11.81,15.84,16.65,17.41,18.24,19.06
+Czechia,Pasta,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.704,99.676,99.644,99.61,99.571,99.529,,
+Czechia,Pasta,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.296,0.324,0.356,0.39,0.429,0.471,,
+Czechia,Pasta,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Pasta,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Pasta,Volume,Total,million kilograms,Statista,103.135,105.099,107.54,109.961,109.577,114.674,115.854,117.758,86.315,113.209,116.729,119.714,123.005,126.02
+Czechia,Pasta,Volume Change,Total,percent,Statista,,1.905,2.323,2.251,-0.349,4.651,1.03,1.644,-26.701,31.157,3.11,2.557,2.749,2.451
+Czechia,Pasta,Average Volume per Capita,Total,kilograms,Statista,9.738,9.914,10.127,10.334,10.274,10.728,10.818,10.98,8.039,10.535,10.856,11.129,11.433,11.713
+Czechia,Pasta,... in 2-kilogram packs,Pasta,2 kg packs,Statista,4.869,4.957,5.064,5.167,5.137,5.364,5.409,5.49,4.02,5.268,5.428,5.565,5.716,5.857
+Czechia,Pasta,... in 0.5-kilogram packs,Pasta,500 g packs,Statista,19.476,19.827,20.255,20.667,20.548,21.456,21.637,21.961,16.078,21.07,21.712,22.259,22.866,23.427
+Czechia,Bread,Price per Unit,Average,USD (US$),Statista,1.06,0.883,0.88,0.927,1.002,0.96,0.981,1.093,1.191,1.218,1.243,1.268,1.293,1.319
+Czechia,Bread,Revenue,Total,billion USD (US$),Statista,0.939,0.815,0.85,0.937,1.033,1.06,1.097,1.252,1.006,1.358,1.439,1.514,1.592,1.737
+Czechia,Bread,Revenue Change,Total,percent,Statista,,-13.181,4.369,10.23,10.198,2.614,3.491,14.129,-19.649,34.99,5.965,5.212,5.152,9.108
+Czechia,Bread,Average Revenue per Capita,Total,USD (US$),Statista,88.61,76.86,80.08,88.09,96.86,99.21,102.4,116.7,93.7,126.4,133.8,140.7,148,161.4
+Czechia,Bread,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.704,99.675,99.644,99.609,99.571,99.529,,
+Czechia,Bread,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.296,0.325,0.356,0.391,0.429,0.471,,
+Czechia,Bread,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Bread,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Bread,Volume,Total,million kilograms,Statista,885.405,922.871,966.105,"1,010.906","1,031.159","1,104.898","1,118.678","1,144.98",844.68,"1,114.525","1,157.497","1,194.287","1,231.422","1,316.733"
+Czechia,Bread,Volume Change,Total,percent,Statista,,4.232,4.685,4.637,2.003,7.151,1.247,2.351,-26.228,31.946,3.856,3.178,3.109,6.928
+Czechia,Bread,Average Volume per Capita,Total,kilograms,Statista,83.599,87.052,90.98,95.001,96.68,103.366,104.462,106.763,78.672,103.716,107.65,111.027,114.457,122.389
+Czechia,Other Cereal Products,Price per Unit,Average,USD (US$),Statista,1.924,1.63,1.653,1.772,1.949,1.902,1.945,2.179,2.374,2.429,2.477,2.527,2.578,2.629
+Czechia,Other Cereal Products,Revenue,Total,billion USD (US$),Statista,0.514,0.442,0.458,0.5,0.546,0.556,0.57,0.644,0.511,0.681,0.712,0.74,0.775,0.806
+Czechia,Other Cereal Products,Revenue Change,Total,percent,Statista,,-13.921,3.483,9.268,9.262,1.739,2.555,13.055,-20.674,33.242,4.508,3.906,4.841,4.011
+Czechia,Other Cereal Products,Average Revenue per Capita,Total,USD (US$),Statista,48.5,41.7,43.08,46.98,51.21,51.99,53.21,60.08,47.6,63.38,66.19,68.75,72.06,74.96
+Czechia,Other Cereal Products,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.705,99.676,99.644,99.61,99.572,99.529,,
+Czechia,Other Cereal Products,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.295,0.324,0.356,0.39,0.428,0.471,,
+Czechia,Other Cereal Products,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Other Cereal Products,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Other Cereal Products,Volume,Total,million kilograms,Statista,267.006,271.272,276.718,282.055,280.166,292.235,292.912,295.707,215.265,280.386,287.262,292.641,300.789,306.736
+Czechia,Other Cereal Products,Volume Change,Total,percent,Statista,,1.598,2.008,1.929,-0.67,4.308,0.232,0.954,-27.203,30.252,2.452,1.873,2.784,1.977
+Czechia,Other Cereal Products,Average Volume per Capita,Total,kilograms,Statista,25.21,25.588,26.059,26.506,26.268,27.339,27.352,27.573,20.049,26.092,26.716,27.205,27.957,28.511
+Czechia,Meat,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,11.158,,,,,,
+Czechia,Meat,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,21.328,,,,,,
+Czechia,Meat,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,26.412,,,,,,
+Czechia,Meat,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,23.87,,,,,,
+Czechia,Meat,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,17.232,,,,,,
+Czechia,Meat,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,,,,36.806,,,,,,
+Czechia,Meat,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,,,,28.125,,,,,,
+Czechia,Meat,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,,,,35.069,,,,,,
+Czechia,Meat,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,,,,46.893,,,,,,
+Czechia,Meat,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,,,,53.107,,,,,,
+Czechia,Meat,Price per Unit,Average,USD (US$),Statista,6.957,5.884,5.943,6.338,6.971,6.79,6.928,7.747,8.493,8.718,8.935,9.157,9.346,9.608
+Czechia,Meat,Price per Unit,Fresh Meat,USD (US$),Statista,9.391,7.802,7.749,8.121,8.841,8.514,8.597,9.52,10.45,10.58,10.78,10.98,11.19,11.34
+Czechia,Meat,Price per Unit,Meat Substitutes,USD (US$),Statista,23.93,22.63,21.92,21.7,21.38,20.65,19.39,19.74,21.51,22,22.44,22.89,23.35,23.82
+Czechia,Meat,Price per Unit,Processed Meat,USD (US$),Statista,5.15,4.372,4.434,4.756,5.232,5.104,5.214,5.834,6.357,6.503,6.634,6.767,6.899,7.037
+Czechia,Meat,Revenue,Total,million USD (US$),Statista,"3,128","2,714","2,830","3,117","3,432","3,520","3,638","4,148","4,551","4,850","5,089","5,328","5,591","6,062"
+Czechia,Meat,Revenue,Fresh Meat,million USD (US$),Statista,"1,785","1,572","1,664","1,859","2,077","2,161","2,265","2,618","2,888","3,155","3,361","3,569","3,748","4,180"
+Czechia,Meat,Revenue,Meat Substitutes,million USD (US$),Statista,8.02,7.701,8.302,9.53,10.8,11.25,12.4,14.88,19.03,22.3,26.16,30.81,38.96,51.43
+Czechia,Meat,Revenue,Processed Meat,million USD (US$),Statista,"1,335","1,134","1,158","1,248","1,344","1,347","1,361","1,515","1,644","1,673","1,702","1,727","1,804","1,831"
+Czechia,Meat,Revenue Change,Total,percent,Statista,,-13.235,4.274,10.141,10.106,2.564,3.352,14.019,9.716,6.57,4.928,4.696,4.936,8.424
+Czechia,Meat,Revenue Change,Fresh Meat,percent,Statista,,-11.933,5.852,11.719,11.727,4.044,4.813,15.585,10.313,9.245,6.529,6.189,5.015,11.526
+Czechia,Meat,Revenue Change,Meat Substitutes,percent,Statista,,-3.978,7.804,14.792,13.326,4.167,10.222,20,27.89,17.183,17.309,17.775,26.452,32.007
+Czechia,Meat,Revenue Change,Processed Meat,percent,Statista,,-15.056,2.116,7.772,7.692,0.223,1.039,11.315,8.515,1.764,1.733,1.469,4.459,1.497
+Czechia,Meat,Average Revenue per Capita,Total,USD (US$),Statista,295.3,256,266.5,292.9,321.8,329.3,339.8,386.7,423.8,451.4,473.3,495.3,519.7,563.5
+Czechia,Meat,Average Revenue per Capita,Fresh Meat,USD (US$),Statista,168.6,148.3,156.7,174.7,194.8,202.2,211.5,244.1,269,293.6,312.6,331.8,348.3,388.5
+Czechia,Meat,Average Revenue per Capita,Meat Substitutes,USD (US$),Statista,0.757,0.726,0.782,0.896,1.012,1.052,1.158,1.387,1.555,1.727,1.916,2.13,2.531,3.13
+Czechia,Meat,Average Revenue per Capita,Processed Meat,USD (US$),Statista,126,107,109,117.3,126,126.1,127.1,141.3,153.1,155.7,158.3,160.6,167.7,170.2
+Czechia,Meat,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.733,99.702,99.667,99.627,99.581,99.529,,
+Czechia,Meat,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.267,0.298,0.333,0.373,0.419,0.471,,
+Czechia,Meat,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Meat,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Meat,Volume,Total,million kilograms,Statista,449.573,461.225,476.152,491.75,492.329,518.348,525.138,535.389,535.794,556.367,569.53,581.809,598.237,630.966
+Czechia,Meat,Volume,Fresh Meat,million kilograms,Statista,190.092,201.488,214.694,228.967,234.974,253.795,263.472,274.966,276.336,298.113,311.833,325.17,335.046,368.644
+Czechia,Meat,Volume,Meat Substitutes,million kilograms,Statista,0.335,0.34,0.379,0.439,0.505,0.545,0.639,0.754,0.885,1.014,1.165,1.346,1.669,2.159
+Czechia,Meat,Volume,Processed Meat,million kilograms,Statista,259.145,259.396,261.079,262.344,256.85,264.008,261.026,259.669,258.573,257.241,256.532,255.294,261.522,260.163
+Czechia,Meat,Volume Change,Total,percent,Statista,,2.592,3.236,3.276,0.118,5.285,1.31,1.952,0.076,3.84,2.366,2.156,2.824,5.471
+Czechia,Meat,Volume Change,Fresh Meat,percent,Statista,,5.995,6.554,6.648,2.623,8.01,3.813,4.362,0.498,7.881,4.602,4.277,3.037,10.028
+Czechia,Meat,Volume Change,Meat Substitutes,percent,Statista,,1.524,11.299,15.971,14.983,7.861,17.378,17.89,17.382,14.566,14.964,15.476,23.997,29.398
+Czechia,Meat,Volume Change,Processed Meat,percent,Statista,,0.097,0.649,0.484,-2.094,2.787,-1.13,-0.52,-0.422,-0.515,-0.276,-0.483,2.44,-0.52
+Czechia,Meat,Average Volume per Capita,Total,kilograms,Statista,42.448,43.506,44.84,46.213,46.16,48.493,49.037,49.922,49.903,51.775,52.968,54.088,55.604,58.647
+Czechia,Meat,Average Volume per Capita,Fresh Meat,kilograms,Statista,17.948,19.006,20.218,21.517,22.031,23.743,24.603,25.639,25.737,27.742,29.001,30.23,31.141,34.265
+Czechia,Meat,Average Volume per Capita,Meat Substitutes,kilograms,Statista,0.032,0.032,0.036,0.041,0.047,0.051,0.06,0.07,0.082,0.094,0.108,0.125,0.155,0.201
+Czechia,Meat,Average Volume per Capita,Processed Meat,kilograms,Statista,24.468,24.468,24.586,24.654,24.082,24.699,24.375,24.213,24.083,23.939,23.858,23.733,24.308,24.182
+Czechia,Rice,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,9.91,,,,,,
+Czechia,Rice,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,20.73,,,,,,
+Czechia,Rice,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,26.988,,,,,,
+Czechia,Rice,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,25.293,,,,,,
+Czechia,Rice,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,17.08,,,,,,
+Czechia,Rice,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,,,,35.41,,,,,,
+Czechia,Rice,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,,,,30,,,,,,
+Czechia,Rice,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,,,,34.59,,,,,,
+Czechia,Rice,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,,,,50.717,,,,,,
+Czechia,Rice,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,,,,49.283,,,,,,
+Czechia,Rice,Price per Unit,Average,USD (US$),Statista,1.977,1.679,1.706,1.833,2.021,1.975,2.035,2.29,2.496,2.553,2.604,2.656,2.709,2.764
+Czechia,Rice,Revenue,Total,million USD (US$),Statista,55.23,47.94,50.03,55.14,60.76,62.36,64.5,73.57,81.41,84.6,88.18,91.76,95.67,100.2
+Czechia,Rice,Revenue Change,Total,percent,Statista,,-13.199,4.36,10.214,10.192,2.633,3.432,14.062,10.657,3.918,4.232,4.06,4.261,4.735
+Czechia,Rice,Average Revenue per Capita,Total,USD (US$),Statista,5.215,4.522,4.711,5.182,5.697,5.834,6.023,6.86,7.582,7.873,8.201,8.531,8.892,9.314
+Czechia,Rice,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.704,99.675,99.644,99.61,99.571,99.529,,
+Czechia,Rice,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.296,0.325,0.356,0.39,0.429,0.471,,
+Czechia,Rice,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Rice,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Rice,Volume,Total,million kilograms,Statista,27.934,28.56,29.319,30.077,30.069,31.57,31.695,32.119,32.62,33.136,33.863,34.547,35.312,36.259
+Czechia,Rice,Volume Change,Total,percent,Statista,,2.241,2.659,2.585,-0.025,4.99,0.397,1.339,1.56,1.581,2.194,2.02,2.214,2.681
+Czechia,Rice,Average Volume per Capita,Total,kilograms,Statista,2.637,2.694,2.761,2.826,2.819,2.953,2.96,2.995,3.038,3.084,3.149,3.212,3.282,3.37
+Czechia,Rice,... in 10-kilogram packs,Rice,10 kg packs,Statista,0.264,0.269,0.276,0.283,0.282,0.295,0.296,0.299,0.304,0.308,0.315,0.321,0.328,0.337
+Czechia,Rice,... in 5-kilogram packs,Rice,5 kg packs,Statista,0.527,0.539,0.552,0.565,0.564,0.591,0.592,0.599,0.608,0.617,0.63,0.642,0.656,0.674
+Czechia,Rice,... in 0.5-kilogram packs,Rice,500 g packs,Statista,5.275,5.388,5.522,5.653,5.639,5.907,5.919,5.99,6.076,6.167,6.299,6.423,6.564,6.74
+Czechia,Breakfast Cereals,Price per Unit,Average,USD (US$),Statista,3.487,2.962,3.013,3.239,3.572,3.493,3.562,3.984,4.341,4.441,4.53,4.62,4.713,4.807
+Czechia,Breakfast Cereals,Revenue,Total,million USD (US$),Statista,80.98,70.61,74.01,81.93,90.68,93.47,97.09,111.2,89.49,120.9,128,134.8,141.3,149.6
+Czechia,Breakfast Cereals,Revenue Change,Total,percent,Statista,,-12.806,4.815,10.701,10.68,3.077,3.873,14.533,-19.523,35.099,5.873,5.313,4.822,5.874
+Czechia,Breakfast Cereals,Average Revenue per Capita,Total,USD (US$),Statista,7.646,6.661,6.97,7.7,8.502,8.744,9.066,10.37,8.334,11.25,11.91,12.53,13.14,13.91
+Czechia,Breakfast Cereals,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.733,99.702,99.666,99.627,99.581,99.529,,
+Czechia,Breakfast Cereals,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.267,0.298,0.334,0.373,0.419,0.471,,
+Czechia,Breakfast Cereals,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Breakfast Cereals,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Breakfast Cereals,Volume,Total,million kilograms,Statista,23.227,23.84,24.568,25.299,25.388,26.755,27.255,27.915,20.614,27.233,28.263,29.175,29.992,31.123
+Czechia,Breakfast Cereals,Volume Change,Total,percent,Statista,,2.638,3.054,2.976,0.353,5.383,1.869,2.423,-26.155,32.111,3.782,3.226,2.802,3.771
+Czechia,Breakfast Cereals,Average Volume per Capita,Total,kilograms,Statista,2.193,2.249,2.314,2.377,2.38,2.503,2.545,2.603,1.92,2.534,2.629,2.712,2.788,2.893
+Czechia,Breakfast Cereals,… in 750-gram packs,Breakfast Cereals,750 g packs,Statista,2.924,2.998,3.085,3.17,3.174,3.337,3.393,3.471,2.56,3.379,3.505,3.616,3.717,3.857
+Czechia,Breakfast Cereals,... in 500-gram packs,Breakfast Cereals,500 g packs,Statista,4.386,4.497,4.627,4.755,4.761,5.006,5.09,5.206,3.84,5.069,5.257,5.424,5.575,5.786
+Czechia,Fresh Meat,Price per Unit,Average,USD (US$),Statista,9.391,7.802,7.749,8.121,8.841,8.514,8.597,9.52,10.45,10.58,10.78,10.98,11.19,11.34
+Czechia,Fresh Meat,Price per Unit,Beef & Veal,USD (US$),Statista,10.12,8.607,8.767,9.44,10.44,10.25,10.5,11.79,12.84,13.14,13.4,13.67,13.94,14.22
+Czechia,Fresh Meat,Price per Unit,Mutton & Goat,USD (US$),Statista,16.44,14.15,14.58,15.88,17.74,17.58,18.03,20.31,22.13,22.64,23.09,23.55,24.02,24.5
+Czechia,Fresh Meat,Price per Unit,Other Fresh Meat,USD (US$),Statista,11.06,9.263,9.29,9.85,10.83,10.55,10.72,11.96,13.03,13.33,13.59,13.86,14.14,14.42
+Czechia,Fresh Meat,Price per Unit,Pork,USD (US$),Statista,10.7,8.468,7.988,7.92,8.459,7.943,7.836,8.506,9.269,9.482,9.671,9.865,10.06,10.26
+Czechia,Fresh Meat,Price per Unit,Poultry,USD (US$),Statista,6.973,5.825,5.827,6.16,6.682,6.427,6.51,7.219,7.866,8.047,8.208,8.372,8.539,8.71
+Czechia,Fresh Meat,Revenue,Total,billion USD (US$),Statista,1.785,1.572,1.664,1.859,2.077,2.161,2.265,2.618,2.888,3.155,3.361,3.569,3.748,4.18
+Czechia,Fresh Meat,Revenue,Beef & Veal,billion USD (US$),Statista,0.472,0.416,0.442,0.495,0.554,0.578,0.607,0.703,0.792,0.838,0.886,0.937,0.977,1.05
+Czechia,Fresh Meat,Revenue,Mutton & Goat,billion USD (US$),Statista,0.081,0.071,0.076,0.085,0.095,0.099,0.104,0.12,0.135,0.142,0.15,0.158,0.165,0.173
+Czechia,Fresh Meat,Revenue,Other Fresh Meat,billion USD (US$),Statista,0.353,0.309,0.326,0.363,0.403,0.417,0.435,0.501,0.563,0.594,0.627,0.66,0.69,0.751
+Czechia,Fresh Meat,Revenue,Pork,billion USD (US$),Statista,0.39,0.342,0.361,0.402,0.447,0.463,0.483,0.556,0.641,0.691,0.744,0.798,0.847,1.013
+Czechia,Fresh Meat,Revenue,Poultry,billion USD (US$),Statista,0.489,0.432,0.459,0.515,0.578,0.604,0.635,0.737,0.756,0.89,0.953,1.017,1.068,1.193
+Czechia,Fresh Meat,Revenue Change,Total,percent,Statista,,-11.933,5.852,11.719,11.727,4.044,4.813,15.585,10.313,9.245,6.529,6.189,5.015,11.526
+Czechia,Fresh Meat,Revenue Change,Beef & Veal,percent,Statista,,-11.724,6.076,12.044,11.982,4.276,5.07,15.843,12.624,5.718,5.839,5.663,4.313,7.472
+Czechia,Fresh Meat,Revenue Change,Mutton & Goat,percent,Statista,,-11.768,6.032,11.959,11.931,4.224,5.003,15.784,12.303,5.403,5.478,5.393,4.106,5.097
+Czechia,Fresh Meat,Revenue Change,Other Fresh Meat,percent,Statista,,-12.348,5.331,11.258,11.166,3.547,4.311,15.017,12.458,5.486,5.47,5.266,4.623,8.766
+Czechia,Fresh Meat,Revenue Change,Pork,percent,Statista,,-12.276,5.405,11.308,11.28,3.625,4.405,15.098,15.256,7.78,7.681,7.174,6.217,19.542
+Czechia,Fresh Meat,Revenue Change,Poultry,percent,Statista,,-11.611,6.244,12.19,12.146,4.412,5.22,16,2.634,17.712,7.091,6.716,5.015,11.704
+Czechia,Fresh Meat,Average Revenue per Capita,Total,USD (US$),Statista,168.6,148.3,156.7,174.7,194.8,202.2,211.5,244.1,269,293.6,312.6,331.8,348.3,388.5
+Czechia,Fresh Meat,Average Revenue per Capita,Beef & Veal,USD (US$),Statista,44.54,39.28,41.6,46.51,51.96,54.06,56.7,65.58,73.78,77.94,82.43,87.08,90.81,97.57
+Czechia,Fresh Meat,Average Revenue per Capita,Mutton & Goat,USD (US$),Statista,7.646,6.739,7.134,7.971,8.902,9.257,9.703,11.22,12.58,13.25,13.97,14.72,15.32,16.1
+Czechia,Fresh Meat,Average Revenue per Capita,Other Fresh Meat,USD (US$),Statista,33.34,29.19,30.7,34.08,37.81,39.06,40.67,46.71,52.47,55.29,58.29,61.33,64.15,69.78
+Czechia,Fresh Meat,Average Revenue per Capita,Pork,USD (US$),Statista,36.84,32.28,33.98,37.75,41.9,43.32,45.15,51.89,59.74,64.33,69.23,74.17,78.76,94.19
+Czechia,Fresh Meat,Average Revenue per Capita,Poultry,USD (US$),Statista,46.19,40.79,43.27,48.44,54.19,56.46,59.3,68.69,70.41,82.81,88.64,94.54,99.29,110.9
+Czechia,Fresh Meat,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.733,99.701,99.666,99.626,99.581,99.529,,
+Czechia,Fresh Meat,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.267,0.299,0.334,0.374,0.419,0.471,,
+Czechia,Fresh Meat,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Fresh Meat,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Fresh Meat,Volume,Total,million kilograms,Statista,190.092,201.488,214.694,228.967,234.974,253.795,263.472,274.966,276.336,298.113,311.833,325.17,335.046,368.644
+Czechia,Fresh Meat,Volume,Beef & Veal,million kilograms,Statista,46.6,48.375,50.387,52.422,53.057,56.383,57.824,59.667,61.674,63.735,66.132,68.513,70.065,73.799
+Czechia,Fresh Meat,Volume,Mutton & Goat,million kilograms,Statista,4.925,5.049,5.196,5.342,5.351,5.628,5.763,5.925,6.104,6.289,6.505,6.722,6.862,7.067
+Czechia,Fresh Meat,Volume,Other Fresh Meat,million kilograms,Statista,31.932,33.413,35.093,36.819,37.226,39.572,40.631,41.902,43.245,44.585,46.107,47.585,48.807,52.045
+Czechia,Fresh Meat,Volume,Pork,million kilograms,Statista,36.478,40.417,45.17,50.713,52.837,58.3,61.703,65.425,69.202,72.91,76.971,80.871,84.213,98.736
+Czechia,Fresh Meat,Volume,Poultry,million kilograms,Statista,70.157,74.234,78.849,83.672,86.503,93.912,97.551,102.047,96.111,110.595,116.118,121.479,125.099,136.996
+Czechia,Fresh Meat,Volume Change,Total,percent,Statista,,5.995,6.554,6.648,2.623,8.01,3.813,4.362,0.498,7.881,4.602,4.277,3.037,10.028
+Czechia,Fresh Meat,Volume Change,Beef & Veal,percent,Statista,,3.809,4.158,4.04,1.21,6.27,2.556,3.187,3.364,3.341,3.762,3.601,2.265,5.329
+Czechia,Fresh Meat,Volume Change,Mutton & Goat,percent,Statista,,2.51,2.905,2.808,0.171,5.174,2.401,2.809,3.021,3.031,3.444,3.334,2.082,2.989
+Czechia,Fresh Meat,Volume Change,Other Fresh Meat,percent,Statista,,4.64,5.027,4.917,1.108,6.3,2.678,3.127,3.205,3.098,3.415,3.204,2.568,6.635
+Czechia,Fresh Meat,Volume Change,Pork,percent,Statista,,10.798,11.759,12.272,4.187,10.34,5.837,6.033,5.773,5.358,5.569,5.068,4.132,17.246
+Czechia,Fresh Meat,Volume Change,Poultry,percent,Statista,,5.811,6.218,6.116,3.384,8.565,3.874,4.609,-5.817,15.07,4.994,4.616,2.98,9.51
+Czechia,Fresh Meat,Average Volume per Capita,Total,kilograms,Statista,17.948,19.006,20.218,21.517,22.031,23.743,24.603,25.639,25.737,27.742,29.001,30.23,31.141,34.265
+Czechia,Fresh Meat,Average Volume per Capita,Beef & Veal,kilograms,Statista,4.4,4.563,4.745,4.926,4.975,5.275,5.4,5.564,5.744,5.931,6.15,6.369,6.512,6.86
+Czechia,Fresh Meat,Average Volume per Capita,Mutton & Goat,kilograms,Statista,0.465,0.476,0.489,0.502,0.502,0.526,0.538,0.552,0.568,0.585,0.605,0.625,0.638,0.657
+Czechia,Fresh Meat,Average Volume per Capita,Other Fresh Meat,kilograms,Statista,3.015,3.152,3.305,3.46,3.49,3.702,3.794,3.907,4.028,4.149,4.288,4.424,4.536,4.838
+Czechia,Fresh Meat,Average Volume per Capita,Pork,kilograms,Statista,3.444,3.812,4.254,4.766,4.954,5.454,5.762,6.101,6.445,6.785,7.158,7.518,7.827,9.177
+Czechia,Fresh Meat,Average Volume per Capita,Poultry,kilograms,Statista,6.624,7.002,7.425,7.863,8.11,8.786,9.109,9.515,8.952,10.292,10.799,11.293,11.628,12.734
+Czechia,Processed Meat,Price per Unit,Average,USD (US$),Statista,5.15,4.372,4.434,4.756,5.232,5.104,5.214,5.834,6.357,6.503,6.634,6.767,6.899,7.037
+Czechia,Processed Meat,Price per Unit,Cold & Roast Meat Products,USD (US$),Statista,5.236,4.409,4.444,4.735,5.175,5.016,5.111,5.702,6.213,6.356,6.483,6.613,6.745,6.88
+Czechia,Processed Meat,Price per Unit,Ham & Bacon,USD (US$),Statista,5.671,5.018,5.306,5.92,6.765,6.846,7.09,8.065,8.787,8.989,9.169,9.353,9.54,9.731
+Czechia,Processed Meat,Price per Unit,Sausages,USD (US$),Statista,5.053,4.259,4.298,4.584,5.015,4.867,4.959,5.533,6.029,6.167,6.291,6.417,6.545,6.676
+Czechia,Processed Meat,Revenue,Total,billion USD (US$),Statista,1.335,1.134,1.158,1.248,1.344,1.347,1.361,1.515,1.644,1.673,1.702,1.727,1.804,1.831
+Czechia,Processed Meat,Revenue,Cold & Roast Meat Products,billion USD (US$),Statista,0.219,0.19,0.191,0.2,0.211,0.208,0.206,0.226,0.242,0.244,0.246,0.247,0.259,0.258
+Czechia,Processed Meat,Revenue,Ham & Bacon,billion USD (US$),Statista,0.161,0.15,0.154,0.172,0.19,0.195,0.201,0.228,0.247,0.252,0.257,0.261,0.271,0.275
+Czechia,Processed Meat,Revenue,Sausages,billion USD (US$),Statista,0.955,0.794,0.813,0.876,0.943,0.945,0.954,1.061,1.154,1.177,1.199,1.219,1.275,1.298
+Czechia,Processed Meat,Revenue Change,Total,percent,Statista,,-15.056,2.116,7.772,7.692,0.223,1.039,11.315,8.515,1.764,1.733,1.469,4.459,1.497
+Czechia,Processed Meat,Revenue Change,Cold & Roast Meat Products,percent,Statista,,-13.333,0.421,4.879,5.553,-1.611,-0.674,9.554,7.26,0.743,0.696,0.61,4.61,-0.232
+Czechia,Processed Meat,Revenue Change,Ham & Bacon,percent,Statista,,-6.708,2.73,11.406,10.529,2.579,3.027,13.347,8.612,1.901,1.985,1.752,3.634,1.55
+Czechia,Processed Meat,Revenue Change,Sausages,percent,Statista,,-16.843,2.368,7.777,7.649,0.212,0.952,11.228,8.765,1.993,1.869,1.668,4.594,1.804
+Czechia,Processed Meat,Average Revenue per Capita,Total,USD (US$),Statista,126,107,109,117.3,126,126.1,127.1,141.3,153.1,155.7,158.3,160.6,167.7,170.2
+Czechia,Processed Meat,Average Revenue per Capita,Cold & Roast Meat Products,USD (US$),Statista,20.68,17.9,17.95,18.79,19.78,19.42,19.25,21.07,22.57,22.71,22.86,22.99,24.05,23.99
+Czechia,Processed Meat,Average Revenue per Capita,Ham & Bacon,USD (US$),Statista,15.2,14.17,14.53,16.15,17.81,18.23,18.76,21.22,23.03,23.44,23.89,24.3,25.18,25.57
+Czechia,Processed Meat,Average Revenue per Capita,Sausages,USD (US$),Statista,90.15,74.89,76.54,82.31,88.4,88.39,89.07,98.96,107.5,109.5,111.5,113.3,118.5,120.6
+Czechia,Processed Meat,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.735,99.703,99.668,99.628,99.582,99.529,,
+Czechia,Processed Meat,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.265,0.297,0.332,0.372,0.418,0.471,,
+Czechia,Processed Meat,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Processed Meat,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Processed Meat,Volume,Total,million kilograms,Statista,259.145,259.396,261.079,262.344,256.85,264.008,261.026,259.669,258.573,257.241,256.532,255.294,261.522,260.163
+Czechia,Processed Meat,Volume,Cold & Roast Meat Products,million kilograms,Statista,41.818,43.052,42.9,42.221,40.772,41.397,40.337,39.626,39.007,38.399,37.923,37.405,38.36,37.52
+Czechia,Processed Meat,Volume,Ham & Bacon,million kilograms,Statista,28.382,29.941,29.074,29.035,28.086,28.469,28.33,28.22,28.135,28.021,28.013,27.945,28.4,28.272
+Czechia,Processed Meat,Volume,Sausages,million kilograms,Statista,188.944,186.403,189.106,191.088,187.992,194.143,192.359,191.823,191.432,190.821,190.596,189.944,194.762,194.37
+Czechia,Processed Meat,Volume Change,Total,percent,Statista,,0.097,0.649,0.484,-2.094,2.787,-1.13,-0.52,-0.422,-0.515,-0.276,-0.483,2.44,-0.52
+Czechia,Processed Meat,Volume Change,Cold & Roast Meat Products,percent,Statista,,2.951,-0.355,-1.583,-3.432,1.534,-2.56,-1.763,-1.563,-1.559,-1.239,-1.366,2.553,-2.19
+Czechia,Processed Meat,Volume Change,Ham & Bacon,percent,Statista,,5.49,-2.895,-0.132,-3.269,1.362,-0.488,-0.387,-0.301,-0.406,-0.029,-0.243,1.631,-0.451
+Czechia,Processed Meat,Volume Change,Sausages,percent,Statista,,-1.345,1.45,1.048,-1.62,3.272,-0.919,-0.279,-0.204,-0.319,-0.118,-0.342,2.537,-0.201
+Czechia,Processed Meat,Average Volume per Capita,Total,kilograms,Statista,24.468,24.468,24.586,24.654,24.082,24.699,24.375,24.213,24.083,23.939,23.858,23.733,24.308,24.182
+Czechia,Processed Meat,Average Volume per Capita,Cold & Roast Meat Products,kilograms,Statista,3.948,4.061,4.04,3.968,3.823,3.873,3.767,3.695,3.633,3.573,3.527,3.477,3.565,3.487
+Czechia,Processed Meat,Average Volume per Capita,Ham & Bacon,kilograms,Statista,2.68,2.824,2.738,2.729,2.633,2.663,2.645,2.631,2.62,2.608,2.605,2.598,2.64,2.628
+Czechia,Processed Meat,Average Volume per Capita,Sausages,kilograms,Statista,17.84,17.583,17.809,17.958,17.626,18.162,17.962,17.886,17.83,17.758,17.726,17.658,18.103,18.066
+Czechia,Meat Substitutes,Price per Unit,Average,USD (US$),Statista,23.93,22.63,21.92,21.7,21.38,20.65,19.39,19.74,21.51,22,22.44,22.89,23.35,23.82
+Czechia,Meat Substitutes,Average Revenue per Capita,Total,USD (US$),Statista,0.757,0.726,0.782,0.896,1.012,1.052,1.158,1.387,1.555,1.727,1.916,2.13,2.531,3.13
+Czechia,Meat Substitutes,Revenue,Total,million USD (US$),Statista,8.02,7.701,8.302,9.53,10.8,11.25,12.4,14.88,19.03,22.3,26.16,30.81,38.96,51.43
+Czechia,Meat Substitutes,Revenue Change,Total,percent,Statista,,-3.978,7.804,14.792,13.326,4.167,10.222,20,27.89,17.183,17.309,17.775,26.452,32.007
+Czechia,Meat Substitutes,Volume,Total,million kilograms,Statista,0.335,0.34,0.379,0.439,0.505,0.545,0.639,0.754,0.885,1.014,1.165,1.346,1.669,2.159
+Czechia,Meat Substitutes,Volume Change,Total,percent,Statista,,1.524,11.299,15.971,14.983,7.861,17.378,17.89,17.382,14.566,14.964,15.476,23.997,29.398
+Czechia,Meat Substitutes,Average Volume per Capita,Total,kilograms,Statista,0.032,0.032,0.036,0.041,0.047,0.051,0.06,0.07,0.082,0.094,0.108,0.125,0.155,0.201
+Czechia,Fresh Fish,Price per Unit,Average,USD (US$),Statista,15.94,13.88,14.48,15.96,18.05,18.1,18.63,21.08,22.97,23.5,23.97,24.45,24.94,25.44
+Czechia,Fresh Fish,Revenue,Total,billion USD (US$),Statista,0.354,0.309,0.324,0.359,0.398,0.41,0.426,0.489,0.438,0.527,0.552,0.577,0.601,0.605
+Czechia,Fresh Fish,Revenue Change,Total,percent,Statista,,-12.758,4.853,10.768,10.752,3.119,3.951,14.641,-10.377,20.279,4.803,4.493,4.144,0.766
+Czechia,Fresh Fish,Average Revenue per Capita,Total,USD (US$),Statista,33.45,29.15,30.52,33.74,37.27,38.36,39.8,45.56,40.78,49.01,51.34,53.63,55.83,56.26
+Czechia,Fresh Fish,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.733,99.701,99.666,99.627,99.581,99.529,,
+Czechia,Fresh Fish,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.267,0.299,0.334,0.373,0.419,0.471,,
+Czechia,Fresh Fish,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Fresh Fish,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Fresh Fish,Volume,Total,million kilograms,Statista,22.227,22.26,22.385,22.493,22.028,22.653,22.884,23.174,19.059,22.411,23.027,23.592,24.086,23.795
+Czechia,Fresh Fish,Volume Change,Total,percent,Statista,,0.15,0.559,0.486,-2.071,2.841,1.018,1.268,-17.757,17.584,2.752,2.452,2.094,-1.208
+Czechia,Fresh Fish,Average Volume per Capita,Total,kilograms,Statista,2.099,2.1,2.108,2.114,2.065,2.119,2.137,2.161,1.775,2.086,2.142,2.193,2.239,2.212
+Czechia,Fish & Seafood,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,8.07,,,,,,
+Czechia,Fish & Seafood,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,20.17,,,,,,
+Czechia,Fish & Seafood,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,26.964,,,,,,
+Czechia,Fish & Seafood,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,26.539,,,,,,
+Czechia,Fish & Seafood,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,,,,18.259,,,,,,
+Czechia,Fish & Seafood,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,,,,40.921,,,,,,
+Czechia,Fish & Seafood,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,,,,26.829,,,,,,
+Czechia,Fish & Seafood,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,,,,32.249,,,,,,
+Czechia,Fish & Seafood,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,,,,47.558,,,,,,
+Czechia,Fish & Seafood,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,,,,52.442,,,,,,
+Czechia,Fish & Seafood,Price per Unit,Average,USD (US$),Statista,13.9,12.19,12.78,14.16,16.07,16.18,16.73,19,21.02,21.33,21.78,22.23,22.68,23.21
+Czechia,Fish & Seafood,Price per Unit,Fresh Fish,USD (US$),Statista,15.94,13.88,14.48,15.96,18.05,18.1,18.63,21.08,22.97,23.5,23.97,24.45,24.94,25.44
+Czechia,Fish & Seafood,Price per Unit,Fresh Seafood,USD (US$),Statista,30.58,26.64,27.78,30.62,34.63,34.73,35.74,40.45,44.08,45.09,45.99,46.91,47.85,48.81
+Czechia,Fish & Seafood,Price per Unit,Processed Fish & Seafood,USD (US$),Statista,10.28,9.054,9.53,10.59,12.05,12.15,12.61,14.36,15.64,16,16.32,16.65,16.98,17.32
+Czechia,Fish & Seafood,Revenue,Total,million USD (US$),Statista,674.2,585.9,612,675.2,744.8,765.1,792.3,904.6,827.4,971.9,"1,013","1,053","1,096","1,090"
+Czechia,Fish & Seafood,Revenue,Fresh Fish,million USD (US$),Statista,354.3,309.1,324.1,359,397.6,410,426.2,488.6,437.9,526.7,552,576.8,600.7,605.3
+Czechia,Fish & Seafood,Revenue,Fresh Seafood,million USD (US$),Statista,75.11,65.32,68.28,75.38,83.21,85.54,88.62,101.2,111.7,115.7,120.2,124.7,129.6,129.6
+Czechia,Fish & Seafood,Revenue,Processed Fish & Seafood,million USD (US$),Statista,244.8,211.5,219.6,240.8,264,269.6,277.4,314.8,277.9,329.5,340.9,351.7,365.5,355.5
+Czechia,Fish & Seafood,Revenue Change,Total,percent,Statista,,-13.097,4.455,10.327,10.308,2.726,3.555,14.174,-8.534,17.464,4.229,3.949,4.084,-0.547
+Czechia,Fish & Seafood,Revenue Change,Fresh Fish,percent,Statista,,-12.758,4.853,10.768,10.752,3.119,3.951,14.641,-10.377,20.279,4.803,4.493,4.144,0.766
+Czechia,Fish & Seafood,Revenue Change,Fresh Seafood,percent,Statista,,-13.034,4.532,10.398,10.387,2.8,3.601,14.195,10.375,3.581,3.889,3.744,3.929,0
+Czechia,Fish & Seafood,Revenue Change,Processed Fish & Seafood,percent,Statista,,-13.603,3.83,9.654,9.635,2.121,2.893,13.482,-11.722,18.568,3.46,3.168,3.924,-2.736
+Czechia,Fish & Seafood,Average Revenue per Capita,Total,USD (US$),Statista,63.66,55.26,57.63,63.45,69.83,71.58,73.98,84.35,77.06,90.44,94.22,97.92,101.9,101.4
+Czechia,Fish & Seafood,Average Revenue per Capita,Fresh Fish,USD (US$),Statista,33.45,29.15,30.52,33.74,37.27,38.36,39.8,45.56,40.78,49.01,51.34,53.63,55.83,56.26
+Czechia,Fish & Seafood,Average Revenue per Capita,Fresh Seafood,USD (US$),Statista,7.092,6.161,6.43,7.084,7.801,8.002,8.275,9.441,10.4,10.77,11.18,11.6,12.05,12.05
+Czechia,Fish & Seafood,Average Revenue per Capita,Processed Fish & Seafood,USD (US$),Statista,23.12,19.95,20.68,22.63,24.75,25.22,25.9,29.35,25.88,30.66,31.7,32.7,33.97,33.04
+Czechia,Fish & Seafood,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.733,99.702,99.666,99.627,99.581,99.529,,
+Czechia,Fish & Seafood,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.267,0.298,0.334,0.373,0.419,0.471,,
+Czechia,Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Fish & Seafood,Volume,Total,million kilograms,Statista,48.493,48.069,47.882,47.696,46.333,47.296,47.355,47.601,39.355,45.563,46.523,47.375,48.317,46.971
+Czechia,Fish & Seafood,Volume,Fresh Fish,million kilograms,Statista,22.227,22.26,22.385,22.493,22.028,22.653,22.884,23.174,19.059,22.411,23.027,23.592,24.086,23.795
+Czechia,Fish & Seafood,Volume,Fresh Seafood,million kilograms,Statista,2.456,2.452,2.458,2.462,2.403,2.463,2.48,2.503,2.533,2.566,2.613,2.659,2.708,2.656
+Czechia,Fish & Seafood,Volume,Processed Fish & Seafood,million kilograms,Statista,23.81,23.357,23.04,22.741,21.903,22.179,21.991,21.924,17.762,20.586,20.882,21.124,21.522,20.52
+Czechia,Fish & Seafood,Volume Change,Total,percent,Statista,,-0.874,-0.389,-0.388,-2.858,2.077,0.125,0.52,-17.323,15.774,2.108,1.832,1.987,-2.784
+Czechia,Fish & Seafood,Volume Change,Fresh Fish,percent,Statista,,0.15,0.559,0.486,-2.071,2.841,1.018,1.268,-17.757,17.584,2.752,2.452,2.094,-1.208
+Czechia,Fish & Seafood,Volume Change,Fresh Seafood,percent,Statista,,-0.171,0.235,0.16,-2.391,2.503,0.684,0.931,1.217,1.295,1.821,1.763,1.855,-1.928
+Czechia,Fish & Seafood,Volume Change,Processed Fish & Seafood,percent,Statista,,-1.902,-1.357,-1.296,-3.687,1.262,-0.849,-0.306,-18.982,15.896,1.442,1.157,1.884,-4.656
+Czechia,Fish & Seafood,Average Volume per Capita,Total,kilograms,Statista,4.579,4.534,4.509,4.482,4.344,4.425,4.422,4.438,3.665,4.24,4.327,4.404,4.491,4.366
+Czechia,Fish & Seafood,Average Volume per Capita,Fresh Fish,kilograms,Statista,2.099,2.1,2.108,2.114,2.065,2.119,2.137,2.161,1.775,2.086,2.142,2.193,2.239,2.212
+Czechia,Fish & Seafood,Average Volume per Capita,Fresh Seafood,kilograms,Statista,0.232,0.231,0.231,0.231,0.225,0.23,0.232,0.233,0.236,0.239,0.243,0.247,0.252,0.247
+Czechia,Fish & Seafood,Average Volume per Capita,Processed Fish & Seafood,kilograms,Statista,2.248,2.203,2.17,2.137,2.054,2.075,2.053,2.044,1.654,1.916,1.942,1.964,2,1.907
+Czechia,Fresh Seafood,Price per Unit,Average,USD (US$),Statista,30.58,26.64,27.78,30.62,34.63,34.73,35.74,40.45,44.08,45.09,45.99,46.91,47.85,48.81
+Czechia,Fresh Seafood,Revenue,Total,million USD (US$),Statista,75.11,65.32,68.28,75.38,83.21,85.54,88.62,101.2,111.7,115.7,120.2,124.7,129.6,129.6
+Czechia,Fresh Seafood,Revenue Change,Total,percent,Statista,,-13.034,4.532,10.398,10.387,2.8,3.601,14.195,10.375,3.581,3.889,3.744,3.929,0
+Czechia,Fresh Seafood,Average Revenue per Capita,Total,USD (US$),Statista,7.092,6.161,6.43,7.084,7.801,8.002,8.275,9.441,10.4,10.77,11.18,11.6,12.05,12.05
+Czechia,Fresh Seafood,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.733,99.702,99.666,99.627,99.581,99.529,,
+Czechia,Fresh Seafood,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.267,0.298,0.334,0.373,0.419,0.471,,
+Czechia,Fresh Seafood,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Fresh Seafood,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Fresh Seafood,Volume,Total,million kilograms,Statista,2.456,2.452,2.458,2.462,2.403,2.463,2.48,2.503,2.533,2.566,2.613,2.659,2.708,2.656
+Czechia,Fresh Seafood,Volume Change,Total,percent,Statista,,-0.171,0.235,0.16,-2.391,2.503,0.684,0.931,1.217,1.295,1.821,1.763,1.855,-1.928
+Czechia,Fresh Seafood,Average Volume per Capita,Total,kilograms,Statista,0.232,0.231,0.231,0.231,0.225,0.23,0.232,0.233,0.236,0.239,0.243,0.247,0.252,0.247
+Czechia,Processed Fish & Seafood,Price per Unit,Average,USD (US$),Statista,10.28,9.054,9.53,10.59,12.05,12.15,12.61,14.36,15.64,16,16.32,16.65,16.98,17.32
+Czechia,Processed Fish & Seafood,Revenue,Total,million USD (US$),Statista,244.8,211.5,219.6,240.8,264,269.6,277.4,314.8,277.9,329.5,340.9,351.7,365.5,355.5
+Czechia,Processed Fish & Seafood,Revenue Change,Total,percent,Statista,,-13.603,3.83,9.654,9.635,2.121,2.893,13.482,-11.722,18.568,3.46,3.168,3.924,-2.736
+Czechia,Processed Fish & Seafood,Average Revenue per Capita,Total,USD (US$),Statista,23.12,19.95,20.68,22.63,24.75,25.22,25.9,29.35,25.88,30.66,31.7,32.7,33.97,33.04
+Czechia,Processed Fish & Seafood,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.733,99.702,99.667,99.627,99.581,99.529,,
+Czechia,Processed Fish & Seafood,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.267,0.298,0.333,0.373,0.419,0.471,,
+Czechia,Processed Fish & Seafood,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Processed Fish & Seafood,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Processed Fish & Seafood,Volume,Total,million kilograms,Statista,23.81,23.357,23.04,22.741,21.903,22.179,21.991,21.924,17.762,20.586,20.882,21.124,21.522,20.52
+Czechia,Processed Fish & Seafood,Volume Change,Total,percent,Statista,,-1.902,-1.357,-1.296,-3.687,1.262,-0.849,-0.306,-18.982,15.896,1.442,1.157,1.884,-4.656
+Czechia,Processed Fish & Seafood,Average Volume per Capita,Total,kilograms,Statista,2.248,2.203,2.17,2.137,2.054,2.075,2.053,2.044,1.654,1.916,1.942,1.964,2,1.907
+Czechia,Edible Oils,Price per Unit,Average,USD (US$),Statista,6.137,5.361,5.607,6.199,7.03,7.071,7.282,8.252,8.991,9.198,9.382,9.57,9.761,9.956
+Czechia,Edible Oils,Revenue,Total,million USD (US$),Statista,103.4,89.93,94.03,103.8,114.6,117.9,122.2,139.6,110.8,147.9,155,161.8,168.7,168.4
+Czechia,Edible Oils,Revenue Change,Total,percent,Statista,,-13.027,4.559,10.39,10.405,2.88,3.647,14.239,-20.63,33.484,4.801,4.387,4.265,-0.178
+Czechia,Edible Oils,Average Revenue per Capita,Total,USD (US$),Statista,9.763,8.483,8.855,9.758,10.75,11.03,11.41,13.02,10.32,13.76,14.42,15.04,15.68,15.65
+Czechia,Edible Oils,Online Revenue Share,Offline,percent,Statista,,,,99.842,99.819,99.794,99.738,99.706,99.67,99.629,99.583,99.529,,
+Czechia,Edible Oils,Online Revenue Share,Online,percent,Statista,,,,0.158,0.181,0.206,0.262,0.294,0.33,0.371,0.417,0.471,,
+Czechia,Edible Oils,Mobile/Desktop Split,Desktop,percent,Statista,,,,71.077,67.059,62.475,58.543,55.967,54.49,53.265,52.815,52.374,,
+Czechia,Edible Oils,Mobile/Desktop Split,Mobile,percent,Statista,,,,28.923,32.941,37.525,41.457,44.033,45.51,46.735,47.185,47.626,,
+Czechia,Edible Oils,Volume,Total,million liters,Statista,16.849,16.774,16.768,16.75,16.307,16.671,16.778,16.921,12.322,16.075,16.524,16.908,17.282,16.909
+Czechia,Edible Oils,Volume Change,Total,percent,Statista,,-0.442,-0.036,-0.108,-2.649,2.234,0.644,0.848,-27.178,30.457,2.793,2.326,2.212,-2.159
+Czechia,Edible Oils,Average Volume per Capita,Total,liters,Statista,1.591,1.582,1.579,1.574,1.529,1.56,1.567,1.578,1.148,1.496,1.537,1.572,1.606,1.572
+Czechia,Edible Oils,... in 5-liter bottles/cans,Edible Oils,5 L bottles,Statista,0.354,0.352,0.351,0.35,0.34,0.347,0.348,0.351,0.255,0.332,0.342,0.349,0.357,0.349
+Czechia,Edible Oils,... in 1-liter bottles/cans,Edible Oils,1 L bottles,Statista,1.768,1.758,1.755,1.749,1.699,1.733,1.741,1.753,1.275,1.662,1.708,1.747,1.785,1.746
+Czechia,Edible Oils,... in 0.5-liter bottles/cans,Edible Oils,0.5 L bottles,Statista,3.535,3.516,3.509,3.498,3.398,3.466,3.482,3.506,2.55,3.324,3.415,3.493,3.57,3.493
