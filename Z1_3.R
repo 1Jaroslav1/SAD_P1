@@ -2,17 +2,23 @@ source("Functions.R")
 source("Utils.R")
 library(dplyr)
 
-draw_histogram <- function(df, title, column_name, mean, sd, color) {
+draw_histogram <- function(df, column_name, mean, sd, color) {
    cat(column_name, ": ", "mean - ", mean, ', standard deviation = ', sd, '\n')
   ggplot(df) +
     geom_histogram(binwidth=0.1, aes(x = get(column_name), y = after_stat(density)), fill=paste(color, '1'), color=color) +
     xlab("Zmiana inflacji") +
     ylab("Gęstość") +
-    ggtitle(title) +
-    theme(
-      plot.title = element_text(size = 18)
-    ) +
     theme_light() +
+    theme(
+      plot.title = element_text(size = 18),
+      axis.title = element_text(size=20),
+      axis.title.x = element_text(margin = margin(20, 0, 20, 0)),
+      axis.title.y = element_text(margin = margin(0, 20, 0, 20)),
+      axis.text = element_text(
+        size=15,
+        face=3
+      )
+    ) +
     stat_function(fun = dnorm, args = list(mean=mean, sd=sd), col ='black')
 }
 
@@ -29,20 +35,33 @@ inflation_delta <- read_eu_inflation() %>%
     Date, Poland, France,  Romania
   ) %>% na.omit
 
+draw_histogram(inflation_delta,
+               "Poland",
+               mean(inflation_delta$Poland),
+               sd(inflation_delta$Poland),
+               "cadetblue")
+draw_histogram(inflation_delta,
+               "Romania",
+               mean(inflation_delta$Romania),
+               sd(inflation_delta$Romania),
+               "darkgoldenrod")
+draw_histogram(inflation_delta,
+               "France",
+               mean(inflation_delta$France),
+               sd(inflation_delta$France),
+               "firebrick")
+
 poland_plot <- draw_histogram(inflation_delta,
-               "Zmiana inflacji z miesiąca na miesiąc - Polska",
                "Poland",
                mean(inflation_delta$Poland),
                sd(inflation_delta$Poland),
                "cadetblue")
 romania_plot <- draw_histogram(inflation_delta,
-               "Zmiana inflacji z miesiąca na miesiąc - Rumunia",
                "Romania",
                mean(inflation_delta$Romania),
                sd(inflation_delta$Romania),
                "darkgoldenrod")
 france_plot <- draw_histogram(inflation_delta,
-               "Zmiana inflacji z miesiąca na miesiąc - Francja",
                "France",
                mean(inflation_delta$France),
                sd(inflation_delta$France),
