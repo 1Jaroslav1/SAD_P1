@@ -54,8 +54,8 @@ filter_ranges <- list(c(analysis_start, pandemic_start, "Przed pandemi1"),
 
 for (filter_range in filter_ranges) {
   title <- filter_range[3]
-  # for (country in countries) {
-  #   inflation_vs_deposits_plot(country, eu_deposits, eu_inflation, head(filter_range, 2), title)
-  # }
+  for (country in countries) {
+    inflation_vs_deposits_plot(country, eu_deposits, eu_inflation, head(filter_range, 2), title)
+  }
   aggregated_deposit_and_inflation_barplot(eu_deposits, eu_inflation, filter_range)
 }

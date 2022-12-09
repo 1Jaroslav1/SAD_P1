@@ -1,19 +1,20 @@
-source("Functions.R")
+source("Functions.R") #SAD sprawko - jak ma wyglądać
 source("Utils.R")
 library(dplyr)
 library(forecast)
 
-draw_barplots <- function(df, title, column_name, shape1, shape2) {
-  ggplot(df, aes(x = Date, y = get(column_name))) +
-    geom_bar(stat = "identity", position = "dodge") +
-    xlab("Country") +
-    ylab("Delta Infl") +
+draw_histogram <- function(df, title, column_name, mean, sd) {
+  ggplot(df) +
+    geom_histogram(binwidth=0.1, aes(x = get(column_name), y = after_stat(density))) +
+    xlab("Inflation delta") +
     ggtitle(title) +
     theme(
       plot.title = element_text(size = 18)
     ) +
+    xlim(-0.5,10) +
+    ylim(0,1) +
     theme_minimal() +
-    stat_function(fun = function(x) dbeta(as.numeric(x - date_min) / as.numeric(date_diff), shape1, shape2), col = 'red')
+    stat_function(fun = dnorm, args = list(mean=mean, sd=sd))
 }
 
 countries <- c("Poland", "France", "Romania")
@@ -31,12 +32,6 @@ inflation_delta <- read_eu_inflation() %>%
   ) %>%
   na.omit
 
-date_min <- min(inflation_delta$Date)
-date_max <- max(inflation_delta$Date)
-
-date_diff <- date_max - date_min
-
-draw_barplots(inflation_delta, "Inflation delta for Poland", "Poland", 20, 0.9)
-draw_barplots(inflation_delta, "Inflation delta for Romania", "Romania", 0.5, 0.5)
-draw_barplots(inflation_delta, "Inflation delta for France", "France", 0.5, 0.5)
-
+draw_histogram(inflation_delta, "Inflation delta for Poland", "Poland", mean(inflation_delta$Poland), sd(inflation_delta$Poland))
+draw_histogram(inflation_delta, "Inflation delta for Romania", "Romania",  mean(inflation_delta$Romania), sd(inflation_delta$Romania))
+draw_histogram(inflation_delta, "Inflation delta for France", "France",  mean(inflation_delta$France), sd(inflation_delta$France))
