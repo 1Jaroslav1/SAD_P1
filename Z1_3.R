@@ -2,6 +2,7 @@ source("Functions.R") #SAD sprawko - jak ma wyglądać
 source("Utils.R")
 library(dplyr)
 library(forecast)
+library(svglite)
 
 draw_histogram <- function(df, title, column_name, mean, sd) {
   ggplot(df) +
@@ -11,10 +12,10 @@ draw_histogram <- function(df, title, column_name, mean, sd) {
     theme(
       plot.title = element_text(size = 18)
     ) +
-    xlim(-0.5,10) +
+    xlim(-0.5,9) +
     ylim(0,1) +
     theme_minimal() +
-    stat_function(fun = dnorm, args = list(mean=mean, sd=sd))
+    stat_function(fun = dnorm, args = list(mean=mean, sd=sd), col ='red')
 }
 
 countries <- c("Poland", "France", "Romania")
@@ -32,6 +33,11 @@ inflation_delta <- read_eu_inflation() %>%
   ) %>%
   na.omit
 
-draw_histogram(inflation_delta, "Inflation delta for Poland", "Poland", mean(inflation_delta$Poland), sd(inflation_delta$Poland))
-draw_histogram(inflation_delta, "Inflation delta for Romania", "Romania",  mean(inflation_delta$Romania), sd(inflation_delta$Romania))
-draw_histogram(inflation_delta, "Inflation delta for France", "France",  mean(inflation_delta$France), sd(inflation_delta$France))
+poland_plot <- draw_histogram(inflation_delta, "Inflation delta for Poland", "Poland", mean(inflation_delta$Poland), sd(inflation_delta$Poland))
+romania_plot <- draw_histogram(inflation_delta, "Inflation delta for Romania", "Romania",  mean(inflation_delta$Romania), sd(inflation_delta$Romania))
+france_plot <- draw_histogram(inflation_delta, "Inflation delta for France", "France",  mean(inflation_delta$France), sd(inflation_delta$France))
+
+ggsave(file="plots/inflation_delta_poland.eps", plot=poland_plot, width=10, height=8)
+ggsave(file="plots/inflation_delta_france.eps", plot=france_plot, width=10, height=8)
+ggsave(file="plots/inflation_delta_romania.eps", plot=romania_plot, width=10, height=8)
+#todo beter fit
