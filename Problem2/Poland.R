@@ -77,5 +77,10 @@ data_value_plot(avg_food_price_pl_zl, "Green", "Green", "Poland average food cos
 data_value_plot(avg_gross_pl_zl, "Orange", "Orange", "Poland average salary per month (full-time)", "Salary in zł")
 
 
-cor.test(hicp_pl$Value, avg_food_price_pl$Value, method = "pearson")
-cor.test(hicp_pl$Value, avg_gross_pl$Value, method = "pearson")
+cor.test(hicp_pl$Value, avg_food_price_pl_zl$Value, method = "pearson")
+cor.test(hicp_pl$Value, avg_gross_pl_zl$Value, method = "pearson")
+cor.test(hicp_pl$Value, food_price_to_gross_df_pl$Value, method = "pearson")
+
+cor_visualization(hicp_pl, avg_food_price_pl_zl, "Inflation", "Food Cost")
+cor_visualization(hicp_pl, avg_gross_pl_zl, "Inflation", "Salary")
+cor_visualization(hicp_pl, food_price_to_gross_df_pl, "Inflation", "Ratio")
