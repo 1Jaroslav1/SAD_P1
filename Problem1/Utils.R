@@ -2,8 +2,8 @@ library(anytime)
 
 # ------ Periods ------
 analysis_start <- "2017-01-01"
-pandemic_start <- "2020-01-09"
-during_pandemic <- "2021-01-09"
+pandemic_start <- "2020-01-01"
+during_pandemic <- "2021-01-01"
 war_start <- "2022-02-01"
 now <- "2022-11-24"
 
