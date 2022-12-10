@@ -152,12 +152,13 @@ draw_stacked_metrics <- function(df, title) {
     )
 }
 
-draw_aggregated_barplots <- function(df, title, y_label) {
+draw_aggregated_barplots <- function(df, title) {
   ggplot(df, aes(x = Country, y = Values, fill = Metric, color = Metric)) +
-    geom_bar(stat = "identity", position = "dodge") +
+    geom_bar(stat = "identity", position = position_dodge(width = 0.9), width = 0.8) +
     xlab("Country") +
-    ylab(y_label) +
+    ylab("Mean") +
     theme_light() +
+    scale_y_continuous(limits = c(NA,18), expand = c(0, 0)) +
     ggtitle(title) +
     theme(
       plot.title=element_text(size = 25, hjust=0.5, vjust=0.5, face='bold', margin = margin(20, 0, 20, 0)),
@@ -167,9 +168,9 @@ draw_aggregated_barplots <- function(df, title, y_label) {
       axis.text = element_text(
         size = 15,
         face = 3
-      )
-    ) +
-    coord_flip()
+      ),
+      axis.text.x = element_text(angle = 60, hjust = 1)
+    )
 }
 
 # --------- Filters -----------
