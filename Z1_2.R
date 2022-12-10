@@ -44,6 +44,8 @@ aggregated_deposit_and_inflation_barplot <- function(deposits, inflation, filter
 }
 
 
+
+
 eu_inflation <- read_eu_inflation() %>% mutate(EU = NULL)
 eu_deposits <- read_eu_depositis()
 countries <- c("Poland", "Germany", "France", "Greece", "Czech.Republic")
@@ -55,7 +57,11 @@ filter_ranges <- list(c(analysis_start, pandemic_start, "Przed pandemi1"),
 for (filter_range in filter_ranges) {
   title <- filter_range[3]
   for (country in countries) {
-    inflation_vs_deposits_plot(country, eu_deposits, eu_inflation, head(filter_range, 2), title)
+    country_plot <- inflation_vs_deposits_plot(country, eu_deposits, eu_inflation, head(filter_range, 2), title)
+    ggsave(file = paste("plots/1.2/infl_dep_",country,filter_range[1],"_", filter_range[2],  ".png"), plot = country_plot, width = 10, height = 8)
+
+
   }
-  aggregated_deposit_and_inflation_barplot(eu_deposits, eu_inflation, filter_range)
+  barplot_inf <- aggregated_deposit_and_inflation_barplot(eu_deposits, eu_inflation, filter_range)
+  ggsave(file = paste("plots/1.2/","infl_dep_barplot" , filter_range[1],"_", filter_range[2], ".png"), plot = barplot_inf, width = 10, height = 8)
 }

@@ -138,9 +138,17 @@ draw_stacked_metrics <- function(df, title) {
     guides(fill = guide_legend(title = NULL)) +
     xlab("Date") +
     ylab("Value [%]") +
+    theme_light() +
     ggtitle(title) +
     theme(
-      plot.title = element_text(size = 18)
+      plot.title=element_text(size = 25, hjust=0.5, vjust=0.5, face='bold', margin = margin(20, 0, 20, 0)),
+      axis.title = element_text(size = 20),
+      axis.title.x = element_text(margin = margin(20, 0, 20, 0)),
+      axis.title.y = element_text(margin = margin(0, 20, 0, 20)),
+      axis.text = element_text(
+        size = 15,
+        face = 3
+      )
     )
 }
 
@@ -149,9 +157,17 @@ draw_aggregated_barplots <- function(df, title, y_label) {
     geom_bar(stat = "identity", position = "dodge") +
     xlab("Country") +
     ylab(y_label) +
+    theme_light() +
     ggtitle(title) +
     theme(
-      plot.title = element_text(size = 18)
+      plot.title=element_text(size = 25, hjust=0.5, vjust=0.5, face='bold', margin = margin(20, 0, 20, 0)),
+      axis.title = element_text(size = 20),
+      axis.title.x = element_text(margin = margin(20, 0, 20, 0)),
+      axis.title.y = element_text(margin = margin(0, 20, 0, 20)),
+      axis.text = element_text(
+        size = 15,
+        face = 3
+      )
     ) +
     coord_flip()
 }
