@@ -1,9 +1,9 @@
 library(tidyverse)
 library(anytime)
-source("Utils.R")
+source("./Problem1/Utils.R")
 
 read_eu_depositis <- function() {
-  eu_deposits <- read.csv("data/EU_deposits_1yr_data.csv")
+  eu_deposits <- read.csv("./Problem1/data/EU_deposits_1yr_data.csv")
 
   # filter out columns with null values for selected time periods
   empty_columns <- c("Lithuania..Lithuanian.litas",

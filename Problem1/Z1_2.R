@@ -1,6 +1,6 @@
-source("Utils.R")
-source("DepositDataPreparation.R")
-source("Functions.R")
+source("./Problem1/Utils.R")
+source("./Problem1/DepositDataPreparation.R")
+source("./Problem1/Functions.R")
 
 # helper functions
 inflation_vs_deposits_plot <- function(country_name, deposits, inflation, filter_range, plot_title) {
@@ -76,7 +76,7 @@ caluclate_and_plot_real_deposit_rate <- function(deposits, inflation, filter_ran
         )
       )
   }
-  ggsave(file = paste0("plots/1-2/deposit-rate", filter_range[1], "_", filter_range[2],".eps"), plot = draw_deposit_rate(deposits_long, filter_range[3]))
+  ggsave(file = paste0("./Problem1/plots/1-2/deposit-rate", filter_range[1], "_", filter_range[2],".eps"), plot = draw_deposit_rate(deposits_long, filter_range[3]))
 }
 
 
@@ -95,7 +95,7 @@ filter_ranges <- list(c(analysis_start, pandemic_start, "pre pandemic"),
 for (filter_range in filter_ranges) {
   title <- filter_range[3]
   barplot_inf <- aggregated_deposit_and_inflation_barplot(eu_deposits, eu_inflation, filter_range)
-  ggsave(file = paste0("plots/1-2/", "infl_dep_barplot", filter_range[1], "_", filter_range[2], ".eps"), plot = barplot_inf, width = 10, height = 8)
+  ggsave(file = paste0("./Problem1/plots/1-2/", "infl_dep_barplot", filter_range[1], "_", filter_range[2], ".eps"), plot = barplot_inf, width = 10, height = 8)
 }
 
 # deposit values
@@ -143,7 +143,7 @@ draw_deposits <- function(data_frame, title) {
 }
 
 deposit_change <- draw_deposits(deposits_long, "Depozyty")
-ggsave(file = "plots/1-2/deposit-change.eps", plot = deposit_change)
+ggsave(file = "./Problem1/plots/1-2/deposit-change.eps", plot = deposit_change)
 
 #wyliczenie realnej stopy procentowej
 caluclate_and_plot_real_deposit_rate

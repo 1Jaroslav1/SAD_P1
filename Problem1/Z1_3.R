@@ -1,5 +1,5 @@
-source("Functions.R")
-source("Utils.R")
+source("./Problem1/Functions.R")
+source("./Problem1/Utils.R")
 library(dplyr)
 
 draw_histogram <- function(df, title, column_name, mean, sd, color) {
@@ -98,15 +98,15 @@ france_plot <- draw_histogram(inflation_delta,
                               sd(inflation_delta$France),
                               "firebrick")
 
-ggsave(file = "plots/inflation_delta_poland.eps", plot = poland_plot, width = 10, height = 8)
-ggsave(file = "plots/inflation_delta_france.eps", plot = france_plot, width = 10, height = 8)
-ggsave(file = "plots/inflation_delta_romania.eps", plot = romania_plot, width = 10, height = 8)
+ggsave(file = "./Problem1/plots/inflation_delta_poland.eps", plot = poland_plot, width = 10, height = 8)
+ggsave(file = "./Problem1/plots/inflation_delta_france.eps", plot = france_plot, width = 10, height = 8)
+ggsave(file = "./Problem1/plots/inflation_delta_romania.eps", plot = romania_plot, width = 10, height = 8)
 
 
 inflation <- read_eu_inflation() %>% filter_by_time(time_range)
 poland <- draw_barplots(inflation, "Inflation - Poland", "Poland", "cadetblue")
 france <- draw_barplots(inflation, "Inflation - France", "France", "firebrick")
 romania <- draw_barplots(inflation, "Inflation - Romania", "Romania", "darkgoldenrod")
-ggsave(file = "plots/inflation_since2018_poland.png", plot = poland, width = 10, height = 8)
-ggsave(file = "plots/inflation_since2018_france.png", plot = france, width = 10, height = 8)
-ggsave(file = "plots/inflation_since2018_romania.png", plot = romania, width = 10, height = 8)
+ggsave(file = "./Problem1/plots/inflation_since2018_poland.png", plot = poland, width = 10, height = 8)
+ggsave(file = "./Problem1/plots/inflation_since2018_france.png", plot = france, width = 10, height = 8)
+ggsave(file = "./Problem1/plots/inflation_since2018_romania.png", plot = romania, width = 10, height = 8)

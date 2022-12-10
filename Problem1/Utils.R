@@ -8,7 +8,7 @@ war_start <- "2022-02-01"
 now <- "2022-11-24"
 
 read_eu_inflation <- function() {
-  eu_inflation = read.csv("data/EU_Inflation_HICP_data.csv")
+  eu_inflation = read.csv("./Problem1/data/EU_Inflation_HICP_data.csv")
 
   # Change columns name
 

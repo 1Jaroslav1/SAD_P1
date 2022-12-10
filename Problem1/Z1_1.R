@@ -1,5 +1,5 @@
-source("Functions.R")
-source("InflationDataPreparing.R")
+source("./Problem1/Functions.R")
+source("./Problem1/InflationDataPreparing.R")
 
 general_analyze_and_ploting <- function(data, title) {
   cat("-----", title, "---------\n")
@@ -34,11 +34,11 @@ during_war_inflation_plot <- draw_stacking_data(data_during_war, "Inflation duri
 during_war_inflation_box_plot <- draw_box_plot(data_during_war, "Inflation during the war")
 general_analyze_and_ploting(data_during_war, "Inflation during the war")
 
-ggsave(file = "./plots/before_pandemic_inflation_plot.eps", plot = before_pandemic_inflation_plot, width = 10, height = 8)
-ggsave(file = "./plots/before_pandemic_inflation_box_plot.eps", plot = before_pandemic_inflation_box_plot, width = 10, height = 8)
-ggsave(file = "./plots/during_pandemic_inflation_plot.eps", plot = during_pandemic_inflation_plot, width = 10, height = 8)
-ggsave(file = "./plots/during_pandemic_inflation_box_plot.eps", plot = during_pandemic_inflation_box_plot, width = 10, height = 8)
-ggsave(file = "./plots/before_war_inflation_plot.eps", plot = before_war_inflation_plot, width = 10, height = 8)
-ggsave(file = "./plots/before_war_inflation_box_plot.eps", plot = before_war_inflation_box_plot, width = 10, height = 8)
-ggsave(file = "./plots/during_war_inflation_plot.eps", plot = during_war_inflation_plot, width = 10, height = 8)
-ggsave(file = "./plots/during_war_inflation_box_plot.eps", plot = during_war_inflation_box_plot, width = 10, height = 8)
+ggsave(file = "./Problem1/plots/before_pandemic_inflation_plot.eps", plot = before_pandemic_inflation_plot, width = 10, height = 8)
+ggsave(file = "./Problem1/plots/before_pandemic_inflation_box_plot.eps", plot = before_pandemic_inflation_box_plot, width = 10, height = 8)
+ggsave(file = "./Problem1/plots/during_pandemic_inflation_plot.eps", plot = during_pandemic_inflation_plot, width = 10, height = 8)
+ggsave(file = "./Problem1/plots/during_pandemic_inflation_box_plot.eps", plot = during_pandemic_inflation_box_plot, width = 10, height = 8)
+ggsave(file = "./Problem1/plots/before_war_inflation_plot.eps", plot = before_war_inflation_plot, width = 10, height = 8)
+ggsave(file = "./Problem1/plots/before_war_inflation_box_plot.eps", plot = before_war_inflation_box_plot, width = 10, height = 8)
+ggsave(file = "./Problem1/plots/during_war_inflation_plot.eps", plot = during_war_inflation_plot, width = 10, height = 8)
+ggsave(file = "./Problem1/plots/during_war_inflation_box_plot.eps", plot = during_war_inflation_box_plot, width = 10, height = 8)
