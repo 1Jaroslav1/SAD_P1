@@ -149,8 +149,6 @@ deposit_change <- draw_deposits(deposits_long, "Depozyty")
 ggsave(file = "./Problem1/plots/1-2/deposit-change.eps", plot = deposit_change)
 
 #wyliczenie realnej stopy procentowej
-caluclate_and_plot_real_deposit_rate
-
 for (filter_range in filter_ranges){
   caluclate_and_plot_real_deposit_rate(eu_deposits, eu_inflation, filter_range)
 }
