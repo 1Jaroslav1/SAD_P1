@@ -56,3 +56,22 @@ cor_visualization <- function(first_df, second_df, xlab, y_lab) {
       legend.title = element_text(size = 20),
     )
 }
+
+donat_plot <- function(data) {
+  data$fraction = data$Count / sum(data$Count)
+
+  data$ymax = cumsum(data$fraction)
+
+  data$ymin = c(0, head(data$ymax, n=-1))
+  data$labelPosition <- (data$ymax + data$ymin) / 2
+  data$label <- paste0(data$Name, ": ", data$Count, '%')
+
+  ggplot(data, aes(ymax=ymax, ymin=ymin, xmax=4, xmin=3, fill=Name)) +
+    geom_rect() +
+    geom_label( x=3.5, aes(y=labelPosition, label=label), size=6) +
+    scale_fill_brewer(palette=4) +
+    coord_polar(theta="y") +
+    xlim(c(2, 4)) +
+    theme_void() +
+    theme(legend.position = "none")
+}

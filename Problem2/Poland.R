@@ -63,24 +63,35 @@ food_price_to_gross_df_pl = data.frame(Period = years_pl, Value = food_price_to_
 hicp_pl <- filter(hicp_pl, hicp_pl$Period >= 2014)
 
 colnames(hicp_pl)[2] = "Value"
-data_value_plot(hicp_pl, "Blue", "Blue", "Poland Inflation", "Inflation (%)")
+hicp_pl_plot <- data_value_plot(hicp_pl, "Blue", "Blue", "Poland Inflation", "Inflation (%)")
 data_value_plot(avg_food_price_pl, "Green", "Green", "Poland average food cost per month", "Price in $")
 
 colnames(avg_gross_pl)[2] = "Value"
-data_value_plot(avg_gross_pl, "Orange", "Orange", "Poland average salary per month (full-time)", "Salary in $")
-data_value_plot(food_price_to_gross_df_pl, "Red", "Red", "Poland ratio of salary to the price of food", "Ratio in %")
+avg_gross_pl_plot <- data_value_plot(avg_gross_pl, "Orange", "Orange", "Poland average salary per month (full-time)", "Salary in $")
+food_price_to_gross_df_pl_plot <- data_value_plot(food_price_to_gross_df_pl, "Red", "Red", "Poland ratio of salary to the price of food", "Ratio in %")
 
 avg_food_price_pl_zl = data.frame(Period = years_pl, Value = market_basket_cost_pl * as.double(exchage_values$Value))
 avg_gross_pl_zl <- data.frame(Period = years_pl, Value = avg_gross_pl$Value * as.double(exchage_values$Value))
 
-data_value_plot(avg_food_price_pl_zl, "Green", "Green", "Poland average food cost per month", "Price in zł")
-data_value_plot(avg_gross_pl_zl, "Orange", "Orange", "Poland average salary per month (full-time)", "Salary in zł")
+avg_food_price_pl_zl_plot <- data_value_plot(avg_food_price_pl_zl, "Green", "Green", "Poland average food cost per month", "Price in PLN")
+avg_gross_pl_zl_plot <- data_value_plot(avg_gross_pl_zl, "Orange", "Orange", "Poland average salary per month (full-time)", "Salary in PLN")
 
+food_name <- c("Mleko i przetwory", "Owoce i Warzywa", "Produkty zbożowe", "Mięso", "Ryby", "Inne")
+food_count_data <- c(26.8, 31.4, 17.3, 10.1, 2.5, 11.9)
+
+food_df <-data.frame(Name=food_name, Count=food_count_data)
 
 cor.test(hicp_pl$Value, avg_food_price_pl_zl$Value, method = "pearson")
 cor.test(hicp_pl$Value, avg_gross_pl_zl$Value, method = "pearson")
 cor.test(hicp_pl$Value, food_price_to_gross_df_pl$Value, method = "pearson")
 
-cor_visualization(hicp_pl, avg_food_price_pl_zl, "Inflation", "Food Cost")
-cor_visualization(hicp_pl, avg_gross_pl_zl, "Inflation", "Salary")
-cor_visualization(hicp_pl, food_price_to_gross_df_pl, "Inflation", "Ratio")
+cor_hicp_avr_food_plot <- cor_visualization(hicp_pl, avg_food_price_pl_zl, "Inflation", "Food Cost")
+cor_hicp_avr_gross_plot <- cor_visualization(hicp_pl, avg_gross_pl_zl, "Inflation", "Salary")
+
+ggsave(file = "./Problem2/plot_latex/hicp_pl_plot.eps", plot = hicp_pl_plot, width = 10, height = 8)
+ggsave(file = "./Problem2/plot_latex/avg_gross_pl_plot.eps", plot = avg_gross_pl_plot, width = 10, height = 8)
+ggsave(file = "./Problem2/plot_latex/food_price_to_gross_df_pl_plot.eps", plot = food_price_to_gross_df_pl_plot, width = 10, height = 8)
+ggsave(file = "./Problem2/plot_latex/avg_food_price_pl_zl_plot.eps", plot = avg_food_price_pl_zl_plot, width = 10, height = 8)
+ggsave(file = "./Problem2/plot_latex/avg_gross_pl_zl_plot.eps", plot = avg_gross_pl_zl_plot, width = 10, height = 8)
+ggsave(file = "./Problem2/plot_latex/cor_hicp_avr_food_plot.eps", plot = cor_hicp_avr_food_plot, width = 10, height = 8)
+ggsave(file = "./Problem2/plot_latex/cor_hicp_avr_gross_plot.eps", plot = cor_hicp_avr_gross_plot, width = 10, height = 8)
