@@ -3,13 +3,13 @@
 # HELP -> https://r-graph-gallery.com/stacked-area-graph.html
 
 library(ggplot2)
+library(plyr)
 library(dplyr)
 library(tidyr)
 library(readr)
 library(tidyverse)
 library(hrbrthemes)
 library(viridis)
-library(plyr)
 # --------- Data Frame -----------
 
 get_data_frame <- function(data) {
