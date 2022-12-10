@@ -53,10 +53,10 @@ general_inflation_DF <- data.frame(
   "Poland" = pl_inflation_DF[2]
 )
 
-colnames(general_inflation_DF)[2] <- "Europa"
-colnames(general_inflation_DF)[3] <- "Kraje w strefie Euro"
-colnames(general_inflation_DF)[4] <- "Kraje poza strefy Euro"
-colnames(general_inflation_DF)[5] <- "Polska"
+colnames(general_inflation_DF)[2] <- "Europe"
+colnames(general_inflation_DF)[3] <- "In the Eurozone"
+colnames(general_inflation_DF)[4] <- "Outside the Eurozone"
+colnames(general_inflation_DF)[5] <- "Poland"
 
 general_inflation_tidy_DF <- pivot_longer(general_inflation_DF, -Date, names_to = "Country", values_to = "Inflation")
 
