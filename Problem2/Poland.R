@@ -41,13 +41,13 @@ exchage_values$Value <- gsub(",", ".", exchage_values$Value)
 exchage_values$Value <- as.double(exchage_values$Value)
 exchage_values <- aggregate(exchage_values[-c(2)], exchage_values[c("Date")], mean, na.rm = TRUE)
 
-avg_gross_pl$Value <- (avg_gross_pl_zl$National_economy / exchage_values$Value)
-
 # 2014-2022
 
-years_pl <- avg_gross_pl$Period[1:9]
+years_pl <- avg_gross_pl_zl$Period[1:9]
 food_price_to_gross_pl <- c()
 market_basket_cost_pl <- c()
+
+avg_gross_pl <- data.frame(Period = years_pl, Value = (avg_gross_pl_zl$National_economy / exchage_values$Value))
 
 for(year in years_pl) {
   mb_pl <- getMonthMarketBasketByYear(food_pl, paste0("X", year, collapse = NULL)) #*  as.double(filter(exchage_values, exchage_values$Date == year)$Value)

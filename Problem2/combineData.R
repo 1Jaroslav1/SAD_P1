@@ -4,8 +4,8 @@ source("./Problem2/Czechia.R")
 
 draw_stacking_data <- function(data_frame, title, ylab) {
   ggplot(data_frame, aes(x = Period, y = Value, group = Country, color = Country)) +
-    scale_color_viridis(discrete = TRUE) +
-    geom_line(aes(color = Country), size = 1.5) +
+    # scale_color_viridis(discrete = TRUE) +
+    geom_line(aes(color = factor(Country)), size = 1.5) +
     scale_x_continuous(breaks = scales::pretty_breaks(n = 10)) +
     scale_y_continuous(breaks = scales::pretty_breaks(n = 10)) +
     geom_point(shape = 21, color = "black", fill = "black", size = 1.5) +
